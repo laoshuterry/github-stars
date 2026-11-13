@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:15:44+00:00",
+ "generated_at": "2026-11-13T18:17:25+00:00",
  "user": "laoshuterry",
  "total": 736,
  "stats": {
@@ -157,7 +157,7 @@
     "团队协作"
    ],
    "language": "TypeScript",
-   "stargazers_count": 113619,
+   "stargazers_count": 113620,
    "forks_count": 18856,
    "topics": [
     "acpx",
@@ -186,9 +186,9 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:14:31Z",
+   "pushed_at": "2026-11-13T18:17:13Z",
    "created_at": "2026-03-02T15:01:51Z",
-   "updated_at": "2026-11-13T18:10:57Z",
+   "updated_at": "2026-11-13T18:16:51Z",
    "starred_at": "2026-11-13T17:50:36Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/264498616?v=4"
   },
@@ -207,7 +207,7 @@
     "低代码"
    ],
    "language": "Python",
-   "stargazers_count": 161105,
+   "stargazers_count": 161106,
    "forks_count": 25477,
    "topics": [
     "agent",
@@ -237,7 +237,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T14:54:14Z",
    "created_at": "2023-04-12T07:40:24Z",
-   "updated_at": "2026-11-13T17:55:08Z",
+   "updated_at": "2026-11-13T18:17:06Z",
    "starred_at": "2026-11-13T17:50:20Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/127165244?v=4"
   },
@@ -398,7 +398,7 @@
     "CUDA"
    ],
    "language": "C",
-   "stargazers_count": 50777,
+   "stargazers_count": 50779,
    "forks_count": 6005,
    "topics": [],
    "homepage": "https://justvugg.github.io/colibri",
@@ -408,7 +408,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T16:44:29Z",
    "created_at": "2026-07-01T12:27:49Z",
-   "updated_at": "2026-11-13T18:11:09Z",
+   "updated_at": "2026-11-13T18:17:07Z",
    "starred_at": "2026-11-13T12:17:18Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/13022503?v=4"
   },
@@ -739,7 +739,7 @@
     "代码评审"
    ],
    "language": "Python",
-   "stargazers_count": 18504,
+   "stargazers_count": 18507,
    "forks_count": 1377,
    "topics": [
     "agent-skills",
@@ -766,7 +766,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T17:16:33Z",
    "created_at": "2026-09-13T16:31:06Z",
-   "updated_at": "2026-11-13T18:12:47Z",
+   "updated_at": "2026-11-13T18:16:57Z",
    "starred_at": "2026-11-13T05:43:31Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/1342004?v=4"
   },
@@ -939,7 +939,7 @@
    ],
    "language": "Rust",
    "stargazers_count": 31262,
-   "forks_count": 6388,
+   "forks_count": 6389,
    "topics": [],
    "homepage": "",
    "license": "Apache-2.0",
@@ -1080,7 +1080,7 @@
     "Claude Code"
    ],
    "language": "Shell",
-   "stargazers_count": 317153,
+   "stargazers_count": 317154,
    "forks_count": 28231,
    "topics": [
     "ai",
@@ -1099,7 +1099,7 @@
    "fork": false,
    "pushed_at": "2026-11-03T23:24:58Z",
    "created_at": "2025-10-09T19:45:18Z",
-   "updated_at": "2026-11-13T18:00:33Z",
+   "updated_at": "2026-11-13T18:16:53Z",
    "starred_at": "2026-11-13T05:42:01Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/45416?v=4"
   },
@@ -1210,7 +1210,7 @@
     "桌面应用"
    ],
    "language": "TypeScript",
-   "stargazers_count": 124251,
+   "stargazers_count": 124252,
    "forks_count": 7862,
    "topics": [
     "agent-ide",
@@ -1241,7 +1241,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T18:12:47Z",
    "created_at": "2026-03-17T03:28:57Z",
-   "updated_at": "2026-11-13T18:14:54Z",
+   "updated_at": "2026-11-13T18:15:48Z",
    "starred_at": "2026-11-13T05:41:36Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/127256420?v=4"
   },
@@ -1292,8 +1292,8 @@
     "TypeScript"
    ],
    "language": "Shell",
-   "stargazers_count": 323667,
-   "forks_count": 27162,
+   "stargazers_count": 323669,
+   "forks_count": 27163,
    "topics": [],
    "homepage": "https://aihero.dev/skills",
    "license": "MIT",
@@ -1302,7 +1302,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T12:30:31Z",
    "created_at": "2026-02-03T11:15:53Z",
-   "updated_at": "2026-11-13T18:14:37Z",
+   "updated_at": "2026-11-13T18:16:57Z",
    "starred_at": "2026-11-13T05:41:27Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/28293365?v=4"
   },
@@ -1615,7 +1615,7 @@
    ],
    "language": "Python",
    "stargazers_count": 4198,
-   "forks_count": 739,
+   "forks_count": 738,
    "topics": [
     "agent-skills",
     "ai-short-drama",
@@ -1710,7 +1710,7 @@
     "Agent Skills"
    ],
    "language": "TypeScript",
-   "stargazers_count": 19155,
+   "stargazers_count": 19156,
    "forks_count": 1807,
    "topics": [
     "agent-skills",
@@ -1735,7 +1735,7 @@
    "fork": false,
    "pushed_at": "2026-11-11T16:30:35Z",
    "created_at": "2026-07-19T11:44:41Z",
-   "updated_at": "2026-11-13T18:12:50Z",
+   "updated_at": "2026-11-13T18:15:44Z",
    "starred_at": "2026-11-13T05:38:34Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/18239147?v=4"
   },
@@ -1864,8 +1864,8 @@
     "本地AI"
    ],
    "language": "Python",
-   "stargazers_count": 109811,
-   "forks_count": 12169,
+   "stargazers_count": 109812,
+   "forks_count": 12170,
    "topics": [
     "ai",
     "audiobook",
@@ -1892,9 +1892,9 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:13:52Z",
+   "pushed_at": "2026-11-13T18:16:27Z",
    "created_at": "2026-04-09T21:40:26Z",
-   "updated_at": "2026-11-13T18:12:18Z",
+   "updated_at": "2026-11-13T18:16:55Z",
    "starred_at": "2026-11-13T05:34:24Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/4178343?v=4"
   },
@@ -1998,8 +1998,8 @@
     "自托管"
    ],
    "language": "Ruby",
-   "stargazers_count": 14562,
-   "forks_count": 1099,
+   "stargazers_count": 14564,
+   "forks_count": 1100,
    "topics": [],
    "homepage": "https://sure.am",
    "license": "AGPL-3.0",
@@ -2008,7 +2008,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T13:24:53Z",
    "created_at": "2025-07-23T04:13:55Z",
-   "updated_at": "2026-11-13T18:12:57Z",
+   "updated_at": "2026-11-13T18:16:41Z",
    "starred_at": "2026-11-13T05:12:44Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/222344567?v=4"
   },
@@ -2237,7 +2237,7 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:07:37Z",
+   "pushed_at": "2026-11-13T18:16:41Z",
    "created_at": "2026-09-23T16:22:35Z",
    "updated_at": "2026-11-13T18:07:39Z",
    "starred_at": "2026-11-13T04:44:07Z",
@@ -2687,7 +2687,7 @@
     "编程视频"
    ],
    "language": "TypeScript",
-   "stargazers_count": 72965,
+   "stargazers_count": 72966,
    "forks_count": 6112,
    "topics": [
     "javascript",
@@ -2701,7 +2701,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T16:05:48Z",
    "created_at": "2020-06-23T19:49:10Z",
-   "updated_at": "2026-11-13T18:11:23Z",
+   "updated_at": "2026-11-13T18:16:13Z",
    "starred_at": "2026-11-13T04:43:29Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/85344006?v=4"
   },
@@ -3893,7 +3893,7 @@
     "Skills"
    ],
    "language": "JavaScript",
-   "stargazers_count": 302360,
+   "stargazers_count": 302362,
    "forks_count": 44598,
    "topics": [
     "ai-agents",
@@ -3912,7 +3912,7 @@
    "fork": false,
    "pushed_at": "2026-11-09T04:56:24Z",
    "created_at": "2026-01-18T00:51:51Z",
-   "updated_at": "2026-11-13T18:14:44Z",
+   "updated_at": "2026-11-13T18:16:42Z",
    "starred_at": "2026-11-13T04:41:48Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/124439313?v=4"
   },
@@ -4041,7 +4041,7 @@
     "AI网关"
    ],
    "language": "Go",
-   "stargazers_count": 45993,
+   "stargazers_count": 45992,
    "forks_count": 9962,
    "topics": [
     "2api",
@@ -4061,7 +4061,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T13:35:48Z",
    "created_at": "2025-12-18T02:26:18Z",
-   "updated_at": "2026-11-13T16:46:21Z",
+   "updated_at": "2026-11-13T18:15:45Z",
    "starred_at": "2026-11-13T04:41:34Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/26101719?v=4"
   },
@@ -4239,7 +4239,7 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:00:39Z",
+   "pushed_at": "2026-11-13T18:15:43Z",
    "created_at": "2025-07-22T22:22:28Z",
    "updated_at": "2026-11-13T18:14:57Z",
    "starred_at": "2026-11-13T04:41:21Z",
@@ -5034,7 +5034,7 @@
     "最佳实践"
    ],
    "language": null,
-   "stargazers_count": 232784,
+   "stargazers_count": 232786,
    "forks_count": 23138,
    "topics": [],
    "homepage": "",
@@ -5044,7 +5044,7 @@
    "fork": false,
    "pushed_at": "2026-04-20T10:05:04Z",
    "created_at": "2026-01-27T03:53:13Z",
-   "updated_at": "2026-11-13T18:10:35Z",
+   "updated_at": "2026-11-13T18:17:05Z",
    "starred_at": "2026-11-05T07:39:22Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/254743058?v=4"
   },
@@ -5062,7 +5062,7 @@
     "Claude"
    ],
    "language": "JavaScript",
-   "stargazers_count": 190238,
+   "stargazers_count": 190239,
    "forks_count": 10620,
    "topics": [
     "agent-skills",
@@ -5083,7 +5083,7 @@
    "fork": false,
    "pushed_at": "2026-10-29T11:59:31Z",
    "created_at": "2026-06-12T00:52:37Z",
-   "updated_at": "2026-11-13T18:11:56Z",
+   "updated_at": "2026-11-13T18:16:22Z",
    "starred_at": "2026-11-05T07:38:54Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/137048761?v=4"
   },
@@ -5131,7 +5131,7 @@
    "fork": false,
    "pushed_at": "2026-11-10T13:03:58Z",
    "created_at": "2025-11-30T11:36:31Z",
-   "updated_at": "2026-11-13T18:13:59Z",
+   "updated_at": "2026-11-13T18:16:53Z",
    "starred_at": "2026-11-05T07:38:48Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/246974152?v=4"
   },
@@ -5149,7 +5149,7 @@
     "Agent"
    ],
    "language": "Python",
-   "stargazers_count": 147164,
+   "stargazers_count": 147165,
    "forks_count": 14106,
    "topics": [
     "ai-agents",
@@ -5180,7 +5180,7 @@
    "fork": false,
    "pushed_at": "2026-11-12T21:47:45Z",
    "created_at": "2026-04-03T15:49:07Z",
-   "updated_at": "2026-11-13T18:13:27Z",
+   "updated_at": "2026-11-13T18:15:53Z",
    "starred_at": "2026-11-05T07:38:44Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/297659074?v=4"
   },
@@ -5227,7 +5227,7 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:06:16Z",
+   "pushed_at": "2026-11-13T18:15:49Z",
    "created_at": "2026-04-15T05:27:37Z",
    "updated_at": "2026-11-13T17:59:18Z",
    "starred_at": "2026-11-05T07:38:36Z",
@@ -5397,7 +5397,7 @@
     "安全研究"
    ],
    "language": "TypeScript",
-   "stargazers_count": 457152,
+   "stargazers_count": 457154,
    "forks_count": 112211,
    "topics": [
     "agent-skills",
@@ -5426,9 +5426,9 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:06:32Z",
+   "pushed_at": "2026-11-13T18:16:53Z",
    "created_at": "2026-04-14T00:51:32Z",
-   "updated_at": "2026-11-13T18:15:32Z",
+   "updated_at": "2026-11-13T18:17:01Z",
    "starred_at": "2026-11-03T15:10:55Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/76467478?v=4"
   },
@@ -6617,7 +6617,7 @@
     "微软"
    ],
    "language": "Python",
-   "stargazers_count": 195221,
+   "stargazers_count": 195222,
    "forks_count": 14731,
    "topics": [
     "autogen",
@@ -6635,7 +6635,7 @@
    "fork": false,
    "pushed_at": "2026-11-07T00:14:01Z",
    "created_at": "2024-11-13T19:56:40Z",
-   "updated_at": "2026-11-13T18:07:40Z",
+   "updated_at": "2026-11-13T18:16:58Z",
    "starred_at": "2025-09-06T23:44:36Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
   },
@@ -11827,7 +11827,7 @@
     "微软"
    ],
    "language": "JavaScript",
-   "stargazers_count": 97129,
+   "stargazers_count": 97130,
    "forks_count": 16132,
    "topics": [
     "css",
@@ -11846,7 +11846,7 @@
    "fork": false,
    "pushed_at": "2026-11-11T11:06:59Z",
    "created_at": "2020-11-10T02:44:00Z",
-   "updated_at": "2026-11-13T17:48:56Z",
+   "updated_at": "2026-11-13T18:16:10Z",
    "starred_at": "2021-07-06T12:04:10Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4"
   },
@@ -14430,7 +14430,7 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T16:51:31Z",
+   "pushed_at": "2026-11-13T18:17:10Z",
    "created_at": "2014-12-08T18:58:53Z",
    "updated_at": "2026-11-13T18:14:35Z",
    "starred_at": "2019-08-21T17:17:23Z",
@@ -18773,7 +18773,7 @@
     "面试"
    ],
    "language": null,
-   "stargazers_count": 364344,
+   "stargazers_count": 364345,
    "forks_count": 85815,
    "topics": [
     "algorithm",
@@ -18796,7 +18796,7 @@
    "fork": false,
    "pushed_at": "2026-11-07T16:03:02Z",
    "created_at": "2016-06-06T02:34:12Z",
-   "updated_at": "2026-11-13T18:01:04Z",
+   "updated_at": "2026-11-13T18:16:40Z",
    "starred_at": "2018-05-03T02:05:13Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/3771963?v=4"
   },
@@ -20518,7 +20518,7 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T18:14:37Z",
+   "pushed_at": "2026-11-13T18:16:55Z",
    "created_at": "2012-02-13T17:29:58Z",
    "updated_at": "2026-11-13T18:00:14Z",
    "starred_at": "2017-05-21T23:36:27Z",
@@ -20661,7 +20661,7 @@
     "C语言"
    ],
    "language": "C",
-   "stargazers_count": 12776,
+   "stargazers_count": 12777,
    "forks_count": 1659,
    "topics": [
     "c",
@@ -20675,7 +20675,7 @@
    "fork": false,
    "pushed_at": "2026-11-13T17:26:58Z",
    "created_at": "2014-03-25T15:52:21Z",
-   "updated_at": "2026-11-13T17:49:32Z",
+   "updated_at": "2026-11-13T18:17:14Z",
    "starred_at": "2017-05-18T07:23:50Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/11667224?v=4"
   },
@@ -20709,7 +20709,7 @@
    "fork": false,
    "pushed_at": "2026-09-02T02:10:47Z",
    "created_at": "2014-07-11T13:42:37Z",
-   "updated_at": "2026-11-13T18:12:59Z",
+   "updated_at": "2026-11-13T18:17:21Z",
    "starred_at": "2017-04-20T02:12:04Z",
    "owner_avatar_url": "https://avatars.githubusercontent.com/u/170270?v=4"
   },
@@ -21029,7 +21029,7 @@
    "archived": false,
    "stale": false,
    "fork": false,
-   "pushed_at": "2026-11-13T01:24:39Z",
+   "pushed_at": "2026-11-13T18:16:17Z",
    "created_at": "2015-05-20T19:18:59Z",
    "updated_at": "2026-11-13T17:00:20Z",
    "starred_at": "2017-03-07T06:46:06Z",
@@ -22564,7 +22564,7 @@
    ],
    "language": "Swift",
    "stargazers_count": 70555,
-   "forks_count": 10904,
+   "forks_count": 10903,
    "topics": [],
    "homepage": "https://swift.org",
    "license": "Apache-2.0",
