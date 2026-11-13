@@ -1,0 +1,6625 @@
+{
+ "0voice/interview_internal_reference": {
+  "category": "cs-learning",
+  "summary_zh": "大厂技术面试题目与答案汇总",
+  "tags": [
+   "面试题",
+   "大厂",
+   "后端"
+  ]
+ },
+ "0x90d/videoduplicatefinder": {
+  "category": "utilities",
+  "summary_zh": "跨平台的重复视频查找工具",
+  "tags": [
+   "重复视频",
+   "文件清理",
+   "跨平台"
+  ]
+ },
+ "0xsline/OpenChatCut": {
+  "category": "aigc-video",
+  "summary_zh": "本地优先的对话式 AI 视频剪辑器，带专业多轨时间线",
+  "tags": [
+   "AI剪辑",
+   "视频编辑",
+   "本地优先"
+  ]
+ },
+ "1c7/chinese-independent-developer": {
+  "category": "awesome-lists",
+  "summary_zh": "中国独立开发者项目列表",
+  "tags": [
+   "独立开发",
+   "项目列表",
+   "中国"
+  ]
+ },
+ "2dust/v2rayN": {
+  "category": "proxy",
+  "summary_zh": "支持 Xray 与 sing-box 的 Windows/Linux/macOS 代理客户端",
+  "tags": [
+   "代理客户端",
+   "Xray",
+   "sing-box"
+  ]
+ },
+ "3b1b/manim": {
+  "category": "games-graphics",
+  "summary_zh": "3Blue1Brown 的数学讲解视频动画引擎",
+  "tags": [
+   "数学动画",
+   "Python",
+   "可视化"
+  ]
+ },
+ "500px/500pxPublisher.lrplugin": {
+  "category": "utilities",
+  "summary_zh": "直接发布照片到 500px 的 Lightroom 插件",
+  "tags": [
+   "Lightroom",
+   "500px",
+   "摄影"
+  ]
+ },
+ "96boards/documentation": {
+  "category": "os-hardware",
+  "summary_zh": "96Boards 开发板文档",
+  "tags": [
+   "96Boards",
+   "开发板",
+   "文档"
+  ]
+ },
+ "996icu/996.ICU": {
+  "category": "misc",
+  "summary_zh": "反对 996 工作制的抗议项目",
+  "tags": [
+   "996",
+   "程序员",
+   "劳动权益"
+  ]
+ },
+ "aandrew-me/ytDownloader": {
+  "category": "media",
+  "summary_zh": "可从数百个网站下载音视频的桌面应用",
+  "tags": [
+   "视频下载",
+   "桌面应用",
+   "yt-dlp"
+  ]
+ },
+ "Ableton/link": {
+  "category": "audio-music",
+  "summary_zh": "Ableton Link 多设备节拍同步技术库",
+  "tags": [
+   "节拍同步",
+   "Ableton",
+   "音乐"
+  ]
+ },
+ "Ableton/push-interface": {
+  "category": "audio-music",
+  "summary_zh": "Ableton Push 2 的 MIDI 与显示接口手册",
+  "tags": [
+   "Ableton",
+   "MIDI",
+   "硬件接口"
+  ]
+ },
+ "abngsa/smarthosts": {
+  "category": "proxy",
+  "summary_zh": "SmartHosts 翻墙 hosts 项目（导出自 Google Code）",
+  "tags": [
+   "hosts",
+   "翻墙",
+   "历史项目"
+  ]
+ },
+ "acmbpdc/openlib.cs": {
+  "category": "cs-learning",
+  "summary_zh": "大学计算机课程免费开放资源合集",
+  "tags": [
+   "CS课程",
+   "开放资源",
+   "大学"
+  ]
+ },
+ "addsumtech/slides_maker": {
+  "category": "design-slides",
+  "summary_zh": "把论文、代码与文档转成可编辑演示文稿",
+  "tags": [
+   "幻灯片",
+   "论文",
+   "AI办公"
+  ]
+ },
+ "addyosmani/agent-skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "面向 AI 编程 Agent 的生产级工程技能合集",
+  "tags": [
+   "Agent Skills",
+   "软件工程",
+   "Claude Code"
+  ]
+ },
+ "adobe/brackets": {
+  "category": "devtools",
+  "summary_zh": "Adobe 开源 Web 代码编辑器 Brackets",
+  "tags": [
+   "代码编辑器",
+   "Web",
+   "Adobe"
+  ]
+ },
+ "adriancable/8086tiny": {
+  "category": "os-hardware",
+  "summary_zh": "微型 8086 PC 模拟器",
+  "tags": [
+   "模拟器",
+   "8086",
+   "PC"
+  ]
+ },
+ "adrianpunk/Punk-Posters": {
+  "category": "design-slides",
+  "summary_zh": "为 AI Agent 生成文章封面图与头像图的视觉 Skill",
+  "tags": [
+   "封面图",
+   "头像生成",
+   "Agent Skills"
+  ]
+ },
+ "adrianstone55/SymbolSort": {
+  "category": "devtools",
+  "summary_zh": "测量 C++ 代码膨胀的工具",
+  "tags": [
+   "C++",
+   "代码体积",
+   "分析工具"
+  ]
+ },
+ "affaan-m/ECC": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Agent harness 性能优化系统，统一调优技能、直觉与反馈回路",
+  "tags": [
+   "Agent优化",
+   "Claude Code",
+   "Skills"
+  ]
+ },
+ "AFNetworking/AFNetworking": {
+  "category": "lang-lib",
+  "summary_zh": "iOS/macOS 网络框架 AFNetworking",
+  "tags": [
+   "网络库",
+   "iOS",
+   "Objective-C"
+  ]
+ },
+ "agalwood/Motrix": {
+  "category": "media",
+  "summary_zh": "全功能下载管理器",
+  "tags": [
+   "下载器",
+   "aria2",
+   "BT"
+  ]
+ },
+ "Agentchengfeng/chengfeng-videocut-skills": {
+  "category": "aigc-video",
+  "summary_zh": "用 Claude Code Skills 实现的中文视频剪辑 Agent",
+  "tags": [
+   "视频剪辑",
+   "Agent Skills",
+   "中文"
+  ]
+ },
+ "ageron/handson-ml": {
+  "category": "llm-ml",
+  "summary_zh": "《机器学习实战》第一版配套代码（已弃用）",
+  "tags": [
+   "机器学习",
+   "书籍代码",
+   "Scikit-Learn"
+  ]
+ },
+ "Ahmed-Ali/JSONExport": {
+  "category": "devtools",
+  "summary_zh": "把 JSON 转换为各语言模型类的 Mac 应用",
+  "tags": [
+   "JSON",
+   "代码生成",
+   "macOS"
+  ]
+ },
+ "ahoarau/mekabot": {
+  "category": "os-hardware",
+  "summary_zh": "Meka 机器人开源实时控制系统",
+  "tags": [
+   "机器人",
+   "实时控制",
+   "开源"
+  ]
+ },
+ "aisuhua/restful-api-design-references": {
+  "category": "cs-learning",
+  "summary_zh": "RESTful API 设计参考文献列表",
+  "tags": [
+   "RESTful",
+   "API设计",
+   "参考资料"
+  ]
+ },
+ "alchaincyf/huashu-design": {
+  "category": "design-slides",
+  "summary_zh": "一句话生成可交付设计的 Agent Skill：网页、App 原型、PPTX 与动画",
+  "tags": [
+   "AI设计",
+   "原型",
+   "PPT"
+  ]
+ },
+ "alexfreud/winamp": {
+  "category": "media",
+  "summary_zh": "经典多媒体播放器 Winamp 的开源源码",
+  "tags": [
+   "音乐播放器",
+   "Winamp",
+   "经典软件"
+  ]
+ },
+ "Alishahryar1/free-claude-code": {
+  "category": "ai-agent-skills",
+  "summary_zh": "让 Claude Code、Codex 等工具免费接入多种模型的代理",
+  "tags": [
+   "Claude Code",
+   "模型代理",
+   "免费"
+  ]
+ },
+ "aliyun/ai-agent-handbook": {
+  "category": "ai-agent-skills",
+  "summary_zh": "阿里云出品的企业级 AI Agent 全生命周期构建实践指南",
+  "tags": [
+   "AI Agent",
+   "企业应用",
+   "指南"
+  ]
+ },
+ "alt/tex-overview": {
+  "category": "cs-learning",
+  "summary_zh": "TeX 引擎概览与 TeX 历史",
+  "tags": [
+   "TeX",
+   "LaTeX",
+   "排版"
+  ]
+ },
+ "alyssaxuu/omni": {
+  "category": "utilities",
+  "summary_zh": "集书签、标签页与命令于一体的效率浏览器扩展",
+  "tags": [
+   "浏览器扩展",
+   "效率",
+   "书签"
+  ]
+ },
+ "amix/vimrc": {
+  "category": "devtools",
+  "summary_zh": "终极 Vim 配置",
+  "tags": [
+   "Vim",
+   "配置文件",
+   "vimrc"
+  ]
+ },
+ "analogdevicesinc/hdl": {
+  "category": "os-hardware",
+  "summary_zh": "ADI 官方 FPGA HDL 库与参考设计",
+  "tags": [
+   "FPGA",
+   "HDL",
+   "ADI"
+  ]
+ },
+ "andreavolpato/spektrafilm": {
+  "category": "games-graphics",
+  "summary_zh": "模拟胶片摄影光谱化学过程的工具",
+  "tags": [
+   "胶片模拟",
+   "摄影",
+   "图像处理"
+  ]
+ },
+ "android/architecture-samples": {
+  "category": "lang-lib",
+  "summary_zh": "安卓架构模式示例合集",
+  "tags": [
+   "安卓",
+   "架构",
+   "示例"
+  ]
+ },
+ "Anduin2017/HowToCook": {
+  "category": "life-growth",
+  "summary_zh": "程序员做饭指南，提供详细的家常菜谱、用量与步骤",
+  "tags": [
+   "菜谱",
+   "做饭",
+   "生活"
+  ]
+ },
+ "ansible/ansible": {
+  "category": "devtools",
+  "summary_zh": "简单强大的 IT 自动化平台 Ansible",
+  "tags": [
+   "自动化运维",
+   "Ansible",
+   "配置管理"
+  ]
+ },
+ "anthropics/skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Anthropic 官方的 Agent Skills 公开仓库",
+  "tags": [
+   "Agent Skills",
+   "Anthropic",
+   "官方"
+  ]
+ },
+ "Anvil/bash-doxygen": {
+  "category": "devtools",
+  "summary_zh": "bash 脚本的 Doxygen 过滤器",
+  "tags": [
+   "Doxygen",
+   "bash",
+   "文档生成"
+  ]
+ },
+ "aosabook/500lines": {
+  "category": "cs-learning",
+  "summary_zh": "《500 行以内》精简程序设计案例集",
+  "tags": [
+   "程序设计",
+   "书籍",
+   "示例代码"
+  ]
+ },
+ "aosabook/aosabook": {
+  "category": "cs-learning",
+  "summary_zh": "《开源软件架构》书稿",
+  "tags": [
+   "软件架构",
+   "开源",
+   "书籍"
+  ]
+ },
+ "apache/echarts": {
+  "category": "web-frontend",
+  "summary_zh": "Apache ECharts 交互式图表与可视化库",
+  "tags": [
+   "图表",
+   "数据可视化",
+   "ECharts"
+  ]
+ },
+ "apachecn/sec-books-part1": {
+  "category": "security",
+  "summary_zh": "网络安全类绝版图书合集",
+  "tags": [
+   "网络安全",
+   "电子书",
+   "绝版书"
+  ]
+ },
+ "apohl79/GuitarAmp": {
+  "category": "audio-music",
+  "summary_zh": "实验性的吉他放大器建模插件",
+  "tags": [
+   "吉他音箱",
+   "模拟建模",
+   "音频插件"
+  ]
+ },
+ "appium/appium": {
+  "category": "devtools",
+  "summary_zh": "跨平台移动应用自动化测试框架",
+  "tags": [
+   "自动化测试",
+   "移动端",
+   "Appium"
+  ]
+ },
+ "apple/password-manager-resources": {
+  "category": "security",
+  "summary_zh": "密码管理器开发者与用户的协作资源",
+  "tags": [
+   "密码管理",
+   "苹果",
+   "安全"
+  ]
+ },
+ "ara-mkr/claude-artisan": {
+  "category": "design-slides",
+  "summary_zh": "可按 224 种设计风格生成生产级 UI 组件的 Claude Skill",
+  "tags": [
+   "UI组件",
+   "设计风格",
+   "Claude Skill"
+  ]
+ },
+ "Ardour/ardour": {
+  "category": "audio-music",
+  "summary_zh": "开源数字音频工作站 Ardour",
+  "tags": [
+   "DAW",
+   "录音",
+   "音频"
+  ]
+ },
+ "ArduPilot/ardupilot": {
+  "category": "os-hardware",
+  "summary_zh": "ArduPilot 飞控（固定翼、多旋翼、车、船）",
+  "tags": [
+   "飞控",
+   "无人机",
+   "ArduPilot"
+  ]
+ },
+ "aria2/aria2": {
+  "category": "media",
+  "summary_zh": "轻量多协议多源下载工具 aria2",
+  "tags": [
+   "下载工具",
+   "aria2",
+   "BT"
+  ]
+ },
+ "aristocratos/btop": {
+  "category": "utilities",
+  "summary_zh": "终端资源监控工具",
+  "tags": [
+   "系统监控",
+   "终端",
+   "C++"
+  ]
+ },
+ "armbian/community": {
+  "category": "os-hardware",
+  "summary_zh": "Armbian 社区维护版本的自动构建发布",
+  "tags": [
+   "Armbian",
+   "ARM",
+   "Linux发行版"
+  ]
+ },
+ "armbian/documentation": {
+  "category": "os-hardware",
+  "summary_zh": "Armbian 用户指南与开发文档",
+  "tags": [
+   "Armbian",
+   "文档",
+   "ARM"
+  ]
+ },
+ "arvidn/libtorrent": {
+  "category": "media",
+  "summary_zh": "高效完整的 C++ BitTorrent 库",
+  "tags": [
+   "BitTorrent",
+   "C++",
+   "库"
+  ]
+ },
+ "astralapp/astral": {
+  "category": "utilities",
+  "summary_zh": "轻松整理 GitHub Star 的工具",
+  "tags": [
+   "GitHub Star",
+   "整理",
+   "标签"
+  ]
+ },
+ "Asuswrt-Merlin/asuswrt-merlin.legacy": {
+  "category": "os-hardware",
+  "summary_zh": "华硕路由器增强固件 Merlin（旧代码库）",
+  "tags": [
+   "路由器固件",
+   "华硕",
+   "Merlin"
+  ]
+ },
+ "atnikos/teach": {
+  "category": "llm-ml",
+  "summary_zh": "TEACH 时序动作组合生成 3D 人体动作论文代码",
+  "tags": [
+   "动作生成",
+   "论文代码",
+   "PyTorch"
+  ]
+ },
+ "atom-archive/xray": {
+  "category": "devtools",
+  "summary_zh": "实验性的下一代 Electron 文本编辑器",
+  "tags": [
+   "文本编辑器",
+   "Electron",
+   "实验项目"
+  ]
+ },
+ "atom/atom": {
+  "category": "devtools",
+  "summary_zh": "可定制的 Atom 文本编辑器",
+  "tags": [
+   "Atom",
+   "编辑器",
+   "Electron"
+  ]
+ },
+ "audiorouterdev/audio-router": {
+  "category": "audio-music",
+  "summary_zh": "把不同程序的声音路由到不同音频设备",
+  "tags": [
+   "音频路由",
+   "Windows",
+   "工具"
+  ]
+ },
+ "Aufree/trip-to-iOS": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 iOS 开发资源",
+  "tags": [
+   "iOS",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "Automattic/pocket-casts-ios": {
+  "category": "media",
+  "summary_zh": "Pocket Casts 播客 iOS 应用源码",
+  "tags": [
+   "播客",
+   "iOS",
+   "开源应用"
+  ]
+ },
+ "Avik-Jain/100-Days-Of-ML-Code": {
+  "category": "llm-ml",
+  "summary_zh": "100 天机器学习编程打卡",
+  "tags": [
+   "机器学习",
+   "入门",
+   "打卡"
+  ]
+ },
+ "awesomedata/awesome-public-datasets": {
+  "category": "awesome-lists",
+  "summary_zh": "按主题整理的高质量公开数据集列表",
+  "tags": [
+   "数据集",
+   "Awesome",
+   "开放数据"
+  ]
+ },
+ "ayufan/steam-deck-tools": {
+  "category": "games-graphics",
+  "summary_zh": "在 Windows 上控制 Steam Deck 风扇、性能与手柄的工具",
+  "tags": [
+   "Steam Deck",
+   "Windows",
+   "掌机"
+  ]
+ },
+ "AZeC4/TelegramGroup": {
+  "category": "misc",
+  "summary_zh": "收集的上万个 Telegram 群组与机器人合集",
+  "tags": [
+   "Telegram",
+   "群组",
+   "导航"
+  ]
+ },
+ "azzvx/gogotester": {
+  "category": "proxy",
+  "summary_zh": "GoAgent 可用谷歌 IP 测试工具（无说明文档）",
+  "tags": [
+   "GoAgent",
+   "IP测试",
+   "翻墙"
+  ]
+ },
+ "bannedbook/fanqiang": {
+  "category": "proxy",
+  "summary_zh": "翻墙与科学上网教程和工具",
+  "tags": [
+   "翻墙",
+   "科学上网",
+   "教程"
+  ]
+ },
+ "barretlee/online-markdown": {
+  "category": "content-creation",
+  "summary_zh": "面向微信公众号排版的在线 Markdown 转换器",
+  "tags": [
+   "公众号排版",
+   "Markdown",
+   "在线工具"
+  ]
+ },
+ "benjitaylor/skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Benji Taylor 的 AI 编程 Agent Skills 集",
+  "tags": [
+   "Agent Skills",
+   "编程Agent"
+  ]
+ },
+ "bilibili/ailab": {
+  "category": "llm-ml",
+  "summary_zh": "B 站开源的动漫图像超分辨率模型 Real-CUGAN",
+  "tags": [
+   "超分辨率",
+   "动漫",
+   "B站"
+  ]
+ },
+ "bilibili/flv.js": {
+  "category": "media",
+  "summary_zh": "B 站开源的 HTML5 FLV 播放器",
+  "tags": [
+   "FLV",
+   "播放器",
+   "HTML5"
+  ]
+ },
+ "bitcoin/bitcoin": {
+  "category": "finance-blockchain",
+  "summary_zh": "比特币核心 Bitcoin Core",
+  "tags": [
+   "比特币",
+   "区块链",
+   "C++"
+  ]
+ },
+ "bitcoinbook/bitcoinbook": {
+  "category": "finance-blockchain",
+  "summary_zh": "《精通比特币》第三版开源书稿",
+  "tags": [
+   "比特币",
+   "区块链",
+   "电子书"
+  ]
+ },
+ "bittorrent/xbmc": {
+  "category": "media",
+  "summary_zh": "Kodi 媒体中心主仓库（分支）",
+  "tags": [
+   "Kodi",
+   "媒体中心",
+   "播放器"
+  ]
+ },
+ "bitwarden/server": {
+  "category": "self-hosted",
+  "summary_zh": "Bitwarden 密码管理器的服务端（API、数据库、Docker）",
+  "tags": [
+   "密码管理",
+   "自托管",
+   "服务端"
+  ]
+ },
+ "black7375/Firefox-UI-Fix": {
+  "category": "utilities",
+  "summary_zh": "改进 Firefox Proton 界面的 CSS 主题",
+  "tags": [
+   "Firefox",
+   "浏览器美化",
+   "CSS"
+  ]
+ },
+ "blader/humanizer": {
+  "category": "content-creation",
+  "summary_zh": "去除文本中 AI 写作痕迹的 Agent Skill",
+  "tags": [
+   "去AI味",
+   "写作",
+   "Agent Skills"
+  ]
+ },
+ "bleedline/aimoneyhunter": {
+  "category": "life-growth",
+  "summary_zh": "AI 副业赚钱项目合集",
+  "tags": [
+   "AI副业",
+   "赚钱",
+   "资源合集"
+  ]
+ },
+ "BleuBleu/FamiStudio": {
+  "category": "audio-music",
+  "summary_zh": "FC/NES 音乐编辑器",
+  "tags": [
+   "NES",
+   "芯片音乐",
+   "音乐编辑"
+  ]
+ },
+ "Blizzard/s2client-proto": {
+  "category": "games-graphics",
+  "summary_zh": "星际争霸 II 客户端通信协议定义",
+  "tags": [
+   "星际争霸2",
+   "协议",
+   "暴雪"
+  ]
+ },
+ "Blizzard/s2protocol": {
+  "category": "games-graphics",
+  "summary_zh": "解析星际争霸 II 录像协议的 Python 库",
+  "tags": [
+   "星际争霸2",
+   "录像解析",
+   "Python"
+  ]
+ },
+ "BluePointLilac/ContextMenuManager": {
+  "category": "utilities",
+  "summary_zh": "纯粹的 Windows 右键菜单管理程序",
+  "tags": [
+   "右键菜单",
+   "Windows",
+   "系统工具"
+  ]
+ },
+ "bojieli/ai-agent-book": {
+  "category": "ai-agent-skills",
+  "summary_zh": "《深入理解 AI Agent：设计原理与工程实践》开源书稿与配套代码",
+  "tags": [
+   "AI Agent",
+   "电子书",
+   "工程实践"
+  ]
+ },
+ "bozhouDev/codex-orange-book": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Codex 橙皮书：从安装到实战的非官方 Codex 使用指南",
+  "tags": [
+   "Codex",
+   "教程",
+   "电子书"
+  ]
+ },
+ "BradLarson/GPUImage": {
+  "category": "lang-lib",
+  "summary_zh": "基于 GPU 的 iOS 图像视频处理框架",
+  "tags": [
+   "GPU",
+   "图像处理",
+   "iOS"
+  ]
+ },
+ "browser-use/video-use": {
+  "category": "aigc-video",
+  "summary_zh": "用编程 Agent 剪辑视频的工具",
+  "tags": [
+   "视频剪辑",
+   "编程Agent",
+   "Browser Use"
+  ]
+ },
+ "BryceYuuu/RUN": {
+  "category": "life-growth",
+  "summary_zh": "中国护照持有人海外移居手册，含欧洲 36 国移民路线",
+  "tags": [
+   "移民",
+   "数字游民",
+   "签证"
+  ]
+ },
+ "burness/tensorflow-101": {
+  "category": "llm-ml",
+  "summary_zh": "TensorFlow 学习代码",
+  "tags": [
+   "TensorFlow",
+   "入门",
+   "深度学习"
+  ]
+ },
+ "BurningC4/Chinese-IPTV": {
+  "category": "media",
+  "summary_zh": "中国大陆 CCTV 直播源列表（IPv4）",
+  "tags": [
+   "IPTV",
+   "直播源",
+   "CCTV"
+  ]
+ },
+ "BVLC/caffe": {
+  "category": "llm-ml",
+  "summary_zh": "快速的开源深度学习框架 Caffe",
+  "tags": [
+   "深度学习框架",
+   "Caffe",
+   "计算机视觉"
+  ]
+ },
+ "byoungd/up": {
+  "category": "life-growth",
+  "summary_zh": "中英双语终身学习指南，涵盖 AI、学习、创业、财富与人生",
+  "tags": [
+   "个人成长",
+   "终身学习",
+   "英语学习"
+  ]
+ },
+ "bytedance/IconPark": {
+  "category": "web-frontend",
+  "summary_zh": "字节跳动开源图标库，可转换多主题与 React 组件",
+  "tags": [
+   "图标",
+   "SVG",
+   "React"
+  ]
+ },
+ "bytedance/xgplayer": {
+  "category": "media",
+  "summary_zh": "字节跳动的 HTML5 视频播放器，内置省流量解析器",
+  "tags": [
+   "视频播放器",
+   "HTML5",
+   "FLV"
+  ]
+ },
+ "caixiongjiang/HPC": {
+  "category": "cs-learning",
+  "summary_zh": "高性能计算课程、CUDA 编程实例与深度学习推理框架",
+  "tags": [
+   "高性能计算",
+   "CUDA",
+   "推理"
+  ]
+ },
+ "carlomorelli/tlvtree": {
+  "category": "network-telecom",
+  "summary_zh": "简单的 Python TLV 结构分析器",
+  "tags": [
+   "TLV",
+   "解析",
+   "Python"
+  ]
+ },
+ "cathrynlavery/diagram-design": {
+  "category": "design-slides",
+  "summary_zh": "为 Claude Code、Codex 等生成编辑风图表的 Skill",
+  "tags": [
+   "图表设计",
+   "Diagram",
+   "Agent Skills"
+  ]
+ },
+ "cdhigh/KindleEar": {
+  "category": "utilities",
+  "summary_zh": "聚合 RSS 与网页内容推送到 Kindle",
+  "tags": [
+   "Kindle",
+   "RSS",
+   "推送"
+  ]
+ },
+ "cdyforever/how-to-live-better": {
+  "category": "life-growth",
+  "summary_zh": "《高性价比人生指南》全书单页在线阅读版，可搜索离线",
+  "tags": [
+   "生活建议",
+   "在线阅读",
+   "单页"
+  ]
+ },
+ "Celemony/ARA_SDK": {
+  "category": "audio-music",
+  "summary_zh": "ARA 音频插件扩展 SDK",
+  "tags": [
+   "ARA",
+   "音频插件",
+   "SDK"
+  ]
+ },
+ "cfregly/ai-performance-engineering": {
+  "category": "llm-ml",
+  "summary_zh": "O'Reilly《AI 系统性能工程》的代码、实验与资源",
+  "tags": [
+   "AI性能",
+   "GPU",
+   "性能优化"
+  ]
+ },
+ "chaipangpang/ResNet_cifar": {
+  "category": "llm-ml",
+  "summary_zh": "TensorFlow 实现的 ResNet CIFAR 分类",
+  "tags": [
+   "ResNet",
+   "TensorFlow",
+   "图像分类"
+  ]
+ },
+ "changkun/modern-cpp-tutorial": {
+  "category": "cs-learning",
+  "summary_zh": "现代 C++ 教程：从 C++11 到 C++26",
+  "tags": [
+   "现代C++",
+   "教程",
+   "中文"
+  ]
+ },
+ "chenxin061/pdarts": {
+  "category": "llm-ml",
+  "summary_zh": "渐进式可微分架构搜索 P-DARTS 论文代码",
+  "tags": [
+   "神经架构搜索",
+   "论文代码",
+   "AutoML"
+  ]
+ },
+ "chinese-poetry/chinese-poetry": {
+  "category": "life-growth",
+  "summary_zh": "最全中华古诗词数据库，收录唐宋诗词",
+  "tags": [
+   "古诗词",
+   "数据库",
+   "中文"
+  ]
+ },
+ "Chowdhury-DSP/BYOD": {
+  "category": "audio-music",
+  "summary_zh": "自由搭建吉他失真效果的音频插件",
+  "tags": [
+   "吉他效果",
+   "失真",
+   "音频插件"
+  ]
+ },
+ "chrislgarry/Apollo-11": {
+  "category": "os-hardware",
+  "summary_zh": "阿波罗 11 号制导计算机原始源码",
+  "tags": [
+   "阿波罗",
+   "航天",
+   "历史源码"
+  ]
+ },
+ "cisco/openh264": {
+  "category": "media",
+  "summary_zh": "思科开源的 H.264 编解码器",
+  "tags": [
+   "H.264",
+   "编解码",
+   "视频"
+  ]
+ },
+ "cmliu/edgetunnel": {
+  "category": "proxy",
+  "summary_zh": "基于 Cloudflare 的 VLESS/Trojan/SS 多功能代理面板",
+  "tags": [
+   "Cloudflare",
+   "代理面板",
+   "VLESS"
+  ]
+ },
+ "CMoncur/tor_box": {
+  "category": "proxy",
+  "summary_zh": "树莓派一体化 Tor 配置",
+  "tags": [
+   "Tor",
+   "树莓派",
+   "匿名网络"
+  ]
+ },
+ "cocos2d/cocos2d-x": {
+  "category": "games-graphics",
+  "summary_zh": "跨平台游戏开发框架 Cocos2d-x",
+  "tags": [
+   "游戏引擎",
+   "Cocos2d-x",
+   "C++"
+  ]
+ },
+ "codota/TabNine": {
+  "category": "devtools",
+  "summary_zh": "AI 代码自动补全工具",
+  "tags": [
+   "代码补全",
+   "AI编程",
+   "编辑器插件"
+  ]
+ },
+ "Comfy-Org/ComfyUI": {
+  "category": "aigc-video",
+  "summary_zh": "模块化的扩散模型图形界面、API 与后端",
+  "tags": [
+   "ComfyUI",
+   "扩散模型",
+   "AI绘图"
+  ]
+ },
+ "commonmark/commonmark-spec": {
+  "category": "lang-lib",
+  "summary_zh": "CommonMark Markdown 规范及 C/JS 参考实现",
+  "tags": [
+   "Markdown",
+   "规范",
+   "CommonMark"
+  ]
+ },
+ "composio-community/awesome-codex-skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "精选实用 Codex Skills 列表，用于自动化各类工作流",
+  "tags": [
+   "Codex",
+   "Agent Skills",
+   "Awesome"
+  ]
+ },
+ "cookiecutter/cookiecutter": {
+  "category": "devtools",
+  "summary_zh": "根据模板创建项目的命令行工具 Cookiecutter",
+  "tags": [
+   "项目模板",
+   "脚手架",
+   "Python"
+  ]
+ },
+ "coolsnowwolf/lede": {
+  "category": "os-hardware",
+  "summary_zh": "Lean 的 LEDE/OpenWrt 固件源码",
+  "tags": [
+   "OpenWrt",
+   "路由器固件",
+   "LEDE"
+  ]
+ },
+ "coreboot/coreboot": {
+  "category": "os-hardware",
+  "summary_zh": "开源固件 coreboot 只读镜像",
+  "tags": [
+   "coreboot",
+   "BIOS",
+   "固件"
+  ]
+ },
+ "corkami/pics": {
+  "category": "security",
+  "summary_zh": "文件格式解剖图等资料",
+  "tags": [
+   "文件格式",
+   "逆向",
+   "图解"
+  ]
+ },
+ "CorsixTH/CorsixTH": {
+  "category": "games-graphics",
+  "summary_zh": "《主题医院》开源重制版",
+  "tags": [
+   "主题医院",
+   "游戏重制",
+   "开源"
+  ]
+ },
+ "coyove/goflyway": {
+  "category": "proxy",
+  "summary_zh": "加密 HTTP 代理服务器",
+  "tags": [
+   "加密代理",
+   "Go",
+   "隧道"
+  ]
+ },
+ "cpp-best-practices/cppbestpractices": {
+  "category": "cs-learning",
+  "summary_zh": "社区协作的 C++ 最佳实践合集",
+  "tags": [
+   "C++",
+   "最佳实践",
+   "编码规范"
+  ]
+ },
+ "Cpp-Club/Cxx_HOPL4_zh": {
+  "category": "cs-learning",
+  "summary_zh": "Stroustrup HOPL4 论文中文翻译",
+  "tags": [
+   "C++",
+   "语言历史",
+   "中文翻译"
+  ]
+ },
+ "crosire/reshade": {
+  "category": "games-graphics",
+  "summary_zh": "面向游戏与视频的通用后处理注入器 ReShade",
+  "tags": [
+   "ReShade",
+   "游戏画质",
+   "后处理"
+  ]
+ },
+ "Crosstalk-Solutions/project-nomad": {
+  "category": "self-hosted",
+  "summary_zh": "离线优先的知识与教育服务器，内置维基等资源",
+  "tags": [
+   "离线知识库",
+   "自托管",
+   "教育"
+  ]
+ },
+ "Cryptogenic/PS4-4.05-Kernel-Exploit": {
+  "category": "security",
+  "summary_zh": "PS4 4.05 固件内核漏洞利用",
+  "tags": [
+   "PS4",
+   "漏洞利用",
+   "内核"
+  ]
+ },
+ "cshaxu/nxvm": {
+  "category": "os-hardware",
+  "summary_zh": "内置调试器的 x86 PC 模拟器",
+  "tags": [
+   "x86",
+   "模拟器",
+   "调试器"
+  ]
+ },
+ "cvde/RoomReverb": {
+  "category": "audio-music",
+  "summary_zh": "算法混响音频插件",
+  "tags": [
+   "混响",
+   "音频插件",
+   "DSP"
+  ]
+ },
+ "cxxclean/cxx-clean-include": {
+  "category": "devtools",
+  "summary_zh": "C++ 头文件冗余清理工具（已停更）",
+  "tags": [
+   "C++",
+   "头文件",
+   "代码清理"
+  ]
+ },
+ "cyfdecyf/cow": {
+  "category": "proxy",
+  "summary_zh": "自动识别被墙网站的 Go HTTP 代理 COW",
+  "tags": [
+   "HTTP代理",
+   "翻墙",
+   "Go"
+  ]
+ },
+ "Cyrus2D/Cyrus2DBase": {
+  "category": "games-graphics",
+  "summary_zh": "RoboCup 2D 足球仿真的 Cyrus2D 基础代码",
+  "tags": [
+   "RoboCup",
+   "足球仿真",
+   "多智能体"
+  ]
+ },
+ "d2l-ai/d2l-en": {
+  "category": "llm-ml",
+  "summary_zh": "多框架代码的交互式深度学习书《Dive into Deep Learning》英文版",
+  "tags": [
+   "深度学习",
+   "教材",
+   "交互式"
+  ]
+ },
+ "d2l-ai/d2l-zh": {
+  "category": "llm-ml",
+  "summary_zh": "《动手学深度学习》中文版",
+  "tags": [
+   "深度学习",
+   "教材",
+   "中文"
+  ]
+ },
+ "d3/d3": {
+  "category": "web-frontend",
+  "summary_zh": "用 SVG/Canvas/HTML 实现数据可视化的 D3",
+  "tags": [
+   "数据可视化",
+   "D3",
+   "JavaScript"
+  ]
+ },
+ "DamZiobro/vim-ide": {
+  "category": "devtools",
+  "summary_zh": "把 Vim 配置成强大 IDE",
+  "tags": [
+   "Vim",
+   "IDE",
+   "配置"
+  ]
+ },
+ "danielrh/losslessh264": {
+  "category": "media",
+  "summary_zh": "无损 H.264 重压缩工具（已弃用）",
+  "tags": [
+   "H.264",
+   "视频压缩",
+   "无损"
+  ]
+ },
+ "dariubs/GoBooks": {
+  "category": "cs-learning",
+  "summary_zh": "Go 语言书籍列表",
+  "tags": [
+   "Go",
+   "书单",
+   "电子书"
+  ]
+ },
+ "datawhalechina/happy-llm": {
+  "category": "llm-ml",
+  "summary_zh": "Datawhale 从零开始构建大模型的中文教程",
+  "tags": [
+   "大模型",
+   "从零构建",
+   "中文教程"
+  ]
+ },
+ "davidwuw0811-boop/awesome-gpt-image2-prompts": {
+  "category": "aigc-video",
+  "summary_zh": "490 条精选 GPT Image 2 提示词，支持中英搜索与分类",
+  "tags": [
+   "GPT Image",
+   "提示词",
+   "AI绘图"
+  ]
+ },
+ "debpalash/VoiceStudio": {
+  "category": "aigc-video",
+  "summary_zh": "完全本地运行的开源 ElevenLabs 替代：声音克隆、配音与转写",
+  "tags": [
+   "语音合成",
+   "声音克隆",
+   "本地AI"
+  ]
+ },
+ "deeplearning-ai/machine-learning-yearning-cn": {
+  "category": "llm-ml",
+  "summary_zh": "吴恩达《机器学习训练秘籍》中文版",
+  "tags": [
+   "机器学习",
+   "吴恩达",
+   "中文书"
+  ]
+ },
+ "deepnight/ldtk": {
+  "category": "games-graphics",
+  "summary_zh": "现代、轻量、高效的 2D 关卡编辑器",
+  "tags": [
+   "关卡编辑器",
+   "游戏开发",
+   "2D"
+  ]
+ },
+ "deepseek-ai/deepseek-harness": {
+  "category": "ai-agent-skills",
+  "summary_zh": "DeepSeek 官方的插件化 Agent 底座，一切皆插件",
+  "tags": [
+   "DeepSeek",
+   "Agent框架",
+   "插件"
+  ]
+ },
+ "deezer/spleeter": {
+  "category": "audio-music",
+  "summary_zh": "Deezer 音源分离库，含预训练模型",
+  "tags": [
+   "音源分离",
+   "深度学习",
+   "音频"
+  ]
+ },
+ "dev-cafe/cmake-cookbook": {
+  "category": "cs-learning",
+  "summary_zh": "《CMake Cookbook》配套示例",
+  "tags": [
+   "CMake",
+   "构建",
+   "示例"
+  ]
+ },
+ "diem/diem": {
+  "category": "finance-blockchain",
+  "summary_zh": "Diem（原 Libra）区块链金融网络",
+  "tags": [
+   "区块链",
+   "Diem",
+   "Libra"
+  ]
+ },
+ "DietrichGebert/ponytail": {
+  "category": "ai-agent-skills",
+  "summary_zh": "让 AI Agent 像“最懒的资深工程师”一样思考的 Skill",
+  "tags": [
+   "Agent Skills",
+   "极简开发",
+   "Claude"
+  ]
+ },
+ "dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions": {
+  "category": "cs-learning",
+  "summary_zh": "《Grokking 编程面试模式》替代资料",
+  "tags": [
+   "算法",
+   "编程面试",
+   "刷题"
+  ]
+ },
+ "dirtyhandscoding/dirtyhandscoding.github.io": {
+  "category": "misc",
+  "summary_zh": "关于编程的个人博客",
+  "tags": [
+   "个人博客",
+   "编程"
+  ]
+ },
+ "docker/docs": {
+  "category": "devtools",
+  "summary_zh": "Docker 官方文档源码",
+  "tags": [
+   "Docker",
+   "文档",
+   "容器"
+  ]
+ },
+ "donnemartin/system-design-primer": {
+  "category": "cs-learning",
+  "summary_zh": "学习设计大规模系统，准备系统设计面试",
+  "tags": [
+   "系统设计",
+   "面试",
+   "架构"
+  ]
+ },
+ "dotnet/coreclr": {
+  "category": "lang-lib",
+  "summary_zh": ".NET Core 运行时 CoreCLR",
+  "tags": [
+   ".NET",
+   "运行时",
+   "CLR"
+  ]
+ },
+ "dotnet/csharplang": {
+  "category": "lang-lib",
+  "summary_zh": "C# 编程语言设计官方仓库",
+  "tags": [
+   "C#",
+   "语言设计",
+   "微软"
+  ]
+ },
+ "dotnet/msbuild": {
+  "category": "devtools",
+  "summary_zh": ".NET 与 Visual Studio 构建平台 MSBuild",
+  "tags": [
+   "构建工具",
+   ".NET",
+   "微软"
+  ]
+ },
+ "dotnet/wpf": {
+  "category": "lang-lib",
+  "summary_zh": ".NET Core 的 Windows 桌面 UI 框架 WPF",
+  "tags": [
+   "WPF",
+   ".NET",
+   "桌面开发"
+  ]
+ },
+ "DPDK/dpdk": {
+  "category": "network-telecom",
+  "summary_zh": "高性能用户态数据包处理开发套件 DPDK",
+  "tags": [
+   "DPDK",
+   "高性能网络",
+   "数据平面"
+  ]
+ },
+ "dropbox/godropbox": {
+  "category": "lang-lib",
+  "summary_zh": "Dropbox 编写 Go 服务的通用库",
+  "tags": [
+   "Go",
+   "Dropbox",
+   "库"
+  ]
+ },
+ "dropbox/grpc": {
+  "category": "lang-lib",
+  "summary_zh": "Dropbox 维护的 gRPC 分支",
+  "tags": [
+   "gRPC",
+   "RPC",
+   "Dropbox"
+  ]
+ },
+ "dwmkerr/hacker-laws": {
+  "category": "cs-learning",
+  "summary_zh": "面向开发者的定律、理论与原则合集",
+  "tags": [
+   "定律",
+   "原则",
+   "软件工程"
+  ]
+ },
+ "dypsilon/frontend-dev-bookmarks": {
+  "category": "awesome-lists",
+  "summary_zh": "前端开发者资源精选合集",
+  "tags": [
+   "前端",
+   "Awesome",
+   "书签"
+  ]
+ },
+ "easychen/one-person-businesses-methodology": {
+  "category": "life-growth",
+  "summary_zh": "《一人公司方法论》第一版",
+  "tags": [
+   "一人公司",
+   "副业",
+   "方法论"
+  ]
+ },
+ "easychen/opc-methodology": {
+  "category": "life-growth",
+  "summary_zh": "《一人企业方法论》第二版，也适合副业与非技术人群",
+  "tags": [
+   "一人公司",
+   "副业",
+   "方法论"
+  ]
+ },
+ "EBazarov/nsfw_data_source_urls": {
+  "category": "llm-ml",
+  "summary_zh": "用于训练 NSFW 内容审核分类器的历史 URL 集合",
+  "tags": [
+   "内容审核",
+   "数据集",
+   "NSFW"
+  ]
+ },
+ "eerimoq/asn1tools": {
+  "category": "network-telecom",
+  "summary_zh": "ASN.1 解析与编解码 Python 库",
+  "tags": [
+   "ASN.1",
+   "编解码",
+   "Python"
+  ]
+ },
+ "eherbold/berkeleytextbooks": {
+  "category": "cs-learning",
+  "summary_zh": "伯克利计算机/电子专业推荐教材",
+  "tags": [
+   "教材",
+   "计算机",
+   "伯克利"
+  ]
+ },
+ "eiz/SynchronousAudioRouter": {
+  "category": "audio-music",
+  "summary_zh": "Windows 低延迟应用级音频路由",
+  "tags": [
+   "音频路由",
+   "低延迟",
+   "Windows"
+  ]
+ },
+ "ekzhang/graphics-workshop": {
+  "category": "games-graphics",
+  "summary_zh": "通过编写 GPU 着色器学习计算机图形学",
+  "tags": [
+   "图形学",
+   "GLSL",
+   "着色器"
+  ]
+ },
+ "electronicarts/CnC_Remastered_Collection": {
+  "category": "games-graphics",
+  "summary_zh": "《命令与征服》重制版合集源码",
+  "tags": [
+   "命令与征服",
+   "游戏源码",
+   "即时战略"
+  ]
+ },
+ "ellisonleao/magictools": {
+  "category": "awesome-lists",
+  "summary_zh": "游戏开发资源合集",
+  "tags": [
+   "游戏开发",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "emard/ulx3s": {
+  "category": "os-hardware",
+  "summary_zh": "ULX3S FPGA 开发板 PCB",
+  "tags": [
+   "FPGA",
+   "开发板",
+   "PCB"
+  ]
+ },
+ "enesozturk/dimensional-drawing": {
+  "category": "design-slides",
+  "summary_zh": "生成苹果风格 UI 组件立体示意图的 Skill",
+  "tags": [
+   "UI插画",
+   "Skill",
+   "设计"
+  ]
+ },
+ "eooce/nodejs-argo": {
+  "category": "proxy",
+  "summary_zh": "面向 PaaS 平台的 Argo 隧道代理部署工具，支持多种协议",
+  "tags": [
+   "Argo隧道",
+   "代理部署",
+   "VLESS"
+  ]
+ },
+ "erincatto/box2d": {
+  "category": "games-graphics",
+  "summary_zh": "2D 游戏物理引擎 Box2D",
+  "tags": [
+   "物理引擎",
+   "2D",
+   "游戏开发"
+  ]
+ },
+ "eschulte/emacs24-starter-kit": {
+  "category": "devtools",
+  "summary_zh": "基于 Emacs24 的精简文学化入门配置",
+  "tags": [
+   "Emacs",
+   "配置",
+   "入门"
+  ]
+ },
+ "eseedo/iOSCourse": {
+  "category": "cs-learning",
+  "summary_zh": "iOS 开发初学者入门课程",
+  "tags": [
+   "iOS",
+   "入门课程",
+   "Swift"
+  ]
+ },
+ "eternity4719/HowToLiveBetter": {
+  "category": "life-growth",
+  "summary_zh": "高性价比人生指南：健康、急救、理财、法律、社保等建议并注明出处",
+  "tags": [
+   "生活建议",
+   "理财",
+   "健康",
+   "法律"
+  ]
+ },
+ "ethereumbook/ethereumbook": {
+  "category": "finance-blockchain",
+  "summary_zh": "《精通以太坊》第二版开源书稿",
+  "tags": [
+   "以太坊",
+   "区块链",
+   "电子书"
+  ]
+ },
+ "Eugeny/tabby": {
+  "category": "devtools",
+  "summary_zh": "面向现代的终端模拟器，支持 SSH 与串口",
+  "tags": [
+   "终端",
+   "SSH",
+   "跨平台"
+  ]
+ },
+ "Evolink-AI/awesome-gpt-image-2-API-Prompts": {
+  "category": "aigc-video",
+  "summary_zh": "GPT-Image-2 API 用法与提示词合集",
+  "tags": [
+   "GPT Image",
+   "提示词",
+   "API"
+  ]
+ },
+ "exacity/deeplearningbook-chinese": {
+  "category": "llm-ml",
+  "summary_zh": "《深度学习》（花书）中文翻译",
+  "tags": [
+   "深度学习",
+   "花书",
+   "中文书"
+  ]
+ },
+ "facebookarchive/facebook-swift-sdk": {
+  "category": "lang-lib",
+  "summary_zh": "在 iOS 应用中用 Swift 接入 Facebook 平台的 SDK",
+  "tags": [
+   "Swift",
+   "Facebook",
+   "SDK"
+  ]
+ },
+ "fanmingming/live": {
+  "category": "media",
+  "summary_zh": "可直连访问的电视/广播台标库与 IPTV 相关工具",
+  "tags": [
+   "IPTV",
+   "台标",
+   "EPG"
+  ]
+ },
+ "farion1231/cc-switch": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Claude Code、Codex 等 AI 编程工具的跨平台一体化配置切换助手",
+  "tags": [
+   "配置切换",
+   "Claude Code",
+   "桌面应用"
+  ]
+ },
+ "feeluown/FeelUOwn": {
+  "category": "media",
+  "summary_zh": "稳定易用、可折腾的音乐播放器",
+  "tags": [
+   "音乐播放器",
+   "Python",
+   "跨平台"
+  ]
+ },
+ "Fei2411/DS-Bot": {
+  "category": "ai-agent-skills",
+  "summary_zh": "DeepSeek Harness 的长驻机器人团队插件，支持机器人互发消息与群聊",
+  "tags": [
+   "DeepSeek",
+   "多Agent",
+   "插件"
+  ]
+ },
+ "FelisCatus/SwitchyOmega": {
+  "category": "proxy",
+  "summary_zh": "浏览器代理切换扩展 SwitchyOmega（已停维护）",
+  "tags": [
+   "代理切换",
+   "浏览器扩展",
+   "翻墙"
+  ]
+ },
+ "fenwii/huaweimind": {
+  "category": "life-growth",
+  "summary_zh": "任正非讲话、邮件与文章整理",
+  "tags": [
+   "华为",
+   "任正非",
+   "管理思想"
+  ]
+ },
+ "feststelltaste/software-analytics": {
+  "category": "devtools",
+  "summary_zh": "软件产物数据分析结果合集",
+  "tags": [
+   "软件分析",
+   "数据挖掘",
+   "Jupyter"
+  ]
+ },
+ "fffaraz/awesome-cpp": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 C/C++ 框架、库与资源",
+  "tags": [
+   "C++",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "File-New-Project/EarTrumpet": {
+  "category": "audio-music",
+  "summary_zh": "Windows 音量控制增强工具",
+  "tags": [
+   "音量控制",
+   "Windows",
+   "音频"
+  ]
+ },
+ "flyzy2005/get_bwh_promo_codes": {
+  "category": "proxy",
+  "summary_zh": "自动获取搬瓦工最新优惠码的脚本",
+  "tags": [
+   "搬瓦工",
+   "优惠码",
+   "VPS"
+  ]
+ },
+ "flyzy2005/ss-fly": {
+  "category": "proxy",
+  "summary_zh": "一键搭建 SS/SSR 并开启 BBR 加速的脚本",
+  "tags": [
+   "Shadowsocks",
+   "一键脚本",
+   "BBR"
+  ]
+ },
+ "fogleman/Minecraft": {
+  "category": "games-graphics",
+  "summary_zh": "用 Python 与 Pyglet 编写的简易 Minecraft",
+  "tags": [
+   "Minecraft",
+   "Python",
+   "游戏"
+  ]
+ },
+ "FortAwesome/Font-Awesome": {
+  "category": "web-frontend",
+  "summary_zh": "图标字体与 SVG 工具包 Font Awesome",
+  "tags": [
+   "图标",
+   "字体图标",
+   "CSS"
+  ]
+ },
+ "fossabot/clash": {
+  "category": "proxy",
+  "summary_zh": "基于规则的 Go 代理工具 Clash（镜像）",
+  "tags": [
+   "Clash",
+   "代理",
+   "Go"
+  ]
+ },
+ "fqrouter/fqrouter": {
+  "category": "proxy",
+  "summary_zh": "翻墙路由器 fqrouter",
+  "tags": [
+   "翻墙",
+   "路由器",
+   "安卓"
+  ]
+ },
+ "FranzKafkaYu/x-ui": {
+  "category": "proxy",
+  "summary_zh": "轻量级多协议多用户 Xray 面板",
+  "tags": [
+   "Xray",
+   "代理面板",
+   "多用户"
+  ]
+ },
+ "FreeCAD/FreeCAD": {
+  "category": "games-graphics",
+  "summary_zh": "开源跨平台 3D 参数化建模软件 FreeCAD",
+  "tags": [
+   "CAD",
+   "3D建模",
+   "开源"
+  ]
+ },
+ "freedomofpress/securedrop": {
+  "category": "security",
+  "summary_zh": "SecureDrop 匿名举报平台",
+  "tags": [
+   "匿名举报",
+   "新闻",
+   "隐私安全"
+  ]
+ },
+ "freestylefly/awesome-gpt-image-2": {
+  "category": "aigc-video",
+  "summary_zh": "GPT Image 2 提示词与案例库，含工业级模板与 Skill",
+  "tags": [
+   "GPT Image",
+   "提示词",
+   "案例库"
+  ]
+ },
+ "Fuco1/smartparens": {
+  "category": "devtools",
+  "summary_zh": "Emacs 智能括号配对插件",
+  "tags": [
+   "Emacs",
+   "括号匹配",
+   "插件"
+  ]
+ },
+ "fxyadela/write-then-publish": {
+  "category": "content-creation",
+  "summary_zh": "本地优先的中文排版工具，把 Markdown 转为小红书卡片与公众号长文",
+  "tags": [
+   "排版",
+   "小红书",
+   "公众号"
+  ]
+ },
+ "ganyao114/zircon": {
+  "category": "os-hardware",
+  "summary_zh": "Zircon 内核文档与源码注释",
+  "tags": [
+   "Zircon",
+   "Fuchsia",
+   "内核"
+  ]
+ },
+ "garrytan/gstack": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Garry Tan 的 Claude Code 配置：23 个有态度的工具",
+  "tags": [
+   "Claude Code",
+   "工作流",
+   "YC"
+  ]
+ },
+ "gbevin/ShowMIDI": {
+  "category": "audio-music",
+  "summary_zh": "实时可视化 MIDI 活动的多平台应用",
+  "tags": [
+   "MIDI",
+   "可视化",
+   "音乐工具"
+  ]
+ },
+ "geekan/HowToLiveLonger": {
+  "category": "life-growth",
+  "summary_zh": "基于研究证据的程序员延寿指南，涵盖饮食、运动、睡眠等建议",
+  "tags": [
+   "健康",
+   "长寿",
+   "生活"
+  ]
+ },
+ "geekcompany/ResumeSample": {
+  "category": "cs-learning",
+  "summary_zh": "中国程序员简历模板系列",
+  "tags": [
+   "简历模板",
+   "求职",
+   "程序员"
+  ]
+ },
+ "GeekLiB/AR-Source": {
+  "category": "awesome-lists",
+  "summary_zh": "增强现实开发资源汇总",
+  "tags": [
+   "AR",
+   "开发资源",
+   "Awesome"
+  ]
+ },
+ "GeekLiB/Lee-VR-Source": {
+  "category": "awesome-lists",
+  "summary_zh": "VR 开发者必备资源汇总",
+  "tags": [
+   "VR",
+   "开发资源",
+   "Awesome"
+  ]
+ },
+ "geph-official/geph4-client": {
+  "category": "proxy",
+  "summary_zh": "迷雾通：专为对抗国家级封锁设计的翻墙系统客户端",
+  "tags": [
+   "翻墙",
+   "VPN",
+   "Rust"
+  ]
+ },
+ "getlantern/download": {
+  "category": "proxy",
+  "summary_zh": "蓝灯（Lantern）官方版本下载",
+  "tags": [
+   "Lantern",
+   "翻墙",
+   "下载"
+  ]
+ },
+ "getlantern/lantern-binaries-archive": {
+  "category": "proxy",
+  "summary_zh": "Lantern 安装包二进制存档",
+  "tags": [
+   "Lantern",
+   "安装包",
+   "存档"
+  ]
+ },
+ "getpelican/pelican": {
+  "category": "web-frontend",
+  "summary_zh": "支持 Markdown 与 reST 的 Python 静态站点生成器",
+  "tags": [
+   "静态网站",
+   "Python",
+   "Pelican"
+  ]
+ },
+ "giampaolo/psutil": {
+  "category": "lang-lib",
+  "summary_zh": "跨平台进程与系统监控 Python 库",
+  "tags": [
+   "系统监控",
+   "Python",
+   "进程"
+  ]
+ },
+ "gibsjose/BitHacks": {
+  "category": "cs-learning",
+  "summary_zh": "位运算技巧（Bit Twiddling Hacks）Markdown/PDF 版",
+  "tags": [
+   "位运算",
+   "算法技巧",
+   "参考资料"
+  ]
+ },
+ "GitbookIO/gitbook": {
+  "category": "web-frontend",
+  "summary_zh": "GitBook 文档站开源前端",
+  "tags": [
+   "GitBook",
+   "文档站",
+   "前端"
+  ]
+ },
+ "GNS3/gns3-legacy": {
+  "category": "network-telecom",
+  "summary_zh": "GNS3 1.0 之前的旧代码",
+  "tags": [
+   "GNS3",
+   "网络仿真",
+   "历史代码"
+  ]
+ },
+ "GNS3/gns3-server": {
+  "category": "network-telecom",
+  "summary_zh": "GNS3 网络仿真服务端",
+  "tags": [
+   "网络仿真",
+   "GNS3",
+   "网络"
+  ]
+ },
+ "GNS3/gns3-vm": {
+  "category": "network-telecom",
+  "summary_zh": "GNS3 开发用虚拟机",
+  "tags": [
+   "GNS3",
+   "虚拟机",
+   "网络仿真"
+  ]
+ },
+ "godsme/object-array": {
+  "category": "lang-lib",
+  "summary_zh": "Object Array C++ 库（附中文文档）",
+  "tags": [
+   "C++",
+   "容器",
+   "库"
+  ]
+ },
+ "godsme/understand_modern_cpp": {
+  "category": "cs-learning",
+  "summary_zh": "《深入理解现代 C++》中文文档",
+  "tags": [
+   "C++",
+   "现代C++",
+   "中文"
+  ]
+ },
+ "goerz/Refcards": {
+  "category": "cs-learning",
+  "summary_zh": "各类原创参考卡片（速查表）",
+  "tags": [
+   "速查表",
+   "LaTeX",
+   "参考卡"
+  ]
+ },
+ "gohugoio/hugo": {
+  "category": "web-frontend",
+  "summary_zh": "全球最快的静态网站生成框架 Hugo",
+  "tags": [
+   "静态网站",
+   "Hugo",
+   "Go"
+  ]
+ },
+ "golang/glog": {
+  "category": "lang-lib",
+  "summary_zh": "Go 分级日志库 glog",
+  "tags": [
+   "日志",
+   "Go",
+   "谷歌"
+  ]
+ },
+ "google-deepmind/mujoco": {
+  "category": "games-graphics",
+  "summary_zh": "DeepMind 的通用多关节接触动力学物理仿真器",
+  "tags": [
+   "物理仿真",
+   "机器人",
+   "DeepMind"
+  ]
+ },
+ "google-deepmind/pysc2": {
+  "category": "games-graphics",
+  "summary_zh": "DeepMind 星际争霸 II 强化学习环境",
+  "tags": [
+   "星际争霸2",
+   "强化学习",
+   "DeepMind"
+  ]
+ },
+ "google-gemma/cookbook": {
+  "category": "llm-ml",
+  "summary_zh": "谷歌 Gemma 开源模型的指南与示例合集",
+  "tags": [
+   "Gemma",
+   "开源模型",
+   "示例"
+  ]
+ },
+ "google-research/google-research": {
+  "category": "llm-ml",
+  "summary_zh": "谷歌研究院开源代码合集",
+  "tags": [
+   "谷歌研究",
+   "机器学习",
+   "论文代码"
+  ]
+ },
+ "google/bbr": {
+  "category": "network-telecom",
+  "summary_zh": "谷歌 BBR 拥塞控制算法",
+  "tags": [
+   "BBR",
+   "拥塞控制",
+   "TCP"
+  ]
+ },
+ "google/codesearch": {
+  "category": "devtools",
+  "summary_zh": "基于索引的大规模代码正则搜索",
+  "tags": [
+   "代码搜索",
+   "正则",
+   "谷歌"
+  ]
+ },
+ "google/EarlGrey": {
+  "category": "devtools",
+  "summary_zh": "谷歌 iOS UI 自动化测试框架",
+  "tags": [
+   "iOS",
+   "UI测试",
+   "谷歌"
+  ]
+ },
+ "google/elephant-goldfish-model": {
+  "category": "ai-agent-skills",
+  "summary_zh": "谷歌开源的用 Agent 设计与评审软件的插件",
+  "tags": [
+   "Agent Skills",
+   "软件设计",
+   "代码评审"
+  ]
+ },
+ "google/glog": {
+  "category": "lang-lib",
+  "summary_zh": "谷歌 C++ 日志库 glog",
+  "tags": [
+   "日志",
+   "C++",
+   "谷歌"
+  ]
+ },
+ "google/googletest": {
+  "category": "devtools",
+  "summary_zh": "谷歌 C++ 测试与 Mock 框架",
+  "tags": [
+   "单元测试",
+   "C++",
+   "谷歌"
+  ]
+ },
+ "google/j2objc": {
+  "category": "devtools",
+  "summary_zh": "把 Java 转译为 iOS Objective-C 的工具",
+  "tags": [
+   "Java",
+   "Objective-C",
+   "代码转换"
+  ]
+ },
+ "google/leveldb": {
+  "category": "lang-lib",
+  "summary_zh": "谷歌高速键值存储库 LevelDB",
+  "tags": [
+   "键值存储",
+   "数据库",
+   "谷歌"
+  ]
+ },
+ "google/skywater-pdk": {
+  "category": "os-hardware",
+  "summary_zh": "SkyWater 开源芯片工艺设计套件（PDK）",
+  "tags": [
+   "芯片设计",
+   "PDK",
+   "EDA"
+  ]
+ },
+ "google/styleguide": {
+  "category": "cs-learning",
+  "summary_zh": "谷歌开源项目代码风格指南",
+  "tags": [
+   "代码规范",
+   "风格指南",
+   "谷歌"
+  ]
+ },
+ "google/yapf": {
+  "category": "devtools",
+  "summary_zh": "谷歌 Python 代码格式化工具",
+  "tags": [
+   "代码格式化",
+   "Python",
+   "谷歌"
+  ]
+ },
+ "googlehosts/hosts": {
+  "category": "proxy",
+  "summary_zh": "Google hosts 镜像",
+  "tags": [
+   "hosts",
+   "科学上网",
+   "Google"
+  ]
+ },
+ "GorvGoyl/Clone-Wars": {
+  "category": "web-frontend",
+  "summary_zh": "100 多个热门网站的开源克隆项目",
+  "tags": [
+   "克隆项目",
+   "全栈",
+   "学习"
+  ]
+ },
+ "GPUOpen-Tools/radeon_raytracing_analyzer": {
+  "category": "games-graphics",
+  "summary_zh": "AMD Radeon 光线追踪 BVH 可视化分析工具",
+  "tags": [
+   "光线追踪",
+   "AMD",
+   "性能分析"
+  ]
+ },
+ "Graphify-Labs/graphify": {
+  "category": "ai-agent-skills",
+  "summary_zh": "把代码库、文档、SQL 和 PDF 变成可查询知识图谱",
+  "tags": [
+   "知识图谱",
+   "代码理解",
+   "Agent"
+  ]
+ },
+ "greatagent/greatagent": {
+  "category": "proxy",
+  "summary_zh": "GoAgent 分支 greatagent（原 wwqgtxx-goagent）",
+  "tags": [
+   "GoAgent",
+   "翻墙",
+   "代理"
+  ]
+ },
+ "greensock/gsap-skills": {
+  "category": "design-slides",
+  "summary_zh": "GSAP 官方 AI Skills，教编程 Agent 正确使用 GSAP 动画",
+  "tags": [
+   "GSAP",
+   "网页动画",
+   "Agent Skills"
+  ]
+ },
+ "grpc/grpc": {
+  "category": "lang-lib",
+  "summary_zh": "gRPC 高性能 RPC 框架",
+  "tags": [
+   "gRPC",
+   "RPC",
+   "C++"
+  ]
+ },
+ "gsetant/general-server-assistant": {
+  "category": "misc",
+  "summary_zh": "为 Plex、Emby、Jellyfin 提供增强功能的插件化平台",
+  "tags": [
+   "媒体服务器",
+   "Plex",
+   "插件"
+  ]
+ },
+ "guaguaupup/cpp_interview": {
+  "category": "cs-learning",
+  "summary_zh": "C++ 后台服务器开发面经与八股总结",
+  "tags": [
+   "C++",
+   "面试",
+   "后端"
+  ]
+ },
+ "guerbai/LizardDance": {
+  "category": "misc",
+  "summary_zh": "几个好玩的小爬虫",
+  "tags": [
+   "爬虫",
+   "Python",
+   "娱乐"
+  ]
+ },
+ "guyueyingmu/avbook": {
+  "category": "misc",
+  "summary_zh": "成人影片管理系统与爬虫（另一版本）",
+  "tags": [
+   "爬虫",
+   "影片管理",
+   "成人内容"
+  ]
+ },
+ "gzc/CLRS": {
+  "category": "cs-learning",
+  "summary_zh": "《算法导论》习题答案",
+  "tags": [
+   "算法导论",
+   "习题",
+   "算法"
+  ]
+ },
+ "handsomestWei/patent-disclosure-skill": {
+  "category": "ai-agent-skills",
+  "summary_zh": "中国专利交底书撰写与专利点挖掘的 Skill",
+  "tags": [
+   "专利",
+   "交底书",
+   "Agent Skills"
+  ]
+ },
+ "HandsOnLLM/Hands-On-Large-Language-Models": {
+  "category": "llm-ml",
+  "summary_zh": "O'Reilly《动手学大语言模型》官方代码",
+  "tags": [
+   "大语言模型",
+   "书籍代码",
+   "入门"
+  ]
+ },
+ "haoel/haoel.github.io": {
+  "category": "misc",
+  "summary_zh": "左耳朵耗子的科学上网教程",
+  "tags": [
+   "科学上网",
+   "教程",
+   "VPS"
+  ]
+ },
+ "haoel/leetcode": {
+  "category": "cs-learning",
+  "summary_zh": "LeetCode 题解",
+  "tags": [
+   "LeetCode",
+   "算法",
+   "C++"
+  ]
+ },
+ "haroldtreen/epub-press-clients": {
+  "category": "utilities",
+  "summary_zh": "把网页文章打包成电子书的 EpubPress 客户端",
+  "tags": [
+   "EPUB",
+   "电子书",
+   "浏览器插件"
+  ]
+ },
+ "harry159821/XiamiForLinuxProject": {
+  "category": "media",
+  "summary_zh": "虾米音乐 Linux 客户端项目",
+  "tags": [
+   "虾米音乐",
+   "Linux",
+   "客户端"
+  ]
+ },
+ "hehonghui/awesome-english-ebooks": {
+  "category": "life-growth",
+  "summary_zh": "经济学人、纽约客等英文杂志免费下载，每周更新",
+  "tags": [
+   "英语杂志",
+   "电子书",
+   "英语学习"
+  ]
+ },
+ "helios-base/helios-base": {
+  "category": "games-graphics",
+  "summary_zh": "RoboCup 2D 足球仿真的 HELIOS 基础代码",
+  "tags": [
+   "RoboCup",
+   "足球仿真",
+   "多智能体"
+  ]
+ },
+ "hellogcc/100-gdb-tips": {
+  "category": "cs-learning",
+  "summary_zh": "GDB 调试技巧合集",
+  "tags": [
+   "GDB",
+   "调试",
+   "技巧"
+  ]
+ },
+ "helloianneo/ian-xiaohei-illustrations": {
+  "category": "aigc-video",
+  "summary_zh": "生成中文“小黑”怪诞风手绘配图的 Codex Skill",
+  "tags": [
+   "手绘配图",
+   "插画",
+   "Codex Skill"
+  ]
+ },
+ "heydamir/unslop": {
+  "category": "design-slides",
+  "summary_zh": "把 vibecoding 出来的 AI 味界面改成专业设计的 Claude Skill",
+  "tags": [
+   "UI优化",
+   "反AI感",
+   "Claude Skill"
+  ]
+ },
+ "heygen-com/hyperframes": {
+  "category": "aigc-video",
+  "summary_zh": "用 HTML 写视频、为 Agent 设计的视频渲染框架",
+  "tags": [
+   "HTML视频",
+   "渲染",
+   "Agent"
+  ]
+ },
+ "hiboyhiboy/opt-script": {
+  "category": "os-hardware",
+  "summary_zh": "路由器 Padavan 固件的扩展脚本",
+  "tags": [
+   "Padavan",
+   "路由器",
+   "脚本"
+  ]
+ },
+ "highlightjs/highlight.js": {
+  "category": "web-frontend",
+  "summary_zh": "零依赖、自动识别语言的 JS 语法高亮库",
+  "tags": [
+   "语法高亮",
+   "JavaScript",
+   "前端"
+  ]
+ },
+ "HKUDS/CLI-Anything": {
+  "category": "ai-agent-skills",
+  "summary_zh": "让所有软件变成 Agent 原生、可通过 CLI 调用",
+  "tags": [
+   "CLI",
+   "Agent",
+   "工具化"
+  ]
+ },
+ "HKUDS/nanobot": {
+  "category": "ai-agent-skills",
+  "summary_zh": "港大出品的轻量级开源个人 AI Agent",
+  "tags": [
+   "个人Agent",
+   "轻量",
+   "开源"
+  ]
+ },
+ "hno/Allwinner-Info": {
+  "category": "os-hardware",
+  "summary_zh": "全志 A10 芯片内部信息汇总",
+  "tags": [
+   "全志",
+   "ARM",
+   "芯片资料"
+  ]
+ },
+ "hollance/synth-plugin-book": {
+  "category": "audio-music",
+  "summary_zh": "《用 C++ 和 JUCE 编写合成器插件》书籍源码",
+  "tags": [
+   "合成器",
+   "JUCE",
+   "音频插件"
+  ]
+ },
+ "hoochanlon/fq-book": {
+  "category": "proxy",
+  "summary_zh": "讲解代理、隧道、VPN 原理与 GFW 封锁手段的开源电子书",
+  "tags": [
+   "翻墙原理",
+   "电子书",
+   "GFW"
+  ]
+ },
+ "houshanren/hangzhou_house_knowledge": {
+  "category": "life-growth",
+  "summary_zh": "杭州买房经验与购房知识分享",
+  "tags": [
+   "买房",
+   "杭州",
+   "经验分享"
+  ]
+ },
+ "hpcaitech/ColossalAI": {
+  "category": "llm-ml",
+  "summary_zh": "让大模型训练更便宜、更快的并行训练系统",
+  "tags": [
+   "大模型训练",
+   "分布式",
+   "并行"
+  ]
+ },
+ "huangserva/ComfyUI_MiniMaxH3_Director": {
+  "category": "aigc-video",
+  "summary_zh": "在 ComfyUI 中使用 MiniMax H3 的导演式工作流",
+  "tags": [
+   "ComfyUI",
+   "MiniMax",
+   "工作流"
+  ]
+ },
+ "hugohe3/ppt-master": {
+  "category": "design-slides",
+  "summary_zh": "把文档或主题转成原生可编辑 PowerPoint 的 AI 工具",
+  "tags": [
+   "PPT生成",
+   "AI办公",
+   "PowerPoint"
+  ]
+ },
+ "humiaozuzu/dot-vimrc": {
+  "category": "devtools",
+  "summary_zh": "个人 Vim 配置文件",
+  "tags": [
+   "Vim",
+   "配置文件",
+   "dotfiles"
+  ]
+ },
+ "iawia002/lux": {
+  "category": "media",
+  "summary_zh": "快速简洁的 Go 视频下载库与命令行工具",
+  "tags": [
+   "视频下载",
+   "Go",
+   "B站"
+  ]
+ },
+ "iCHAIT/awesome-macOS": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 macOS 应用与工具列表",
+  "tags": [
+   "macOS",
+   "Awesome",
+   "应用推荐"
+  ]
+ },
+ "icsharpcode/ILSpy": {
+  "category": "security",
+  "summary_zh": ".NET 反编译器，支持生成 PDB 等",
+  "tags": [
+   "反编译",
+   ".NET",
+   "逆向"
+  ]
+ },
+ "icsharpcode/WpfDesigner": {
+  "category": "devtools",
+  "summary_zh": "SharpDevelop 中的 WPF 设计器",
+  "tags": [
+   "WPF",
+   "设计器",
+   ".NET"
+  ]
+ },
+ "id-Software/DOOM": {
+  "category": "games-graphics",
+  "summary_zh": "《毁灭战士》原版开源代码",
+  "tags": [
+   "DOOM",
+   "游戏源码",
+   "id Software"
+  ]
+ },
+ "id-Software/DOOM-3": {
+  "category": "games-graphics",
+  "summary_zh": "《毁灭战士 3》GPL 源码",
+  "tags": [
+   "DOOM3",
+   "游戏源码",
+   "id Software"
+  ]
+ },
+ "iina/iina": {
+  "category": "media",
+  "summary_zh": "现代化的 macOS 视频播放器",
+  "tags": [
+   "视频播放器",
+   "macOS",
+   "mpv"
+  ]
+ },
+ "ikarus23/MifareClassicTool": {
+  "category": "security",
+  "summary_zh": "读写与分析 MIFARE Classic RFID 标签的安卓 NFC 应用",
+  "tags": [
+   "NFC",
+   "RFID",
+   "安卓"
+  ]
+ },
+ "ImagineAILab/ai-by-hand-excel": {
+  "category": "llm-ml",
+  "summary_zh": "在 Excel 中手算 AI 的练习：从 Softmax 到 Transformer",
+  "tags": [
+   "AI入门",
+   "Excel",
+   "手算练习"
+  ]
+ },
+ "imathis/octopress": {
+  "category": "web-frontend",
+  "summary_zh": "基于 Jekyll 的博客框架 Octopress",
+  "tags": [
+   "博客框架",
+   "Jekyll",
+   "静态网站"
+  ]
+ },
+ "imlewc/video-to-subtitle-summary-skill": {
+  "category": "content-creation",
+  "summary_zh": "把抖音/小红书/B 站等视频转成字幕并用 AI 总结",
+  "tags": [
+   "视频转字幕",
+   "AI总结",
+   "Whisper"
+  ]
+ },
+ "immich-app/immich": {
+  "category": "self-hosted",
+  "summary_zh": "高性能自托管照片与视频管理方案，Google 相册替代",
+  "tags": [
+   "相册",
+   "备份",
+   "自托管"
+  ]
+ },
+ "imraywang/wewrite": {
+  "category": "content-creation",
+  "summary_zh": "公众号内容全流程 Skill：从热点抓取到推送微信草稿箱",
+  "tags": [
+   "公众号",
+   "内容流程",
+   "Skill"
+  ]
+ },
+ "include-what-you-use/include-what-you-use": {
+  "category": "devtools",
+  "summary_zh": "分析 C/C++ 源码 #include 的 clang 工具",
+  "tags": [
+   "C++",
+   "头文件",
+   "Clang"
+  ]
+ },
+ "ipader/SwiftGuide": {
+  "category": "awesome-lists",
+  "summary_zh": "Swift 精选项目脑图",
+  "tags": [
+   "Swift",
+   "资源合集",
+   "脑图"
+  ]
+ },
+ "iptv-org/iptv": {
+  "category": "media",
+  "summary_zh": "全球公开 IPTV 频道合集",
+  "tags": [
+   "IPTV",
+   "直播源",
+   "M3U"
+  ]
+ },
+ "iranee/qnap-aliyunpan-webdav": {
+  "category": "self-hosted",
+  "summary_zh": "威联通 NAS 挂载阿里云盘 WebDAV 服务",
+  "tags": [
+   "阿里云盘",
+   "WebDAV",
+   "NAS"
+  ]
+ },
+ "isocpp/CppCoreGuidelines": {
+  "category": "cs-learning",
+  "summary_zh": "C++ 核心指南",
+  "tags": [
+   "C++",
+   "编码规范",
+   "最佳实践"
+  ]
+ },
+ "iv-org/invidious": {
+  "category": "self-hosted",
+  "summary_zh": "无广告、免账号的 YouTube 替代前端",
+  "tags": [
+   "YouTube",
+   "隐私",
+   "自托管"
+  ]
+ },
+ "jabbany/KnProxy": {
+  "category": "proxy",
+  "summary_zh": "轻量 PHP 网页代理",
+  "tags": [
+   "网页代理",
+   "PHP",
+   "翻墙"
+  ]
+ },
+ "jackaudio/jack2": {
+  "category": "audio-music",
+  "summary_zh": "JACK 低延迟音频服务器 jack2 源码",
+  "tags": [
+   "JACK",
+   "音频服务器",
+   "低延迟"
+  ]
+ },
+ "jackluson/doing-leetcodes": {
+  "category": "cs-learning",
+  "summary_zh": "LeetCode 刷题笔记",
+  "tags": [
+   "LeetCode",
+   "算法",
+   "刷题"
+  ]
+ },
+ "jamez-bondos/awesome-gpt4o-images": {
+  "category": "aigc-video",
+  "summary_zh": "GPT-4o 等生成的图片与提示词精选合集",
+  "tags": [
+   "AI绘图",
+   "提示词",
+   "GPT-4o"
+  ]
+ },
+ "JanDeDobbeleer/oh-my-posh2": {
+  "category": "devtools",
+  "summary_zh": "PowerShell 提示符主题引擎（旧版）",
+  "tags": [
+   "PowerShell",
+   "终端美化",
+   "提示符"
+  ]
+ },
+ "Jarvis322/macos-sysdata": {
+  "category": "utilities",
+  "summary_zh": "查看并逐项清理 macOS“系统数据”占用的工具",
+  "tags": [
+   "macOS",
+   "磁盘清理",
+   "系统工具"
+  ]
+ },
+ "jaywcjlove/reference": {
+  "category": "cs-learning",
+  "summary_zh": "面向开发者的技术速查清单合集",
+  "tags": [
+   "速查表",
+   "Cheat Sheet",
+   "开发者"
+  ]
+ },
+ "jellyfin/jellyfin": {
+  "category": "self-hosted",
+  "summary_zh": "免费的媒体系统 Jellyfin 服务端",
+  "tags": [
+   "媒体服务器",
+   "自托管",
+   "影音"
+  ]
+ },
+ "JetBrains/intellij-community": {
+  "category": "devtools",
+  "summary_zh": "IntelliJ IDEA 社区版与平台源码",
+  "tags": [
+   "IDE",
+   "IntelliJ",
+   "Java"
+  ]
+ },
+ "JetBrains/kotlin": {
+  "category": "lang-lib",
+  "summary_zh": "Kotlin 编程语言",
+  "tags": [
+   "Kotlin",
+   "编程语言",
+   "JetBrains"
+  ]
+ },
+ "JetBrains/MPS": {
+  "category": "devtools",
+  "summary_zh": "JetBrains 元编程系统 MPS",
+  "tags": [
+   "DSL",
+   "元编程",
+   "JetBrains"
+  ]
+ },
+ "Jhuster/TLV": {
+  "category": "network-telecom",
+  "summary_zh": "简单易用的 TLV 编解码 API",
+  "tags": [
+   "TLV",
+   "编解码",
+   "协议"
+  ]
+ },
+ "JiaFeiMiao-K-Cat/DiscImageStudio": {
+  "category": "utilities",
+  "summary_zh": "在 CD/DVD/蓝光盘面刻出肉眼可见图像的多平台生成与刻录工具",
+  "tags": [
+   "光盘刻录",
+   "图像",
+   "桌面工具"
+  ]
+ },
+ "JimLiu/baoyu-skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "宝玉分享的 20 多个提升日常效率的 Agent Skills",
+  "tags": [
+   "Agent Skills",
+   "效率",
+   "Claude Code"
+  ]
+ },
+ "jks-liu/zhihu": {
+  "category": "cs-learning",
+  "summary_zh": "个人知乎文章合集",
+  "tags": [
+   "知乎",
+   "文章",
+   "Markdown"
+  ]
+ },
+ "jlevy/the-art-of-command-line": {
+  "category": "cs-learning",
+  "summary_zh": "一页掌握命令行",
+  "tags": [
+   "命令行",
+   "Linux",
+   "教程"
+  ]
+ },
+ "jmcnamara/XlsxWriter": {
+  "category": "lang-lib",
+  "summary_zh": "创建 Excel XLSX 文件的 Python 模块",
+  "tags": [
+   "Excel",
+   "Python",
+   "XlsxWriter"
+  ]
+ },
+ "jmerkt/cqt-analyzer": {
+  "category": "audio-music",
+  "summary_zh": "基于常 Q 变换的频谱分析音频插件",
+  "tags": [
+   "频谱分析",
+   "CQT",
+   "音频插件"
+  ]
+ },
+ "jnightlee/webdav-teambition": {
+  "category": "self-hosted",
+  "summary_zh": "Teambition 网盘的 WebDAV 协议开源实现",
+  "tags": [
+   "WebDAV",
+   "网盘",
+   "Teambition"
+  ]
+ },
+ "jobbole/awesome-c-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "C 语言资源大全中文版",
+  "tags": [
+   "C语言",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-cpp-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "C++ 资源大全中文版",
+  "tags": [
+   "C++",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-css-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "CSS 资源大全中文版",
+  "tags": [
+   "CSS",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-design-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "设计师资源大全：图标、Logo、原型工具等",
+  "tags": [
+   "设计资源",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-ios-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "iOS 资源大全中文版",
+  "tags": [
+   "iOS",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-java-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "Java 资源大全中文版",
+  "tags": [
+   "Java",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-javascript-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "JavaScript 资源大全中文版",
+  "tags": [
+   "JavaScript",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-python-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "Python 资源大全中文版",
+  "tags": [
+   "Python",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-sysadmin-cn": {
+  "category": "awesome-lists",
+  "summary_zh": "系统管理员资源大全中文版",
+  "tags": [
+   "运维",
+   "资源大全",
+   "中文"
+  ]
+ },
+ "jobbole/awesome-wechat-dev-posts-2015": {
+  "category": "cs-learning",
+  "summary_zh": "2015 年微信热传的百余篇经典技术文章",
+  "tags": [
+   "技术文章",
+   "微信",
+   "合集"
+  ]
+ },
+ "JoeyDeVries/LearnOpenGL": {
+  "category": "games-graphics",
+  "summary_zh": "《LearnOpenGL》教程全部章节代码",
+  "tags": [
+   "OpenGL",
+   "图形学",
+   "教程"
+  ]
+ },
+ "Johnshall/Shadowrocket-ADBlock-Rules-Forever": {
+  "category": "proxy",
+  "summary_zh": "带强力广告过滤的 Shadowrocket 规则集，每日更新",
+  "tags": [
+   "Shadowrocket",
+   "广告过滤",
+   "规则"
+  ]
+ },
+ "jonasmr/microprofile": {
+  "category": "devtools",
+  "summary_zh": "可嵌入式性能分析器",
+  "tags": [
+   "性能分析",
+   "Profiler",
+   "C++"
+  ]
+ },
+ "josephmisiti/awesome-machine-learning": {
+  "category": "awesome-lists",
+  "summary_zh": "精选机器学习框架、库与软件列表",
+  "tags": [
+   "机器学习",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "Jounce/Surge": {
+  "category": "lang-lib",
+  "summary_zh": "基于 Accelerate 的 Swift 高性能数学库",
+  "tags": [
+   "Swift",
+   "数学计算",
+   "Accelerate"
+  ]
+ },
+ "Jrohy/trojan": {
+  "category": "proxy",
+  "summary_zh": "Trojan 多用户管理部署程序，支持 Web 管理",
+  "tags": [
+   "Trojan",
+   "代理部署",
+   "多用户"
+  ]
+ },
+ "juce-framework/JUCE": {
+  "category": "audio-music",
+  "summary_zh": "跨平台 C++ 音频应用与插件开发框架 JUCE",
+  "tags": [
+   "JUCE",
+   "音频插件",
+   "C++"
+  ]
+ },
+ "JuliaLang/julia": {
+  "category": "lang-lib",
+  "summary_zh": "Julia 编程语言",
+  "tags": [
+   "Julia",
+   "编程语言",
+   "科学计算"
+  ]
+ },
+ "JuliusBrussee/caveman": {
+  "category": "ai-agent-skills",
+  "summary_zh": "让 AI 少说话多干活的省 token Skill 与代理",
+  "tags": [
+   "省Token",
+   "Claude",
+   "Skill"
+  ]
+ },
+ "julycoding/The-Art-Of-Programming-By-July-2nd": {
+  "category": "cs-learning",
+  "summary_zh": "July《编程之法：面试和算法心得》",
+  "tags": [
+   "算法",
+   "面试",
+   "编程之法"
+  ]
+ },
+ "jundot/omlx": {
+  "category": "llm-ml",
+  "summary_zh": "面向 Apple Silicon 的 LLM 推理服务，支持连续批处理与 SSD 缓存",
+  "tags": [
+   "LLM推理",
+   "Apple Silicon",
+   "MLX"
+  ]
+ },
+ "JustVugg/colibri": {
+  "category": "llm-ml",
+  "summary_zh": "面向前沿 MoE 大模型的分层推理引擎，热专家放 GPU、温专家放内存",
+  "tags": [
+   "大模型推理",
+   "MoE",
+   "CUDA"
+  ]
+ },
+ "jwasham/coding-interview-university": {
+  "category": "cs-learning",
+  "summary_zh": "成为软件工程师的完整计算机科学学习计划",
+  "tags": [
+   "计算机科学",
+   "学习计划",
+   "面试"
+  ]
+ },
+ "k4zmu2a/SpaceCadetPinball": {
+  "category": "games-graphics",
+  "summary_zh": "《三维弹球》Windows 版的反编译重制",
+  "tags": [
+   "反编译",
+   "弹球游戏",
+   "经典游戏"
+  ]
+ },
+ "kajisho5/ffmpeg-skill": {
+  "category": "aigc-video",
+  "summary_zh": "面向编程 Agent 的本地视频编辑工具，含 42 个 FFmpeg 工具与 MCP 服务",
+  "tags": [
+   "FFmpeg",
+   "视频编辑",
+   "MCP"
+  ]
+ },
+ "kaomei/stickman-video-director": {
+  "category": "aigc-video",
+  "summary_zh": "把脚本自动变成多风格火柴人动画视频，适合无人出镜频道",
+  "tags": [
+   "AI视频",
+   "动画",
+   "自动化"
+  ]
+ },
+ "karpathy/llm.c": {
+  "category": "llm-ml",
+  "summary_zh": "用纯 C/CUDA 编写的 LLM 训练代码",
+  "tags": [
+   "LLM训练",
+   "C语言",
+   "CUDA"
+  ]
+ },
+ "karpathy/nanoGPT": {
+  "category": "llm-ml",
+  "summary_zh": "最简单快速的中等规模 GPT 训练与微调仓库",
+  "tags": [
+   "GPT",
+   "训练",
+   "Karpathy"
+  ]
+ },
+ "karpathy/nn-zero-to-hero": {
+  "category": "llm-ml",
+  "summary_zh": "Karpathy 的神经网络从零到精通视频课程代码",
+  "tags": [
+   "神经网络",
+   "入门课程",
+   "Karpathy"
+  ]
+ },
+ "Katalyst6/CSL.TransitAddonMod": {
+  "category": "games-graphics",
+  "summary_zh": "《城市：天际线》交通相关模组（无说明文档）",
+  "tags": [
+   "城市天际线",
+   "游戏模组",
+   "交通"
+  ]
+ },
+ "KDE/kcachegrind": {
+  "category": "devtools",
+  "summary_zh": "Valgrind 等性能分析器的图形界面",
+  "tags": [
+   "性能分析",
+   "Valgrind",
+   "KDE"
+  ]
+ },
+ "KeiKinn/ShadowsocksBio": {
+  "category": "proxy",
+  "summary_zh": "Shadowsocks 前世今生与简易教程",
+  "tags": [
+   "Shadowsocks",
+   "教程",
+   "历史"
+  ]
+ },
+ "kenjihiranabe/The-Art-of-Linear-Algebra": {
+  "category": "cs-learning",
+  "summary_zh": "Gilbert Strang《人人线性代数》图解笔记",
+  "tags": [
+   "线性代数",
+   "图解",
+   "数学"
+  ]
+ },
+ "KeygraphHQ/shannon": {
+  "category": "security",
+  "summary_zh": "针对 Web 应用与 API 的 AI 自动渗透测试工具",
+  "tags": [
+   "渗透测试",
+   "AI安全",
+   "Web安全"
+  ]
+ },
+ "kkk-bot/HowToGetAlong": {
+  "category": "life-growth",
+  "summary_zh": "面向大学生与职场新人的人情世故、沟通技巧与社会规则指南",
+  "tags": [
+   "人际沟通",
+   "职场",
+   "社交"
+  ]
+ },
+ "KKKKhazix/agent-autoloop": {
+  "category": "ai-agent-skills",
+  "summary_zh": "让命令行 Agent 在后台自动接活并跟进，遇到不确定时再找你确认",
+  "tags": [
+   "Agent",
+   "自动化",
+   "命令行"
+  ]
+ },
+ "knqyf263/pet": {
+  "category": "devtools",
+  "summary_zh": "简单的命令行代码片段管理器",
+  "tags": [
+   "代码片段",
+   "命令行",
+   "Go"
+  ]
+ },
+ "komar007/gh60": {
+  "category": "os-hardware",
+  "summary_zh": "开源 GH60 机械键盘 PCB",
+  "tags": [
+   "机械键盘",
+   "PCB",
+   "开源硬件"
+  ]
+ },
+ "Kosinkadink/ComfyUI-AnimateDiff-Evolved": {
+  "category": "aigc-video",
+  "summary_zh": "增强版 AnimateDiff 的 ComfyUI 插件，支持高级采样",
+  "tags": [
+   "ComfyUI",
+   "AnimateDiff",
+   "AI动画"
+  ]
+ },
+ "Kr1s77/awesome-python-login-model": {
+  "category": "misc",
+  "summary_zh": "Python 模拟登录大型网站与简单爬虫合集",
+  "tags": [
+   "爬虫",
+   "模拟登录",
+   "Python"
+  ]
+ },
+ "kurong00/GameProgramBooks": {
+  "category": "cs-learning",
+  "summary_zh": "按 Milo Yip 游戏程序员学习路径整理的电子书",
+  "tags": [
+   "游戏开发",
+   "电子书",
+   "学习路径"
+  ]
+ },
+ "l0ng-ai/openidea": {
+  "category": "devtools",
+  "summary_zh": "用 Rust 重写的 IntelliJ 风格 IDE，原生、快速",
+  "tags": [
+   "IDE",
+   "Rust",
+   "代码编辑器"
+  ]
+ },
+ "langgenius/dify": {
+  "category": "ai-agent-skills",
+  "summary_zh": "可视化构建 Agent 工作流与 RAG 管道的 LLM 应用开发平台",
+  "tags": [
+   "LLM应用",
+   "工作流",
+   "RAG",
+   "低代码"
+  ]
+ },
+ "langgptai/awesome-gemini-prompts": {
+  "category": "llm-ml",
+  "summary_zh": "Gemini 提示词与 LangGPT 结构化提示词合集",
+  "tags": [
+   "提示词",
+   "Gemini",
+   "LangGPT"
+  ]
+ },
+ "larashero3-dotcom/lieflat-less-ai-tone": {
+  "category": "content-creation",
+  "summary_zh": "基于 520 万字语料统计的中文去 AI 味写作 Skill",
+  "tags": [
+   "去AI味",
+   "写作",
+   "Skill"
+  ]
+ },
+ "lastpass/lastpass-cli": {
+  "category": "utilities",
+  "summary_zh": "LastPass 命令行工具",
+  "tags": [
+   "密码管理",
+   "命令行",
+   "LastPass"
+  ]
+ },
+ "leela-zero/leela-zero": {
+  "category": "games-graphics",
+  "summary_zh": "无人类知识、仿 AlphaGo Zero 的围棋引擎",
+  "tags": [
+   "围棋",
+   "AlphaGo",
+   "棋类AI"
+  ]
+ },
+ "leethomason/tinyxml2": {
+  "category": "lang-lib",
+  "summary_zh": "简单高效的 C++ XML 解析器",
+  "tags": [
+   "XML",
+   "C++",
+   "解析器"
+  ]
+ },
+ "Leonxlnx/taste-skill": {
+  "category": "design-slides",
+  "summary_zh": "为编程 Agent 注入审美的 Skills：艺术指导、参考图与反 AI 感",
+  "tags": [
+   "设计审美",
+   "反AI感",
+   "Agent Skills"
+  ]
+ },
+ "Lesilva/comfyui-workflows": {
+  "category": "aigc-video",
+  "summary_zh": "ComfyUI API 工作流分享库，覆盖 FLUX、Qwen、Wan 等玩法",
+  "tags": [
+   "ComfyUI",
+   "工作流",
+   "AI绘图"
+  ]
+ },
+ "levmin/ASIO2WASAPI": {
+  "category": "audio-music",
+  "summary_zh": "连接 ASIO 与 WASAPI 的通用 ASIO 驱动",
+  "tags": [
+   "ASIO",
+   "音频驱动",
+   "Windows"
+  ]
+ },
+ "lewislulu/html-ppt-skill": {
+  "category": "design-slides",
+  "summary_zh": "含 24 套主题和 31 种版式的 HTML PPT 生成 Agent Skill",
+  "tags": [
+   "HTML幻灯片",
+   "PPT",
+   "Agent Skills"
+  ]
+ },
+ "liangyihuai/my_tensorflow": {
+  "category": "llm-ml",
+  "summary_zh": "个人深度学习 TensorFlow 代码",
+  "tags": [
+   "TensorFlow",
+   "深度学习",
+   "练习"
+  ]
+ },
+ "Ligengxin96/webdav-aliyundriver": {
+  "category": "self-hosted",
+  "summary_zh": "阿里云盘的 WebDAV 协议开源实现（Java）",
+  "tags": [
+   "阿里云盘",
+   "WebDAV",
+   "Java"
+  ]
+ },
+ "LightTable/LightTable": {
+  "category": "devtools",
+  "summary_zh": "Light Table 交互式 IDE",
+  "tags": [
+   "IDE",
+   "Clojure",
+   "编辑器"
+  ]
+ },
+ "lightvector/KataGo": {
+  "category": "games-graphics",
+  "summary_zh": "围棋 AI 引擎 KataGo，支持自对弈训练",
+  "tags": [
+   "围棋",
+   "棋类AI",
+   "强化学习"
+  ]
+ },
+ "liguodongiot/llm-action": {
+  "category": "llm-ml",
+  "summary_zh": "大模型技术原理与工程化落地实战经验分享",
+  "tags": [
+   "大模型",
+   "工程化",
+   "实战"
+  ]
+ },
+ "lilydjwg/pssh": {
+  "category": "devtools",
+  "summary_zh": "并行 SSH 工具",
+  "tags": [
+   "SSH",
+   "并行执行",
+   "运维"
+  ]
+ },
+ "limetext/lime": {
+  "category": "devtools",
+  "summary_zh": "兼容 Sublime Text API 的开源编辑器",
+  "tags": [
+   "编辑器",
+   "Sublime Text",
+   "Go"
+  ]
+ },
+ "linux-sunxi/u-boot-sunxi": {
+  "category": "os-hardware",
+  "summary_zh": "全志 A1x 原生 U-Boot 支持",
+  "tags": [
+   "U-Boot",
+   "全志",
+   "ARM"
+  ]
+ },
+ "linuxboot/linuxboot": {
+  "category": "os-hardware",
+  "summary_zh": "用 Linux 替代固件的 LinuxBoot 项目",
+  "tags": [
+   "LinuxBoot",
+   "固件",
+   "BIOS"
+  ]
+ },
+ "liyue-aigc/female-portrait-director": {
+  "category": "aigc-video",
+  "summary_zh": "生成细节丰富的 AI 女性人像提示词的模块化 Codex Skill",
+  "tags": [
+   "AI人像",
+   "提示词",
+   "Codex Skill"
+  ]
+ },
+ "liyupi/ai-guide": {
+  "category": "llm-ml",
+  "summary_zh": "程序员鱼皮的 AI 资源大全与 Vibe Coding 零基础教程",
+  "tags": [
+   "AI入门",
+   "Vibe Coding",
+   "资源合集"
+  ]
+ },
+ "llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment": {
+  "category": "games-graphics",
+  "summary_zh": "DeepMind 星际争霸 AI 环境入门指南代码",
+  "tags": [
+   "星际争霸2",
+   "AI环境",
+   "教程"
+  ]
+ },
+ "LMMS/lmms": {
+  "category": "audio-music",
+  "summary_zh": "跨平台音乐制作软件 LMMS",
+  "tags": [
+   "音乐制作",
+   "DAW",
+   "开源"
+  ]
+ },
+ "localsend/localsend": {
+  "category": "utilities",
+  "summary_zh": "开源跨平台的 AirDrop 替代，局域网互传文件",
+  "tags": [
+   "文件传输",
+   "跨平台",
+   "局域网"
+  ]
+ },
+ "Lordog/dive-into-llms": {
+  "category": "llm-ml",
+  "summary_zh": "《动手学大模型》系列编程实践教程",
+  "tags": [
+   "大模型",
+   "实践教程",
+   "中文"
+  ]
+ },
+ "LucasHild/revue": {
+  "category": "web-frontend",
+  "summary_zh": "用 Vue.js 和 Flask 编写的 Reddit 克隆",
+  "tags": [
+   "Vue",
+   "Flask",
+   "克隆项目"
+  ]
+ },
+ "lz4/lz4": {
+  "category": "lang-lib",
+  "summary_zh": "极速压缩算法 LZ4",
+  "tags": [
+   "压缩算法",
+   "LZ4",
+   "C语言"
+  ]
+ },
+ "MachineLP/CodeFun": {
+  "category": "llm-ml",
+  "summary_zh": "数据结构、刷题与深度学习练习代码合集",
+  "tags": [
+   "数据结构",
+   "深度学习",
+   "练习代码"
+  ]
+ },
+ "machrisaa/tensorflow-vgg": {
+  "category": "llm-ml",
+  "summary_zh": "TensorFlow 实现的 VGG16/VGG19",
+  "tags": [
+   "VGG",
+   "TensorFlow",
+   "计算机视觉"
+  ]
+ },
+ "magnars/expand-region.el": {
+  "category": "devtools",
+  "summary_zh": "按语义单位扩展选区的 Emacs 插件",
+  "tags": [
+   "Emacs",
+   "选区",
+   "插件"
+  ]
+ },
+ "mahmoud/awesome-python-applications": {
+  "category": "awesome-lists",
+  "summary_zh": "优秀的开源 Python 应用合集",
+  "tags": [
+   "Python",
+   "开源应用",
+   "Awesome"
+  ]
+ },
+ "mandiant/flare-learning-hub": {
+  "category": "security",
+  "summary_zh": "Mandiant FLARE 团队的免费逆向工程与恶意软件分析教程",
+  "tags": [
+   "逆向工程",
+   "恶意软件分析",
+   "教程"
+  ]
+ },
+ "markpluslabs/react-markplus": {
+  "category": "web-frontend",
+  "summary_zh": "React Markdown 编辑与预览器",
+  "tags": [
+   "Markdown",
+   "编辑器",
+   "React"
+  ]
+ },
+ "mastodon/mastodon": {
+  "category": "self-hosted",
+  "summary_zh": "可自托管、互联互通的微博式社交网络",
+  "tags": [
+   "社交网络",
+   "联邦宇宙",
+   "自托管"
+  ]
+ },
+ "MattPD/cpplinks": {
+  "category": "cs-learning",
+  "summary_zh": "分类整理的 C++ 资源列表",
+  "tags": [
+   "C++",
+   "资源列表",
+   "编译器"
+  ]
+ },
+ "mattpocock/skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "TypeScript 名师 Matt Pocock 的真实工程 Agent Skills 集",
+  "tags": [
+   "Agent Skills",
+   "软件工程",
+   "TypeScript"
+  ]
+ },
+ "mbadolato/iTerm2-Color-Schemes": {
+  "category": "devtools",
+  "summary_zh": "950 多套终端配色方案",
+  "tags": [
+   "终端配色",
+   "iTerm2",
+   "主题"
+  ]
+ },
+ "mbrucher/AudioTK": {
+  "category": "audio-music",
+  "summary_zh": "基于工作流管线的音频数字信号处理工具箱",
+  "tags": [
+   "音频处理",
+   "DSP",
+   "C++"
+  ]
+ },
+ "mcncarl/yichen-skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "面向创作者的写作、X 内容切片与公众号素材 Skill 集",
+  "tags": [
+   "内容创作",
+   "X",
+   "Agent Skills"
+  ]
+ },
+ "mermaid-js/mermaid": {
+  "category": "web-frontend",
+  "summary_zh": "用文本生成流程图、时序图等图表的工具",
+  "tags": [
+   "图表",
+   "文本绘图",
+   "Markdown"
+  ]
+ },
+ "mermaidjs/mermaid-gitbook": {
+  "category": "web-frontend",
+  "summary_zh": "Mermaid 旧版文档（已迁移）",
+  "tags": [
+   "Mermaid",
+   "文档",
+   "已迁移"
+  ]
+ },
+ "messense/aliyundrive-webdav": {
+  "category": "self-hosted",
+  "summary_zh": "阿里云盘 WebDAV 服务",
+  "tags": [
+   "阿里云盘",
+   "WebDAV",
+   "Rust"
+  ]
+ },
+ "MetaCubeX/mihomo": {
+  "category": "proxy",
+  "summary_zh": "仓库描述为解析《崩坏：星穹铁道》Mihomo API 数据的 Python 模型",
+  "tags": [
+   "mihomo",
+   "Python",
+   "待核实"
+  ]
+ },
+ "metatube-community/jellyfin-plugin-metatube": {
+  "category": "self-hosted",
+  "summary_zh": "Jellyfin/Emby 的 MetaTube 元数据插件",
+  "tags": [
+   "Jellyfin",
+   "元数据",
+   "插件"
+  ]
+ },
+ "meteor1113/emacs.d": {
+  "category": "devtools",
+  "summary_zh": "模块化加载的个人 Emacs 配置",
+  "tags": [
+   "Emacs",
+   "配置",
+   "dotfiles"
+  ]
+ },
+ "mgp25/OpenLTE": {
+  "category": "network-telecom",
+  "summary_zh": "开源的 3GPP LTE 实现",
+  "tags": [
+   "LTE",
+   "GNU Radio",
+   "通信"
+  ]
+ },
+ "michaelwillis/dragonfly-reverb": {
+  "category": "audio-music",
+  "summary_zh": "一组免费的混响效果插件",
+  "tags": [
+   "混响",
+   "音频插件",
+   "DSP"
+  ]
+ },
+ "microsoft/calculator": {
+  "category": "utilities",
+  "summary_zh": "Windows 自带计算器源码",
+  "tags": [
+   "计算器",
+   "Windows",
+   "微软"
+  ]
+ },
+ "microsoft/cascadia-code": {
+  "category": "devtools",
+  "summary_zh": "微软带编程连字的等宽字体",
+  "tags": [
+   "字体",
+   "等宽字体",
+   "连字"
+  ]
+ },
+ "microsoft/fluentui-emoji": {
+  "category": "web-frontend",
+  "summary_zh": "微软 Fluent UI 风格表情符号合集",
+  "tags": [
+   "Emoji",
+   "图标",
+   "微软"
+  ]
+ },
+ "microsoft/language-server-protocol": {
+  "category": "devtools",
+  "summary_zh": "语言服务器协议（LSP）规范",
+  "tags": [
+   "LSP",
+   "编辑器",
+   "协议规范"
+  ]
+ },
+ "microsoft/markitdown": {
+  "category": "devtools",
+  "summary_zh": "微软出品，把各种文件与 Office 文档转为 Markdown 的工具",
+  "tags": [
+   "Markdown",
+   "文档转换",
+   "微软"
+  ]
+ },
+ "microsoft/mcp-for-beginners": {
+  "category": "ai-agent-skills",
+  "summary_zh": "微软的 MCP（模型上下文协议）入门课程",
+  "tags": [
+   "MCP",
+   "入门教程",
+   "微软"
+  ]
+ },
+ "microsoft/MIEngine": {
+  "category": "devtools",
+  "summary_zh": "Visual Studio MI 调试引擎",
+  "tags": [
+   "调试器",
+   "Visual Studio",
+   "GDB"
+  ]
+ },
+ "microsoft/MS-DOS": {
+  "category": "os-hardware",
+  "summary_zh": "MS-DOS 1.25/2.0/4.0 原始源码",
+  "tags": [
+   "MS-DOS",
+   "操作系统",
+   "历史源码"
+  ]
+ },
+ "microsoft/playwright": {
+  "category": "devtools",
+  "summary_zh": "微软出品的 Web 测试与浏览器自动化框架",
+  "tags": [
+   "浏览器自动化",
+   "测试",
+   "微软"
+  ]
+ },
+ "microsoft/qlib": {
+  "category": "finance-blockchain",
+  "summary_zh": "微软开源的 AI 量化投资平台",
+  "tags": [
+   "量化投资",
+   "AI",
+   "微软"
+  ]
+ },
+ "microsoft/RustTraining": {
+  "category": "cs-learning",
+  "summary_zh": "微软的 Rust 从入门到专家培训资料",
+  "tags": [
+   "Rust",
+   "培训教程",
+   "微软"
+  ]
+ },
+ "microsoft/SPTAG": {
+  "category": "llm-ml",
+  "summary_zh": "微软分布式近似最近邻搜索库",
+  "tags": [
+   "向量检索",
+   "ANN",
+   "微软"
+  ]
+ },
+ "microsoft/terminal": {
+  "category": "devtools",
+  "summary_zh": "新版 Windows Terminal 与控制台主机",
+  "tags": [
+   "终端",
+   "Windows",
+   "微软"
+  ]
+ },
+ "microsoft/TypeScript": {
+  "category": "lang-lib",
+  "summary_zh": "TypeScript 语言",
+  "tags": [
+   "TypeScript",
+   "编程语言",
+   "微软"
+  ]
+ },
+ "microsoft/VS-PPT": {
+  "category": "devtools",
+  "summary_zh": "Visual Studio 生产力增强扩展集",
+  "tags": [
+   "Visual Studio",
+   "扩展",
+   "效率"
+  ]
+ },
+ "microsoft/vscode": {
+  "category": "devtools",
+  "summary_zh": "Visual Studio Code 编辑器",
+  "tags": [
+   "VS Code",
+   "编辑器",
+   "微软"
+  ]
+ },
+ "microsoft/Web-Dev-For-Beginners": {
+  "category": "cs-learning",
+  "summary_zh": "微软 12 周 24 课的 Web 开发入门课程",
+  "tags": [
+   "Web开发",
+   "入门课程",
+   "微软"
+  ]
+ },
+ "microsoft/WSL2-Linux-Kernel": {
+  "category": "os-hardware",
+  "summary_zh": "WSL2 使用的 Linux 内核源码",
+  "tags": [
+   "WSL2",
+   "Linux内核",
+   "微软"
+  ]
+ },
+ "MicrosoftEdge/magic-mirror-demo": {
+  "category": "misc",
+  "summary_zh": "基于 UWP 托管 Web 应用的魔镜示例",
+  "tags": [
+   "魔镜",
+   "UWP",
+   "示例"
+  ]
+ },
+ "miloyip/game-programmer": {
+  "category": "cs-learning",
+  "summary_zh": "游戏程序员学习路线图",
+  "tags": [
+   "游戏开发",
+   "学习路线",
+   "书单"
+  ]
+ },
+ "MiniMax-AI/MiniMax-H3": {
+  "category": "aigc-video",
+  "summary_zh": "MiniMax H3 模型仓库，附提示词写作等配套 Skills",
+  "tags": [
+   "MiniMax",
+   "视频模型",
+   "提示词"
+  ]
+ },
+ "MiniMax-AI/skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "MiniMax 官方编程 Agent 技能集，覆盖前端、全栈、移动端与 Shader",
+  "tags": [
+   "Agent Skills",
+   "MiniMax",
+   "全栈开发"
+  ]
+ },
+ "minitorch/minitorch": {
+  "category": "llm-ml",
+  "summary_zh": "MiniTorch 深度学习框架教学项目",
+  "tags": [
+   "深度学习框架",
+   "教学",
+   "PyTorch"
+  ]
+ },
+ "mit-pdos/xv6-riscv": {
+  "category": "os-hardware",
+  "summary_zh": "MIT 用于教学的 RISC-V 版 xv6 操作系统",
+  "tags": [
+   "操作系统",
+   "RISC-V",
+   "教学"
+  ]
+ },
+ "mitmproxy/mitmproxy": {
+  "category": "security",
+  "summary_zh": "支持 TLS 的交互式 HTTP 抓包代理",
+  "tags": [
+   "抓包",
+   "HTTP代理",
+   "渗透测试"
+  ]
+ },
+ "miyagawa/cpanminus": {
+  "category": "devtools",
+  "summary_zh": "CPAN 模块安装工具 cpanminus",
+  "tags": [
+   "Perl",
+   "CPAN",
+   "包管理"
+  ]
+ },
+ "mmp/pbrt-v3": {
+  "category": "games-graphics",
+  "summary_zh": "《基于物理的渲染》第三版渲染器 pbrt-v3",
+  "tags": [
+   "渲染器",
+   "PBR",
+   "图形学"
+  ]
+ },
+ "mohamedameen-io/CS-6210-Advanced-Operating-Systems-Notes": {
+  "category": "cs-learning",
+  "summary_zh": "佐治亚理工高级操作系统课程笔记",
+  "tags": [
+   "操作系统",
+   "课程笔记",
+   "分布式"
+  ]
+ },
+ "moonlight-stream/moonlight-qt": {
+  "category": "games-graphics",
+  "summary_zh": "PC 端 GameStream 游戏串流客户端",
+  "tags": [
+   "游戏串流",
+   "Moonlight",
+   "客户端"
+  ]
+ },
+ "moraroy/NonSteamLaunchers-On-Steam-Deck": {
+  "category": "games-graphics",
+  "summary_zh": "在 Steam Deck 上安装非 Steam 游戏平台启动器",
+  "tags": [
+   "Steam Deck",
+   "Proton",
+   "游戏"
+  ]
+ },
+ "morluto/rea": {
+  "category": "ai-agent-skills",
+  "summary_zh": "用 Agent 逆向分析一切，从 App 行为到原生代码",
+  "tags": [
+   "逆向工程",
+   "Agent Skills",
+   "安全研究"
+  ]
+ },
+ "MovingBlocks/TerasologyLauncher": {
+  "category": "games-graphics",
+  "summary_zh": "开源游戏 Terasology 的官方启动器",
+  "tags": [
+   "游戏启动器",
+   "Terasology",
+   "Java"
+  ]
+ },
+ "mozilla-mobile/firefox-ios": {
+  "category": "utilities",
+  "summary_zh": "Firefox iOS 版",
+  "tags": [
+   "Firefox",
+   "浏览器",
+   "iOS"
+  ]
+ },
+ "mozilla/send": {
+  "category": "self-hosted",
+  "summary_zh": "火狐出品的私密文件分享服务",
+  "tags": [
+   "文件分享",
+   "隐私",
+   "自托管"
+  ]
+ },
+ "mpv-player/mpv": {
+  "category": "media",
+  "summary_zh": "命令行媒体播放器 mpv",
+  "tags": [
+   "视频播放器",
+   "mpv",
+   "命令行"
+  ]
+ },
+ "MrCheeze/botw-waypoint-map": {
+  "category": "games-graphics",
+  "summary_zh": "《塞尔达：旷野之息》全地图传送点地图",
+  "tags": [
+   "塞尔达",
+   "游戏地图",
+   "攻略"
+  ]
+ },
+ "msys2/msys2": {
+  "category": "devtools",
+  "summary_zh": "Windows 上的软件发行与构建平台 MSYS2",
+  "tags": [
+   "MSYS2",
+   "Windows",
+   "构建环境"
+  ]
+ },
+ "mtytel/helm": {
+  "category": "audio-music",
+  "summary_zh": "免费的复音合成器 Helm",
+  "tags": [
+   "合成器",
+   "复音",
+   "音频插件"
+  ]
+ },
+ "multica-ai/andrej-karpathy-skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "基于 Karpathy 经验总结的 CLAUDE.md，改善 Claude Code 行为",
+  "tags": [
+   "CLAUDE.md",
+   "Claude Code",
+   "最佳实践"
+  ]
+ },
+ "musescore/MuseScore": {
+  "category": "audio-music",
+  "summary_zh": "开源免费的乐谱制作软件",
+  "tags": [
+   "乐谱",
+   "打谱",
+   "音乐"
+  ]
+ },
+ "NARKOZ/hacker-scripts": {
+  "category": "misc",
+  "summary_zh": "“真实故事改编”的程序员自动化脚本",
+  "tags": [
+   "自动化脚本",
+   "程序员",
+   "趣味"
+  ]
+ },
+ "nateherkai/herk-edit-kit": {
+  "category": "aigc-video",
+  "summary_zh": "用 Codex/Claude Code 剪辑视频、Reels 与 Shorts 的 15 个 Skill 套件",
+  "tags": [
+   "视频剪辑",
+   "Agent Skills",
+   "短视频"
+  ]
+ },
+ "NationalSecurityAgency/ghidra": {
+  "category": "security",
+  "summary_zh": "NSA 开源的软件逆向工程框架 Ghidra",
+  "tags": [
+   "逆向工程",
+   "反汇编",
+   "NSA"
+  ]
+ },
+ "neilsonnn/image-blaster": {
+  "category": "aigc-video",
+  "summary_zh": "把图片扩展成 3D 世界的 Claude Skill 集",
+  "tags": [
+   "图生世界",
+   "3D",
+   "Claude Skill"
+  ]
+ },
+ "nextlevelbuilder/ui-ux-pro-max-skill": {
+  "category": "design-slides",
+  "summary_zh": "为构建专业 UI/UX 提供设计智能的 AI Skill",
+  "tags": [
+   "UI/UX",
+   "设计",
+   "Agent Skills"
+  ]
+ },
+ "nexu-io/open-design": {
+  "category": "design-slides",
+  "summary_zh": "本地优先的开源协作式 AI 设计工作台，可做原型、网站与动效",
+  "tags": [
+   "AI设计",
+   "设计工具",
+   "本地优先"
+  ]
+ },
+ "ngosang/trackerslist": {
+  "category": "media",
+  "summary_zh": "每日更新的公共 BitTorrent Tracker 列表",
+  "tags": [
+   "BT Tracker",
+   "BitTorrent",
+   "下载加速"
+  ]
+ },
+ "nickel0/3GPP-Overall-Architecture": {
+  "category": "network-telecom",
+  "summary_zh": "3GPP 整体架构与规范资料（含 Release 17）",
+  "tags": [
+   "3GPP",
+   "通信规范",
+   "5G"
+  ]
+ },
+ "nieklinnenbank/FreeNOS": {
+  "category": "os-hardware",
+  "summary_zh": "实验性微内核操作系统 FreeNOS",
+  "tags": [
+   "微内核",
+   "操作系统",
+   "教学"
+  ]
+ },
+ "nilaoda/N_m3u8DL-CLI": {
+  "category": "media",
+  "summary_zh": "开源命令行 m3u8/HLS/DASH 下载器",
+  "tags": [
+   "m3u8",
+   "视频下载",
+   "命令行"
+  ]
+ },
+ "nilbuild/developer-roadmap": {
+  "category": "cs-learning",
+  "summary_zh": "交互式开发者成长路线图",
+  "tags": [
+   "学习路线",
+   "开发者",
+   "职业发展"
+  ]
+ },
+ "ninehills/blog": {
+  "category": "misc",
+  "summary_zh": "个人技术博客，关注大模型、AI Agent、推理优化与 SRE",
+  "tags": [
+   "技术博客",
+   "大模型",
+   "SRE"
+  ]
+ },
+ "ninetyhe-90/ai-engineering-interview-questions-company-wise-zh-cn": {
+  "category": "cs-learning",
+  "summary_zh": "按公司分类的 AI 工程面试题中文版速查手册",
+  "tags": [
+   "AI面试",
+   "面试题",
+   "中文"
+  ]
+ },
+ "noDRM/DeDRM_tools": {
+  "category": "utilities",
+  "summary_zh": "电子书去 DRM 工具",
+  "tags": [
+   "电子书",
+   "DRM",
+   "Calibre"
+  ]
+ },
+ "notable/notable": {
+  "category": "utilities",
+  "summary_zh": "基于 Markdown 的笔记应用",
+  "tags": [
+   "笔记",
+   "Markdown",
+   "Electron"
+  ]
+ },
+ "notepad-plus-plus/notepad-plus-plus": {
+  "category": "devtools",
+  "summary_zh": "Notepad++ 官方仓库",
+  "tags": [
+   "文本编辑器",
+   "Notepad++",
+   "Windows"
+  ]
+ },
+ "NousResearch/hermes-agent": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Nous Research 出品、可随使用成长的 AI Agent",
+  "tags": [
+   "AI Agent",
+   "自我进化",
+   "开源"
+  ]
+ },
+ "Nutlope/hallmark": {
+  "category": "design-slides",
+  "summary_zh": "面向 Claude Code、Cursor、Codex 的反“AI 廉价感”设计 Skill",
+  "tags": [
+   "UI设计",
+   "反AI感",
+   "Skill"
+  ]
+ },
+ "NVIDIA/open-gpu-kernel-modules": {
+  "category": "os-hardware",
+  "summary_zh": "NVIDIA Linux 开源 GPU 内核模块",
+  "tags": [
+   "NVIDIA",
+   "GPU驱动",
+   "Linux内核"
+  ]
+ },
+ "NVIDIA/skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "NVIDIA 产品的官方 Agent Skills",
+  "tags": [
+   "Agent Skills",
+   "NVIDIA",
+   "GPU"
+  ]
+ },
+ "nvie/gitflow": {
+  "category": "devtools",
+  "summary_zh": "实现 Git Flow 分支模型的 Git 扩展",
+  "tags": [
+   "Git",
+   "Git Flow",
+   "分支模型"
+  ]
+ },
+ "obra/superpowers": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Agent 技能框架与软件开发方法论，含任务拆解、评审与兜底规则",
+  "tags": [
+   "Agent Skills",
+   "开发方法论",
+   "Claude Code"
+  ]
+ },
+ "obsidianmd/obsidian-skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Obsidian 官方 Agent Skills，教 Agent 使用 Obsidian CLI 与相关格式",
+  "tags": [
+   "Obsidian",
+   "Agent Skills",
+   "笔记"
+  ]
+ },
+ "obsproject/obs-studio": {
+  "category": "media",
+  "summary_zh": "免费开源的直播与录屏软件 OBS Studio",
+  "tags": [
+   "直播",
+   "录屏",
+   "OBS"
+  ]
+ },
+ "official-stockfish/Stockfish": {
+  "category": "games-graphics",
+  "summary_zh": "免费且强大的 UCI 国际象棋引擎",
+  "tags": [
+   "国际象棋",
+   "棋类引擎",
+   "C++"
+  ]
+ },
+ "oil-oil/video-publisher-skill": {
+  "category": "content-creation",
+  "summary_zh": "把视频、标题和封面准备成多平台草稿，停在最终发布前",
+  "tags": [
+   "视频发布",
+   "多平台",
+   "自媒体"
+  ]
+ },
+ "oilervoss/transmission": {
+  "category": "media",
+  "summary_zh": "Transmission 辅助脚本",
+  "tags": [
+   "Transmission",
+   "脚本",
+   "BT"
+  ]
+ },
+ "olilarkin/awesome-musicdsp": {
+  "category": "audio-music",
+  "summary_zh": "精选音乐 DSP 与音频编程资源",
+  "tags": [
+   "音频编程",
+   "DSP",
+   "Awesome"
+  ]
+ },
+ "olilarkin/wdl-ol": {
+  "category": "audio-music",
+  "summary_zh": "增强版 iPlug C++ 音频插件框架",
+  "tags": [
+   "音频插件",
+   "iPlug",
+   "C++"
+  ]
+ },
+ "OneWayTech/vue-datatable-component": {
+  "category": "web-frontend",
+  "summary_zh": "Vue 1.x 数据表格组件",
+  "tags": [
+   "Vue",
+   "数据表格",
+   "组件"
+  ]
+ },
+ "op7418/guizang-ppt-skill": {
+  "category": "design-slides",
+  "summary_zh": "生成杂志风等精美 HTML 幻灯片的 Agent Skill",
+  "tags": [
+   "HTML幻灯片",
+   "PPT",
+   "Agent Skills"
+  ]
+ },
+ "op7418/guizang-social-card-skill": {
+  "category": "content-creation",
+  "summary_zh": "生成小红书轮播图与公众号卡片的 Claude Code/Codex Skill",
+  "tags": [
+   "小红书",
+   "社交卡片",
+   "Skill"
+  ]
+ },
+ "Open-Dev-Society/OpenStock": {
+  "category": "finance-blockchain",
+  "summary_zh": "开源的股票行情分析平台，替代昂贵的市场工具",
+  "tags": [
+   "股票",
+   "行情",
+   "开源替代"
+  ]
+ },
+ "openai/codex": {
+  "category": "ai-agent-skills",
+  "summary_zh": "OpenAI 出品的终端轻量编程 Agent",
+  "tags": [
+   "编程Agent",
+   "OpenAI",
+   "命令行"
+  ]
+ },
+ "openai/gpt-2": {
+  "category": "llm-ml",
+  "summary_zh": "OpenAI GPT-2 论文代码",
+  "tags": [
+   "GPT-2",
+   "OpenAI",
+   "论文代码"
+  ]
+ },
+ "openbios/openbios": {
+  "category": "os-hardware",
+  "summary_zh": "首个开源的 OpenFirmware 实现",
+  "tags": [
+   "OpenFirmware",
+   "固件",
+   "Forth"
+  ]
+ },
+ "opendataloader-project/opendataloader-pdf": {
+  "category": "llm-ml",
+  "summary_zh": "为 AI 准备数据的 PDF 解析器，并支持 PDF 无障碍化",
+  "tags": [
+   "PDF解析",
+   "数据提取",
+   "RAG"
+  ]
+ },
+ "opendns/dnscrypt-proxy": {
+  "category": "proxy",
+  "summary_zh": "保护 DNS 通信安全的工具",
+  "tags": [
+   "DNS加密",
+   "DNSCrypt",
+   "隐私"
+  ]
+ },
+ "OpenEmu/OpenEmu": {
+  "category": "games-graphics",
+  "summary_zh": "macOS 复古游戏模拟器",
+  "tags": [
+   "模拟器",
+   "复古游戏",
+   "macOS"
+  ]
+ },
+ "openglsuperbible/sb7code": {
+  "category": "games-graphics",
+  "summary_zh": "《OpenGL 超级宝典》第 7 版配套代码",
+  "tags": [
+   "OpenGL",
+   "图形学",
+   "书籍代码"
+  ]
+ },
+ "OpenLiveWriter/OpenLiveWriter": {
+  "category": "utilities",
+  "summary_zh": "Windows Live Writer 的开源分支博客写作工具",
+  "tags": [
+   "博客写作",
+   "Windows",
+   "桌面应用"
+  ]
+ },
+ "OpenMausBot/OpenMausBot": {
+  "category": "ai-agent-skills",
+  "summary_zh": "开源的 Grok Bot 替代品，提供可供机器人使用的虚拟机",
+  "tags": [
+   "AI助手",
+   "虚拟机",
+   "开源替代"
+  ]
+ },
+ "OpenModelica/OpenModelica": {
+  "category": "games-graphics",
+  "summary_zh": "基于 Modelica 的开源建模与仿真环境",
+  "tags": [
+   "建模仿真",
+   "Modelica",
+   "编译器"
+  ]
+ },
+ "OpenMontageInc/OpenMontage": {
+  "category": "aigc-video",
+  "summary_zh": "开源的 Agent 化视频制作系统，含 12 条生产管线与大量工具",
+  "tags": [
+   "AI视频",
+   "视频制作",
+   "Agent"
+  ]
+ },
+ "OpenMoonRay/openmoonray": {
+  "category": "games-graphics",
+  "summary_zh": "梦工厂开源的获奖级生产路径追踪渲染器",
+  "tags": [
+   "渲染器",
+   "路径追踪",
+   "梦工厂"
+  ]
+ },
+ "OpenSenseNova/SenseNova-U1": {
+  "category": "llm-ml",
+  "summary_zh": "商汤 SenseNova-U 原生统一多模态模型系列",
+  "tags": [
+   "多模态",
+   "开源模型",
+   "商汤"
+  ]
+ },
+ "opentoonz/opentoonz": {
+  "category": "games-graphics",
+  "summary_zh": "开源全功能 2D 动画制作软件",
+  "tags": [
+   "2D动画",
+   "动画制作",
+   "开源"
+  ]
+ },
+ "opentrack/opentrack": {
+  "category": "games-graphics",
+  "summary_zh": "头部追踪软件，常用于飞行模拟",
+  "tags": [
+   "头部追踪",
+   "飞行模拟",
+   "跨平台"
+  ]
+ },
+ "OpenXiangShan/XiangShan": {
+  "category": "os-hardware",
+  "summary_zh": "开源高性能 RISC-V 处理器“香山”",
+  "tags": [
+   "RISC-V",
+   "处理器",
+   "芯片设计"
+  ]
+ },
+ "oracle/opengrok": {
+  "category": "devtools",
+  "summary_zh": "快速的源码搜索与交叉引用引擎",
+  "tags": [
+   "代码搜索",
+   "交叉引用",
+   "Java"
+  ]
+ },
+ "orbiternassp/NASSP": {
+  "category": "games-graphics",
+  "summary_zh": "阿波罗计划模拟（NASSP）项目",
+  "tags": [
+   "阿波罗",
+   "航天模拟",
+   "Orbiter"
+  ]
+ },
+ "orbitersim/orbiter": {
+  "category": "games-graphics",
+  "summary_zh": "开源的 Orbiter 太空飞行模拟器",
+  "tags": [
+   "航天模拟",
+   "飞行模拟",
+   "仿真"
+  ]
+ },
+ "otter1101/blogger-distiller": {
+  "category": "content-creation",
+  "summary_zh": "博主蒸馏器：输入博主链接，提炼其认知框架与内容方法",
+  "tags": [
+   "自媒体",
+   "博主分析",
+   "Skill"
+  ]
+ },
+ "OutlineFoundation/outline-apps": {
+  "category": "proxy",
+  "summary_zh": "Outline 客户端与管理器，轻松自建 VPN",
+  "tags": [
+   "Outline",
+   "VPN",
+   "客户端"
+  ]
+ },
+ "OutlineFoundation/outline-server": {
+  "category": "proxy",
+  "summary_zh": "Jigsaw 开发、运行 Shadowsocks 的 Outline 代理服务端",
+  "tags": [
+   "Outline",
+   "Shadowsocks",
+   "服务端"
+  ]
+ },
+ "PacktPublishing/Learning-Linux-Binary-Analysis": {
+  "category": "security",
+  "summary_zh": "《Linux 二进制分析》书籍配套代码",
+  "tags": [
+   "二进制分析",
+   "Linux",
+   "书籍代码"
+  ]
+ },
+ "pahaz/sshtunnel": {
+  "category": "lang-lib",
+  "summary_zh": "Python SSH 隧道库",
+  "tags": [
+   "SSH隧道",
+   "Python",
+   "网络"
+  ]
+ },
+ "pannal/Sub-Zero.bundle": {
+  "category": "self-hosted",
+  "summary_zh": "Plex 字幕自动下载插件",
+  "tags": [
+   "Plex",
+   "字幕",
+   "插件"
+  ]
+ },
+ "paperclipai/paperclip": {
+  "category": "ai-agent-skills",
+  "summary_zh": "开源 Agent 管理平台，用于在工作中编排和管理多个 AI Agent",
+  "tags": [
+   "Agent编排",
+   "多Agent",
+   "团队协作"
+  ]
+ },
+ "ParallelSSH/parallel-ssh": {
+  "category": "lang-lib",
+  "summary_zh": "异步并行 SSH 客户端库",
+  "tags": [
+   "SSH",
+   "并行",
+   "Python"
+  ]
+ },
+ "paramiko/paramiko": {
+  "category": "lang-lib",
+  "summary_zh": "Python SSHv2 协议库 Paramiko",
+  "tags": [
+   "SSH",
+   "Python",
+   "库"
+  ]
+ },
+ "patch-gg/pixelfx": {
+  "category": "design-slides",
+  "summary_zh": "244 种像素艺术特效代码库，附自制特效的 Claude Code Skill",
+  "tags": [
+   "像素艺术",
+   "特效",
+   "Canvas"
+  ]
+ },
+ "patosai/gh60": {
+  "category": "os-hardware",
+  "summary_zh": "GH60 Satan 键盘固件",
+  "tags": [
+   "键盘固件",
+   "GH60",
+   "机械键盘"
+  ]
+ },
+ "pbakaus/impeccable": {
+  "category": "design-slides",
+  "summary_zh": "面向编程 Agent 的设计词汇表，用设计行话精准控制效果",
+  "tags": [
+   "设计语言",
+   "UI",
+   "Agent Skills"
+  ]
+ },
+ "pbatard/rufus": {
+  "category": "utilities",
+  "summary_zh": "可靠的 USB 启动盘制作工具",
+  "tags": [
+   "启动盘",
+   "USB",
+   "Windows"
+  ]
+ },
+ "peach-mitao/peach": {
+  "category": "media",
+  "summary_zh": "本地优先的视频元数据刮削与媒体库管理工具",
+  "tags": [
+   "媒体库",
+   "刮削",
+   "本地优先"
+  ]
+ },
+ "penpot/penpot": {
+  "category": "design-slides",
+  "summary_zh": "面向产品团队的开源设计与原型平台，Figma 替代",
+  "tags": [
+   "设计工具",
+   "原型",
+   "开源替代"
+  ]
+ },
+ "pepe2k/u-boot_mod": {
+  "category": "os-hardware",
+  "summary_zh": "路由器 U-Boot 1.1.4 修改版",
+  "tags": [
+   "U-Boot",
+   "路由器",
+   "Bootloader"
+  ]
+ },
+ "peterq/pan-light": {
+  "category": "utilities",
+  "summary_zh": "百度网盘不限速跨平台客户端",
+  "tags": [
+   "百度网盘",
+   "下载",
+   "Go"
+  ]
+ },
+ "pgsty/acdat": {
+  "category": "lang-lib",
+  "summary_zh": "基于双数组 Trie 的 AC 自动机多模式匹配",
+  "tags": [
+   "AC自动机",
+   "Trie",
+   "字符串匹配"
+  ]
+ },
+ "phodal/awesome-iot": {
+  "category": "awesome-lists",
+  "summary_zh": "物联网资源合集",
+  "tags": [
+   "物联网",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "photoprism/photoprism": {
+  "category": "self-hosted",
+  "summary_zh": "AI 驱动的自托管照片管理应用",
+  "tags": [
+   "相册",
+   "AI",
+   "自托管"
+  ]
+ },
+ "phpipam/phpipam": {
+  "category": "network-telecom",
+  "summary_zh": "IP 地址管理系统 phpIPAM",
+  "tags": [
+   "IP管理",
+   "IPAM",
+   "网络运维"
+  ]
+ },
+ "pixel-agents-hq/pixel-agents": {
+  "category": "ai-agent-skills",
+  "summary_zh": "把终端里的 AI 编程 Agent 变成像素小人在办公室里工作的可视化工具",
+  "tags": [
+   "Agent可视化",
+   "像素风",
+   "VS Code"
+  ]
+ },
+ "pjialin/py12306": {
+  "category": "utilities",
+  "summary_zh": "12306 抢票助手，支持多账号多任务",
+  "tags": [
+   "12306",
+   "抢票",
+   "火车票"
+  ]
+ },
+ "PKUFlyingPig/cs-self-learning": {
+  "category": "cs-learning",
+  "summary_zh": "北大学长的计算机自学指南",
+  "tags": [
+   "计算机自学",
+   "课程推荐",
+   "CS"
+  ]
+ },
+ "PlainTextTools/plain-text-table": {
+  "category": "devtools",
+  "summary_zh": "交互式编辑表格并导出为纯文本的工具",
+  "tags": [
+   "纯文本表格",
+   "ASCII",
+   "在线工具"
+  ]
+ },
+ "pomeo/oblivion-emacs": {
+  "category": "devtools",
+  "summary_zh": "Emacs 的 Oblivion 配色主题",
+  "tags": [
+   "Emacs",
+   "配色主题",
+   "编辑器"
+  ]
+ },
+ "ponyodong2026/ponyo-cover-anchor-system": {
+  "category": "content-creation",
+  "summary_zh": "小红书封面设计 Skill：信息密度与视觉锚点",
+  "tags": [
+   "小红书",
+   "封面设计",
+   "Skill"
+  ]
+ },
+ "poweradminllc/PAExec": {
+  "category": "devtools",
+  "summary_zh": "类似 PsExec 的远程执行工具",
+  "tags": [
+   "远程执行",
+   "Windows",
+   "运维"
+  ]
+ },
+ "powerline/fonts": {
+  "category": "devtools",
+  "summary_zh": "Powerline 补丁字体",
+  "tags": [
+   "字体",
+   "Powerline",
+   "终端美化"
+  ]
+ },
+ "PowerShell/PowerShell": {
+  "category": "devtools",
+  "summary_zh": "跨平台 PowerShell",
+  "tags": [
+   "PowerShell",
+   "命令行",
+   "微软"
+  ]
+ },
+ "pret/pokered": {
+  "category": "games-graphics",
+  "summary_zh": "宝可梦红/蓝版反汇编",
+  "tags": [
+   "反汇编",
+   "宝可梦",
+   "GameBoy"
+  ]
+ },
+ "prman-pixar/RenderManForBlender": {
+  "category": "games-graphics",
+  "summary_zh": "Blender 的 RenderMan 渲染插件",
+  "tags": [
+   "RenderMan",
+   "Blender",
+   "渲染"
+  ]
+ },
+ "programthink/opensource": {
+  "category": "awesome-lists",
+  "summary_zh": "编程随想收藏的开源项目清单",
+  "tags": [
+   "开源清单",
+   "编程随想",
+   "资源导航"
+  ]
+ },
+ "psmoveservice/PSMoveService": {
+  "category": "games-graphics",
+  "summary_zh": "PS Move 控制器姿态追踪后台服务",
+  "tags": [
+   "PS Move",
+   "姿态追踪",
+   "VR"
+  ]
+ },
+ "purcell/emacs.d": {
+  "category": "devtools",
+  "summary_zh": "开箱即用的 Emacs 配置包",
+  "tags": [
+   "Emacs",
+   "配置",
+   "dotfiles"
+  ]
+ },
+ "PX4/PX4-Autopilot": {
+  "category": "os-hardware",
+  "summary_zh": "PX4 无人机自动驾驶仪软件",
+  "tags": [
+   "无人机",
+   "飞控",
+   "自动驾驶"
+  ]
+ },
+ "pycrypto/pycrypto": {
+  "category": "lang-lib",
+  "summary_zh": "Python 密码学工具包",
+  "tags": [
+   "密码学",
+   "Python",
+   "加密"
+  ]
+ },
+ "Pylons/pyramid": {
+  "category": "lang-lib",
+  "summary_zh": "Python Web 框架 Pyramid",
+  "tags": [
+   "Web框架",
+   "Python",
+   "Pyramid"
+  ]
+ },
+ "qarmin/czkawka": {
+  "category": "utilities",
+  "summary_zh": "查找重复文件、空文件夹与相似图片的多功能清理工具",
+  "tags": [
+   "重复文件",
+   "磁盘清理",
+   "Rust"
+  ]
+ },
+ "qax-os/excelize": {
+  "category": "lang-lib",
+  "summary_zh": "读写 Excel 文件的 Go 语言库",
+  "tags": [
+   "Excel",
+   "Go",
+   "库"
+  ]
+ },
+ "qbittorrent/qBittorrent": {
+  "category": "media",
+  "summary_zh": "qBittorrent BT 客户端",
+  "tags": [
+   "BitTorrent",
+   "下载",
+   "Qt"
+  ]
+ },
+ "qfish/XAlign": {
+  "category": "devtools",
+  "summary_zh": "Xcode 代码对齐扩展",
+  "tags": [
+   "Xcode",
+   "代码对齐",
+   "扩展"
+  ]
+ },
+ "QingYunA/answer-me-with-html": {
+  "category": "ai-agent-skills",
+  "summary_zh": "让 Agent 用一页可读的 HTML 回答复杂问题的 Skill",
+  "tags": [
+   "Agent Skills",
+   "HTML",
+   "知识呈现"
+  ]
+ },
+ "Qucs/qucs": {
+  "category": "os-hardware",
+  "summary_zh": "Qucs 电路仿真软件",
+  "tags": [
+   "电路仿真",
+   "EDA",
+   "开源"
+  ]
+ },
+ "ramnes/awesome-mongodb": {
+  "category": "awesome-lists",
+  "summary_zh": "MongoDB 资源合集",
+  "tags": [
+   "MongoDB",
+   "Awesome",
+   "数据库"
+  ]
+ },
+ "rasbt/deeplearning-models": {
+  "category": "llm-ml",
+  "summary_zh": "各类深度学习架构与模型实现合集",
+  "tags": [
+   "深度学习",
+   "模型实现",
+   "PyTorch"
+  ]
+ },
+ "rasbt/LLMs-from-scratch": {
+  "category": "llm-ml",
+  "summary_zh": "用 PyTorch 一步步从零实现类 ChatGPT 大模型",
+  "tags": [
+   "大模型",
+   "PyTorch",
+   "从零实现"
+  ]
+ },
+ "RayTracing/raytracing.github.io": {
+  "category": "games-graphics",
+  "summary_zh": "《光线追踪》系列在线书籍",
+  "tags": [
+   "光线追踪",
+   "图形学",
+   "在线书"
+  ]
+ },
+ "razvan9310/barrelfish": {
+  "category": "cs-learning",
+  "summary_zh": "ETH 高级操作系统 Barrelfish 作业",
+  "tags": [
+   "操作系统",
+   "课程作业",
+   "ARM"
+  ]
+ },
+ "rcsoccersim/rcssserver": {
+  "category": "games-graphics",
+  "summary_zh": "RoboCup 2D 足球仿真官方服务器",
+  "tags": [
+   "RoboCup",
+   "足球仿真",
+   "服务器"
+  ]
+ },
+ "reactos/reactos": {
+  "category": "os-hardware",
+  "summary_zh": "免费的 Windows 兼容操作系统 ReactOS",
+  "tags": [
+   "操作系统",
+   "Windows兼容",
+   "开源"
+  ]
+ },
+ "reddit-archive/reddit": {
+  "category": "misc",
+  "summary_zh": "Reddit.com 历史源码",
+  "tags": [
+   "Reddit",
+   "历史源码",
+   "Python"
+  ]
+ },
+ "reddit/baseplate.py": {
+  "category": "lang-lib",
+  "summary_zh": "Reddit 的 Python 服务框架",
+  "tags": [
+   "Python",
+   "服务框架",
+   "Reddit"
+  ]
+ },
+ "redguardtoo/emacs.d": {
+  "category": "devtools",
+  "summary_zh": "快速稳健的 Emacs 配置",
+  "tags": [
+   "Emacs",
+   "配置",
+   "dotfiles"
+  ]
+ },
+ "redhobor/simplecd": {
+  "category": "media",
+  "summary_zh": "SimpleCD 项目源码（自 Google Code 导出）",
+  "tags": [
+   "SimpleCD",
+   "Google Code",
+   "历史项目"
+  ]
+ },
+ "Relento/lego_release": {
+  "category": "misc",
+  "summary_zh": "将可视化乐高说明书转为机器可执行计划的 ECCV 论文代码",
+  "tags": [
+   "乐高",
+   "论文代码",
+   "计算机视觉"
+  ]
+ },
+ "remotion-dev/remotion": {
+  "category": "aigc-video",
+  "summary_zh": "用 React 以编程方式制作视频的框架",
+  "tags": [
+   "视频生成",
+   "React",
+   "编程视频"
+  ]
+ },
+ "Revadike/epicgames-freebies-claimer": {
+  "category": "games-graphics",
+  "summary_zh": "自动领取 Epic 游戏商城免费游戏",
+  "tags": [
+   "Epic",
+   "免费游戏",
+   "自动化"
+  ]
+ },
+ "rohitg00/awesome-claude-design": {
+  "category": "design-slides",
+  "summary_zh": "按美学流派整理的 Claude Design DESIGN.md 提示词与技能合集",
+  "tags": [
+   "AI设计",
+   "提示词",
+   "Awesome"
+  ]
+ },
+ "rswier/c4": {
+  "category": "lang-lib",
+  "summary_zh": "只用四个函数实现的 C 编译器",
+  "tags": [
+   "C编译器",
+   "极简",
+   "学习"
+  ]
+ },
+ "rust-unofficial/awesome-rust": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 Rust 代码与资源列表",
+  "tags": [
+   "Rust",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "rustdesk/rustdesk": {
+  "category": "self-hosted",
+  "summary_zh": "可自托管的开源远程桌面应用，TeamViewer 替代",
+  "tags": [
+   "远程桌面",
+   "自托管",
+   "Rust"
+  ]
+ },
+ "ruvnet/RuView": {
+  "category": "os-hardware",
+  "summary_zh": "利用普通 WiFi 信号实现实时空间感知、生命体征监测与人体存在检测",
+  "tags": [
+   "WiFi感知",
+   "ESP32",
+   "物联网"
+  ]
+ },
+ "ryanbbrown/revealjs-skill": {
+  "category": "design-slides",
+  "summary_zh": "用编程 Agent 制作 reveal.js 演示文稿的 Skill",
+  "tags": [
+   "reveal.js",
+   "幻灯片",
+   "Agent Skills"
+  ]
+ },
+ "sameersbn/docker-gitlab": {
+  "category": "self-hosted",
+  "summary_zh": "Docker 化的 GitLab",
+  "tags": [
+   "GitLab",
+   "Docker",
+   "自托管"
+  ]
+ },
+ "scarsty/kys-cpp": {
+  "category": "games-graphics",
+  "summary_zh": "《金庸群侠传》C++ 复刻版",
+  "tags": [
+   "游戏复刻",
+   "金庸",
+   "C++"
+  ]
+ },
+ "selierlin/Share-SSR-V2ray": {
+  "category": "proxy",
+  "summary_zh": "机场推荐、Clash/V2Ray 客户端配置与代理工具指南",
+  "tags": [
+   "机场",
+   "Clash",
+   "V2Ray"
+  ]
+ },
+ "servo/servo": {
+  "category": "lang-lib",
+  "summary_zh": "轻量高性能、可嵌入的 Rust 浏览器引擎",
+  "tags": [
+   "浏览器引擎",
+   "Rust",
+   "Web"
+  ]
+ },
+ "shadowsocks/shadowsocks": {
+  "category": "proxy",
+  "summary_zh": "Shadowsocks 原始仓库",
+  "tags": [
+   "Shadowsocks",
+   "代理",
+   "Python"
+  ]
+ },
+ "shadowsocks/shadowsocks-c": {
+  "category": "proxy",
+  "summary_zh": "基于 libuv 的 C 语言 Shadowsocks 实现",
+  "tags": [
+   "Shadowsocks",
+   "C语言",
+   "代理"
+  ]
+ },
+ "shadowsocks/shadowsocks-org": {
+  "category": "proxy",
+  "summary_zh": "Shadowsocks 官网源码",
+  "tags": [
+   "Shadowsocks",
+   "官网",
+   "代理"
+  ]
+ },
+ "shadowsocks/shadowsocks-qt5": {
+  "category": "proxy",
+  "summary_zh": "跨平台 Shadowsocks 图形客户端",
+  "tags": [
+   "Shadowsocks",
+   "客户端",
+   "Qt"
+  ]
+ },
+ "shadowsocksr-backup/shadowsocksr": {
+  "category": "proxy",
+  "summary_zh": "ShadowsocksR 的 Python 实现（备份）",
+  "tags": [
+   "ShadowsocksR",
+   "代理",
+   "备份"
+  ]
+ },
+ "shadowsocksr-rm/shadowsocks-rss": {
+  "category": "proxy",
+  "summary_zh": "ShadowsocksR 更新订阅源",
+  "tags": [
+   "ShadowsocksR",
+   "订阅",
+   "代理"
+  ]
+ },
+ "shadowsocksrr/shadowsocksr": {
+  "category": "proxy",
+  "summary_zh": "ShadowsocksR 的 Python 实现",
+  "tags": [
+   "ShadowsocksR",
+   "代理",
+   "Python"
+  ]
+ },
+ "ShareX/ShareX": {
+  "category": "utilities",
+  "summary_zh": "免费开源的截图、录屏与分享工具",
+  "tags": [
+   "截图",
+   "录屏",
+   "Windows"
+  ]
+ },
+ "shashankmehta/greyshade": {
+  "category": "web-frontend",
+  "summary_zh": "极简响应式 Octopress 主题",
+  "tags": [
+   "Octopress",
+   "博客主题",
+   "CSS"
+  ]
+ },
+ "shawshany/ChatGPT_Project": {
+  "category": "llm-ml",
+  "summary_zh": "ChatGPT 与 AIGC 资料汇总：资讯、案例、教程与变现",
+  "tags": [
+   "ChatGPT",
+   "AIGC",
+   "资料汇总"
+  ]
+ },
+ "shengjidaguai-china/goutoujunshi": {
+  "category": "life-growth",
+  "summary_zh": "先接住情绪再分析关系的 Codex 恋爱军师 Skill，给出可执行策略",
+  "tags": [
+   "恋爱",
+   "情感分析",
+   "Codex Skill"
+  ]
+ },
+ "shiyu-coder/Kronos": {
+  "category": "finance-blockchain",
+  "summary_zh": "面向金融市场 K 线“语言”的基础模型",
+  "tags": [
+   "金融大模型",
+   "时间序列",
+   "量化"
+  ]
+ },
+ "shootthesound/Fizgig": {
+  "category": "llm-ml",
+  "summary_zh": "面向多种开源图像/视频模型的 LoRA 与微调工作室",
+  "tags": [
+   "LoRA",
+   "微调",
+   "图像模型"
+  ]
+ },
+ "Shubhamsaboo/awesome-llm-apps": {
+  "category": "ai-agent-skills",
+  "summary_zh": "100 多个免费开源的 AI Agent、Agent Skills 与 RAG 应用合集",
+  "tags": [
+   "LLM应用",
+   "RAG",
+   "Agent",
+   "示例合集"
+  ]
+ },
+ "SI-RISCV/e200_opensource": {
+  "category": "os-hardware",
+  "summary_zh": "蜂鸟 E200 开源 RISC-V 处理器核（已弃用）",
+  "tags": [
+   "RISC-V",
+   "处理器",
+   "芯片"
+  ]
+ },
+ "signalapp/Signal-Server": {
+  "category": "self-hosted",
+  "summary_zh": "Signal 私密通讯服务端",
+  "tags": [
+   "Signal",
+   "通讯",
+   "服务端"
+  ]
+ },
+ "simple-icons/simple-icons": {
+  "category": "web-frontend",
+  "summary_zh": "热门品牌 SVG 图标",
+  "tags": [
+   "品牌图标",
+   "SVG",
+   "图标"
+  ]
+ },
+ "simplezhli/flutter_deer": {
+  "category": "lang-lib",
+  "summary_zh": "含完整设计图的 Flutter 练习项目",
+  "tags": [
+   "Flutter",
+   "练习项目",
+   "安卓"
+  ]
+ },
+ "sinaptik-ai/pandas-ai": {
+  "category": "llm-ml",
+  "summary_zh": "用自然语言对话查询数据库和数据湖的工具",
+  "tags": [
+   "数据分析",
+   "自然语言查询",
+   "Pandas"
+  ]
+ },
+ "sindresorhus/awesome": {
+  "category": "awesome-lists",
+  "summary_zh": "各类主题的 Awesome 列表总目录",
+  "tags": [
+   "Awesome",
+   "资源导航",
+   "总目录"
+  ]
+ },
+ "sindresorhus/awesome-nodejs": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 Node.js 包与资源",
+  "tags": [
+   "Node.js",
+   "Awesome",
+   "JavaScript"
+  ]
+ },
+ "sixman9/vcproj2cmake": {
+  "category": "devtools",
+  "summary_zh": "把 VC 工程文件转换为 CMake 的工具",
+  "tags": [
+   "CMake",
+   "Visual Studio",
+   "构建转换"
+  ]
+ },
+ "sjoerdvankreel/infernal-synth": {
+  "category": "audio-music",
+  "summary_zh": "开源 VST3/CLAP 合成器与效果器插件",
+  "tags": [
+   "合成器",
+   "VST3",
+   "CLAP"
+  ]
+ },
+ "sjtug/kxsw": {
+  "category": "proxy",
+  "summary_zh": "SJTUG 出品的科学上网指南",
+  "tags": [
+   "科学上网",
+   "教程",
+   "SJTUG"
+  ]
+ },
+ "sjzar/chatlog": {
+  "category": "utilities",
+  "summary_zh": "聊天记录工具，方便导出和使用自己的聊天数据",
+  "tags": [
+   "聊天记录",
+   "数据导出",
+   "微信"
+  ]
+ },
+ "skiselkov/X-RAAS2": {
+  "category": "games-graphics",
+  "summary_zh": "X-Plane 跑道感知与咨询系统（RAAS）模拟插件",
+  "tags": [
+   "X-Plane",
+   "飞行模拟",
+   "插件"
+  ]
+ },
+ "skywind3000/kcp": {
+  "category": "network-telecom",
+  "summary_zh": "快速可靠的 ARQ 传输协议 KCP",
+  "tags": [
+   "KCP",
+   "传输协议",
+   "网络加速"
+  ]
+ },
+ "slembcke/Chipmunk2D": {
+  "category": "games-graphics",
+  "summary_zh": "快速轻量的 2D 游戏物理库 Chipmunk2D",
+  "tags": [
+   "物理引擎",
+   "2D",
+   "游戏开发"
+  ]
+ },
+ "SoftEtherVPN/SoftEtherVPN": {
+  "category": "proxy",
+  "summary_zh": "跨平台多协议 VPN 软件 SoftEther",
+  "tags": [
+   "VPN",
+   "多协议",
+   "跨平台"
+  ]
+ },
+ "sogou/workflow": {
+  "category": "lang-lib",
+  "summary_zh": "搜狗开源的 C++ 并行计算与异步网络框架",
+  "tags": [
+   "C++",
+   "异步网络",
+   "并行计算"
+  ]
+ },
+ "soimort/you-get": {
+  "category": "media",
+  "summary_zh": "简单的网页视频下载器",
+  "tags": [
+   "视频下载",
+   "Python",
+   "命令行"
+  ]
+ },
+ "soloice/Chinese-Character-Recognition": {
+  "category": "llm-ml",
+  "summary_zh": "用 CNN 识别中文汉字",
+  "tags": [
+   "汉字识别",
+   "CNN",
+   "深度学习"
+  ]
+ },
+ "songguoxs/gpt4o-image-prompts": {
+  "category": "aigc-video",
+  "summary_zh": "Nano Banana、GPT-4o 等生图提示词合集",
+  "tags": [
+   "AI绘图",
+   "提示词",
+   "Nano Banana"
+  ]
+ },
+ "songguoxs/seedance-prompt-skill": {
+  "category": "aigc-video",
+  "summary_zh": "用于生成 Seedance 2.0 视频提示词的 Skill",
+  "tags": [
+   "Seedance",
+   "视频提示词",
+   "AIGC"
+  ]
+ },
+ "sonic-visualiser/sonic-visualiser": {
+  "category": "audio-music",
+  "summary_zh": "音乐音频录音的可视化、分析与标注工具",
+  "tags": [
+   "音频分析",
+   "可视化",
+   "音乐"
+  ]
+ },
+ "SpaceZephyr/creator-buddy": {
+  "category": "content-creation",
+  "summary_zh": "编排跨平台内容创作的 Agent Skills 套件",
+  "tags": [
+   "内容创作",
+   "多平台",
+   "Agent Skills"
+  ]
+ },
+ "spotDL/spotify-downloader": {
+  "category": "media",
+  "summary_zh": "下载 Spotify 歌单与歌曲（含封面与元数据）",
+  "tags": [
+   "Spotify",
+   "音乐下载",
+   "Python"
+  ]
+ },
+ "spyder-ide/spyder": {
+  "category": "devtools",
+  "summary_zh": "科学 Python 开发环境 Spyder",
+  "tags": [
+   "IDE",
+   "Python",
+   "科学计算"
+  ]
+ },
+ "sshnet/SSH.NET": {
+  "category": "lang-lib",
+  "summary_zh": ".NET SSH 库 SSH.NET",
+  "tags": [
+   "SSH",
+   ".NET",
+   "SFTP"
+  ]
+ },
+ "ssnhd/googlevoice": {
+  "category": "life-growth",
+  "summary_zh": "注册 Google Voice 号码的详细步骤",
+  "tags": [
+   "Google Voice",
+   "教程",
+   "海外号码"
+  ]
+ },
+ "stablyai/orca": {
+  "category": "ai-agent-skills",
+  "summary_zh": "用自己的订阅同时运行一队编程 Agent（Claude Code、Codex 等）",
+  "tags": [
+   "多Agent",
+   "编程Agent",
+   "桌面应用"
+  ]
+ },
+ "Stellarium/stellarium": {
+  "category": "games-graphics",
+  "summary_zh": "实时渲染逼真星空的免费天文馆软件",
+  "tags": [
+   "天文",
+   "星空",
+   "模拟"
+  ]
+ },
+ "stgatilov/SymbolSort": {
+  "category": "devtools",
+  "summary_zh": "测量 C++ 代码膨胀的工具（分支版本）",
+  "tags": [
+   "C++",
+   "代码体积",
+   "分析工具"
+  ]
+ },
+ "Stirling-Tools/Stirling-PDF": {
+  "category": "self-hosted",
+  "summary_zh": "可在任意设备上编辑、合并、签名与转换 PDF 的自托管应用",
+  "tags": [
+   "PDF工具",
+   "自托管",
+   "Docker"
+  ]
+ },
+ "stlab/adobe_source_libraries": {
+  "category": "lang-lib",
+  "summary_zh": "Adobe 开源 C++ 库",
+  "tags": [
+   "C++",
+   "Adobe",
+   "库"
+  ]
+ },
+ "storytold/craft-anything": {
+  "category": "ai-agent-skills",
+  "summary_zh": "帮你理解任意软件的工作原理并动手做出自己的版本",
+  "tags": [
+   "软件分析",
+   "Agent",
+   "Rust"
+  ]
+ },
+ "stupidloud/nanopi-openwrt": {
+  "category": "os-hardware",
+  "summary_zh": "NanoPi R 系列等路由器的 OpenWrt 固件编译",
+  "tags": [
+   "OpenWrt",
+   "NanoPi",
+   "路由器固件"
+  ]
+ },
+ "SunshineStream/Sunshine": {
+  "category": "games-graphics",
+  "summary_zh": "自托管的游戏串流主机，配合 Moonlight 使用",
+  "tags": [
+   "游戏串流",
+   "Moonlight",
+   "自托管"
+  ]
+ },
+ "supercollider/supercollider": {
+  "category": "audio-music",
+  "summary_zh": "用于声音合成与算法作曲的音频服务器、语言与 IDE",
+  "tags": [
+   "声音合成",
+   "算法作曲",
+   "编程语言"
+  ]
+ },
+ "surge-synthesizer/surge": {
+  "category": "audio-music",
+  "summary_zh": "开源混合合成器 Surge",
+  "tags": [
+   "合成器",
+   "VST3",
+   "开源"
+  ]
+ },
+ "SwiftGGTeam/the-swift-programming-language-in-chinese": {
+  "category": "cs-learning",
+  "summary_zh": "苹果官方《Swift 编程语言》中文版",
+  "tags": [
+   "Swift",
+   "中文翻译",
+   "教程"
+  ]
+ },
+ "swiftlang/swift": {
+  "category": "lang-lib",
+  "summary_zh": "Swift 编程语言",
+  "tags": [
+   "Swift",
+   "编程语言",
+   "苹果"
+  ]
+ },
+ "SwiftyJSON/SwiftyJSON": {
+  "category": "lang-lib",
+  "summary_zh": "Swift 中处理 JSON 的便捷库",
+  "tags": [
+   "Swift",
+   "JSON",
+   "iOS"
+  ]
+ },
+ "syl20bnr/spacemacs": {
+  "category": "devtools",
+  "summary_zh": "社区驱动的 Emacs 发行版 Spacemacs",
+  "tags": [
+   "Emacs",
+   "Vim",
+   "编辑器配置"
+  ]
+ },
+ "syncthing/syncthing": {
+  "category": "self-hosted",
+  "summary_zh": "开源持续文件同步工具",
+  "tags": [
+   "文件同步",
+   "P2P",
+   "自托管"
+  ]
+ },
+ "sysprogs/WinCDEmu": {
+  "category": "utilities",
+  "summary_zh": "Windows 免费虚拟光驱，可挂载 ISO 镜像",
+  "tags": [
+   "虚拟光驱",
+   "ISO",
+   "Windows"
+  ]
+ },
+ "tangqiaoboy/iOSBlogCN": {
+  "category": "awesome-lists",
+  "summary_zh": "中文 iOS/Mac 开发博客列表",
+  "tags": [
+   "iOS",
+   "博客列表",
+   "中文"
+  ]
+ },
+ "taosdata/TDengine": {
+  "category": "lang-lib",
+  "summary_zh": "面向工业物联网的高性能时序数据库",
+  "tags": [
+   "时序数据库",
+   "物联网",
+   "大数据"
+  ]
+ },
+ "TeamStuQ/skill-map": {
+  "category": "cs-learning",
+  "summary_zh": "程序员技能图谱",
+  "tags": [
+   "技能图谱",
+   "学习路线",
+   "程序员"
+  ]
+ },
+ "teddysun/across": {
+  "category": "proxy",
+  "summary_zh": "一键搭建科学上网与 VPS 实用脚本合集",
+  "tags": [
+   "一键脚本",
+   "BBR",
+   "VPS"
+  ]
+ },
+ "telegramdesktop/tdesktop": {
+  "category": "utilities",
+  "summary_zh": "Telegram 桌面客户端",
+  "tags": [
+   "Telegram",
+   "即时通讯",
+   "桌面应用"
+  ]
+ },
+ "TelegramMessenger/MTProxy": {
+  "category": "proxy",
+  "summary_zh": "Telegram 官方 MTProto 代理服务器",
+  "tags": [
+   "MTProxy",
+   "Telegram",
+   "代理"
+  ]
+ },
+ "tensorflow/tensorflow": {
+  "category": "llm-ml",
+  "summary_zh": "谷歌开源机器学习框架 TensorFlow",
+  "tags": [
+   "TensorFlow",
+   "机器学习框架",
+   "谷歌"
+  ]
+ },
+ "terryum/awesome-deep-learning-papers": {
+  "category": "llm-ml",
+  "summary_zh": "引用最多的深度学习论文列表",
+  "tags": [
+   "深度学习",
+   "论文",
+   "必读"
+  ]
+ },
+ "testdrivenio/flask-vue-crud": {
+  "category": "web-frontend",
+  "summary_zh": "Flask 与 Vue.js 单页应用 CRUD 示例",
+  "tags": [
+   "Flask",
+   "Vue",
+   "CRUD"
+  ]
+ },
+ "TGSAN/CMWTAT_Digital_Edition": {
+  "category": "utilities",
+  "summary_zh": "Windows 10/11 数字许可证激活工具",
+  "tags": [
+   "Windows激活",
+   "系统工具",
+   "数字许可证"
+  ]
+ },
+ "TheAlgorithms/Python": {
+  "category": "cs-learning",
+  "summary_zh": "用 Python 实现的各类算法",
+  "tags": [
+   "算法",
+   "Python",
+   "数据结构"
+  ]
+ },
+ "thedotmack/claude-mem": {
+  "category": "ai-agent-skills",
+  "summary_zh": "为 Agent 提供跨会话持久记忆，自动记录并压缩会话上下文",
+  "tags": [
+   "Agent记忆",
+   "Claude Code",
+   "上下文"
+  ]
+ },
+ "theoremprover-museum/theoremprover-museum.github.io": {
+  "category": "cs-learning",
+  "summary_zh": "定理证明器博物馆网站源码",
+  "tags": [
+   "定理证明",
+   "计算机历史",
+   "网站"
+  ]
+ },
+ "TheWaveWarden/odin2": {
+  "category": "audio-music",
+  "summary_zh": "Odin 2 合成器插件",
+  "tags": [
+   "合成器",
+   "音频插件",
+   "VST"
+  ]
+ },
+ "thomasahle/tensorgrad": {
+  "category": "llm-ml",
+  "summary_zh": "基于符号张量的机器学习库",
+  "tags": [
+   "张量",
+   "自动微分",
+   "机器学习"
+  ]
+ },
+ "tianocore/edk2": {
+  "category": "os-hardware",
+  "summary_zh": "UEFI 固件开发环境 EDK II",
+  "tags": [
+   "UEFI",
+   "固件",
+   "BIOS"
+  ]
+ },
+ "tilemill-project/tilemill": {
+  "category": "web-frontend",
+  "summary_zh": "现代地图设计工作室 TileMill",
+  "tags": [
+   "地图设计",
+   "OpenStreetMap",
+   "可视化"
+  ]
+ },
+ "timgabets/pytlv": {
+  "category": "network-telecom",
+  "summary_zh": "Python TLV 解析与构建库",
+  "tags": [
+   "TLV",
+   "解析",
+   "Python"
+  ]
+ },
+ "tmk/tmk_keyboard": {
+  "category": "os-hardware",
+  "summary_zh": "AVR 与 Cortex-M 键盘固件",
+  "tags": [
+   "键盘固件",
+   "AVR",
+   "机械键盘"
+  ]
+ },
+ "tomlooman/ActionRoguelike": {
+  "category": "games-graphics",
+  "summary_zh": "虚幻引擎 C++ 合作动作肉鸽游戏示例项目",
+  "tags": [
+   "虚幻引擎",
+   "游戏开发",
+   "C++"
+  ]
+ },
+ "tonsky/FiraCode": {
+  "category": "devtools",
+  "summary_zh": "带编程连字的免费等宽字体 Fira Code",
+  "tags": [
+   "字体",
+   "等宽字体",
+   "连字"
+  ]
+ },
+ "ToutyRater/toutyrater.github.io": {
+  "category": "proxy",
+  "summary_zh": "V2Ray 配置指南的个人站点源码（无说明文档）",
+  "tags": [
+   "V2Ray",
+   "教程",
+   "个人站点"
+  ]
+ },
+ "transmission/transmission": {
+  "category": "media",
+  "summary_zh": "Transmission BitTorrent 客户端官方仓库",
+  "tags": [
+   "BitTorrent",
+   "下载",
+   "客户端"
+  ]
+ },
+ "trekhleb/homemade-machine-learning": {
+  "category": "llm-ml",
+  "summary_zh": "配有交互演示的经典机器学习算法 Python 实现",
+  "tags": [
+   "机器学习",
+   "算法实现",
+   "Jupyter"
+  ]
+ },
+ "tssovi/grokking-the-object-oriented-design-interview": {
+  "category": "cs-learning",
+  "summary_zh": "《Grokking 面向对象设计面试》学习资料",
+  "tags": [
+   "面向对象",
+   "面试",
+   "系统设计"
+  ]
+ },
+ "tt-a1i/archify": {
+  "category": "design-slides",
+  "summary_zh": "把想法、计划或代码库变成交互式架构图的 Skill",
+  "tags": [
+   "架构图",
+   "可视化",
+   "Agent Skills"
+  ]
+ },
+ "Tunnelblick/Tunnelblick": {
+  "category": "proxy",
+  "summary_zh": "macOS 上的 OpenVPN 图形客户端",
+  "tags": [
+   "OpenVPN",
+   "macOS",
+   "VPN客户端"
+  ]
+ },
+ "twbs/bootstrap": {
+  "category": "web-frontend",
+  "summary_zh": "最流行的响应式前端框架 Bootstrap",
+  "tags": [
+   "Bootstrap",
+   "CSS框架",
+   "前端"
+  ]
+ },
+ "twicejr/HUAWEI-P9-Lite_OpenSource": {
+  "category": "os-hardware",
+  "summary_zh": "华为 P9 Lite 开源内核",
+  "tags": [
+   "安卓内核",
+   "华为",
+   "Linux"
+  ]
+ },
+ "twitter/the-algorithm": {
+  "category": "misc",
+  "summary_zh": "X（推特）推荐算法源码",
+  "tags": [
+   "推荐算法",
+   "X",
+   "Scala"
+  ]
+ },
+ "txthinking/brook": {
+  "category": "proxy",
+  "summary_zh": "跨平台可编程网络工具 Brook",
+  "tags": [
+   "Brook",
+   "代理",
+   "Go"
+  ]
+ },
+ "udlbook/udlbook": {
+  "category": "llm-ml",
+  "summary_zh": "《Understanding Deep Learning》深度学习教材与配套资源",
+  "tags": [
+   "深度学习",
+   "教材",
+   "电子书"
+  ]
+ },
+ "uhub/awesome-c": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 C 语言框架、库与软件",
+  "tags": [
+   "C语言",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "unbug/codelf": {
+  "category": "devtools",
+  "summary_zh": "帮开发者解决变量命名问题的搜索工具",
+  "tags": [
+   "变量命名",
+   "代码搜索",
+   "开发工具"
+  ]
+ },
+ "USArmyResearchLab/Dshell": {
+  "category": "security",
+  "summary_zh": "网络取证分析框架 Dshell",
+  "tags": [
+   "网络取证",
+   "安全分析",
+   "Python"
+  ]
+ },
+ "USTC-Resource/USTC-Course": {
+  "category": "cs-learning",
+  "summary_zh": "中国科学技术大学课程资源",
+  "tags": [
+   "课程资源",
+   "中科大",
+   "大学"
+  ]
+ },
+ "v2fly/v2ray-step-by-step": {
+  "category": "proxy",
+  "summary_zh": "新版 V2Ray 配置白话教程",
+  "tags": [
+   "V2Ray",
+   "配置教程",
+   "代理"
+  ]
+ },
+ "v2ray/v2ray-core": {
+  "category": "proxy",
+  "summary_zh": "构建代理以绕过网络限制的 V2Ray 核心",
+  "tags": [
+   "V2Ray",
+   "代理",
+   "Go"
+  ]
+ },
+ "v4if/blog": {
+  "category": "misc",
+  "summary_zh": "个人博客",
+  "tags": [
+   "个人博客",
+   "技术文章"
+  ]
+ },
+ "veekxt/v2ray-template": {
+  "category": "proxy",
+  "summary_zh": "V2Ray 配置模板与生成工具",
+  "tags": [
+   "V2Ray",
+   "配置生成",
+   "模板"
+  ]
+ },
+ "ventoy/Ventoy": {
+  "category": "utilities",
+  "summary_zh": "新一代多系统 USB 启动盘方案",
+  "tags": [
+   "启动盘",
+   "USB",
+   "ISO"
+  ]
+ },
+ "vercel-labs/skills": {
+  "category": "ai-agent-skills",
+  "summary_zh": "Vercel 出品的开放 Agent Skills 管理工具（npx skills）",
+  "tags": [
+   "Agent Skills",
+   "包管理",
+   "Vercel"
+  ]
+ },
+ "VerticalResearchGroup/miaow": {
+  "category": "os-hardware",
+  "summary_zh": "基于 AMD Southern Islands 指令集的开源 GPU",
+  "tags": [
+   "开源GPU",
+   "硬件设计",
+   "Verilog"
+  ]
+ },
+ "Vincentwei1021/anything2explainer": {
+  "category": "aigc-video",
+  "summary_zh": "输入主题即可生成带旁白讲解视频的 Claude Code/Codex Skill",
+  "tags": [
+   "讲解视频",
+   "AI视频",
+   "Agent Skills"
+  ]
+ },
+ "Vincentwei1021/video-shotcraft": {
+  "category": "aigc-video",
+  "summary_zh": "用 Remotion 生成可编辑电影感产品宣传片的 AI 视频 Skill",
+  "tags": [
+   "产品视频",
+   "Remotion",
+   "Agent Skills"
+  ]
+ },
+ "Vincentwei1021/video-talkcraft": {
+  "category": "aigc-video",
+  "summary_zh": "把 Claude Code/Codex 变成动效设计工作室的视频 Skill",
+  "tags": [
+   "动效设计",
+   "AI视频",
+   "Agent Skills"
+  ]
+ },
+ "vinta/awesome-python": {
+  "category": "awesome-lists",
+  "summary_zh": "Python 各领域工具权威推荐列表",
+  "tags": [
+   "Python",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "vlang/v": {
+  "category": "lang-lib",
+  "summary_zh": "简单、快速、安全的编译型语言 V",
+  "tags": [
+   "V语言",
+   "编程语言",
+   "编译器"
+  ]
+ },
+ "vlm/asn1c": {
+  "category": "network-telecom",
+  "summary_zh": "ASN.1 编译器",
+  "tags": [
+   "ASN.1",
+   "编译器",
+   "C语言"
+  ]
+ },
+ "VoltAgent/awesome-design-md": {
+  "category": "design-slides",
+  "summary_zh": "热门品牌设计系统分析得出的 DESIGN.md 合集",
+  "tags": [
+   "设计系统",
+   "DESIGN.md",
+   "Awesome"
+  ]
+ },
+ "VsVim/VsVim": {
+  "category": "devtools",
+  "summary_zh": "Visual Studio 的 Vim 模拟插件",
+  "tags": [
+   "Vim",
+   "Visual Studio",
+   "插件"
+  ]
+ },
+ "VundleVim/Vundle.vim": {
+  "category": "devtools",
+  "summary_zh": "Vim 插件管理器 Vundle",
+  "tags": [
+   "Vim",
+   "插件管理",
+   "编辑器"
+  ]
+ },
+ "vyos-legacy/vyos-kernel": {
+  "category": "os-hardware",
+  "summary_zh": "VyOS 使用的 Linux 内核",
+  "tags": [
+   "VyOS",
+   "Linux内核",
+   "路由"
+  ]
+ },
+ "Wan-Video/Wan2.2": {
+  "category": "aigc-video",
+  "summary_zh": "阿里通义万相开源的大规模视频生成模型 Wan 2.2",
+  "tags": [
+   "视频生成",
+   "开源模型",
+   "AIGC"
+  ]
+ },
+ "wangshub/Douyin-Bot": {
+  "category": "misc",
+  "summary_zh": "Python 抖音机器人，自动寻找颜值高的视频",
+  "tags": [
+   "抖音",
+   "机器人",
+   "Python"
+  ]
+ },
+ "Wargus/stratagus": {
+  "category": "games-graphics",
+  "summary_zh": "Stratagus 即时战略游戏引擎",
+  "tags": [
+   "游戏引擎",
+   "即时战略",
+   "开源"
+  ]
+ },
+ "we-promise/sure": {
+  "category": "finance-blockchain",
+  "summary_zh": "开源个人财务管理应用，可自托管",
+  "tags": [
+   "个人财务",
+   "记账",
+   "自托管"
+  ]
+ },
+ "WebPuY/crawlarJs": {
+  "category": "misc",
+  "summary_zh": "JavaScript 爬虫项目（无描述与说明文档）",
+  "tags": [
+   "爬虫",
+   "JavaScript"
+  ]
+ },
+ "wechatsync/Wechatsync": {
+  "category": "content-creation",
+  "summary_zh": "一键把文章同步发布到头条、知乎、掘金等多个平台的浏览器插件",
+  "tags": [
+   "多平台发布",
+   "浏览器插件",
+   "自媒体"
+  ]
+ },
+ "Wei-Shaw/sub2api": {
+  "category": "ai-agent-skills",
+  "summary_zh": "统一接入 Claude、OpenAI、Gemini 等订阅的开源中转服务",
+  "tags": [
+   "API中转",
+   "订阅共享",
+   "AI网关"
+  ]
+ },
+ "wenzhixin/fresh-bootstrap-table": {
+  "category": "web-frontend",
+  "summary_zh": "bootstrap-table 作者的 Fresh 风格表格主题（无说明文档）",
+  "tags": [
+   "Bootstrap",
+   "表格",
+   "CSS"
+  ]
+ },
+ "werckme/werckmeister": {
+  "category": "audio-music",
+  "summary_zh": "开源的乐谱 MIDI 编译器",
+  "tags": [
+   "MIDI",
+   "乐谱",
+   "编译器"
+  ]
+ },
+ "WillkYang/YYKline": {
+  "category": "finance-blockchain",
+  "summary_zh": "iOS K 线图、分时图等股票图表组件",
+  "tags": [
+   "K线图",
+   "股票图表",
+   "iOS"
+  ]
+ },
+ "WireGuard/wireguard-linux": {
+  "category": "proxy",
+  "summary_zh": "WireGuard Linux 内核模块源码镜像",
+  "tags": [
+   "WireGuard",
+   "VPN",
+   "Linux"
+  ]
+ },
+ "witcher3map/witcher3map": {
+  "category": "games-graphics",
+  "summary_zh": "《巫师 3》交互式地图",
+  "tags": [
+   "巫师3",
+   "游戏地图",
+   "交互"
+  ]
+ },
+ "wiwikuan/wiwi-circleOfFifths": {
+  "category": "audio-music",
+  "summary_zh": "交互式五度圈 JavaScript 工具",
+  "tags": [
+   "乐理",
+   "五度圈",
+   "交互"
+  ]
+ },
+ "WizTeam/WizQTClient": {
+  "category": "utilities",
+  "summary_zh": "为知笔记跨平台客户端",
+  "tags": [
+   "笔记",
+   "为知笔记",
+   "Qt"
+  ]
+ },
+ "wjdp/gotdict": {
+  "category": "life-growth",
+  "summary_zh": "《冰与火之歌》Kindle 词典",
+  "tags": [
+   "冰与火之歌",
+   "Kindle",
+   "词典"
+  ]
+ },
+ "wjhgh04/lte_study": {
+  "category": "network-telecom",
+  "summary_zh": "LTE 学习心得总结",
+  "tags": [
+   "LTE",
+   "通信",
+   "学习笔记"
+  ]
+ },
+ "wrighteagle2d/wrighteaglebase": {
+  "category": "games-graphics",
+  "summary_zh": "RoboCup 2D 足球仿真的 WrightEagle 基础代码",
+  "tags": [
+   "RoboCup",
+   "足球仿真",
+   "决策"
+  ]
+ },
+ "wshuyi/x-article-publisher-skill": {
+  "category": "content-creation",
+  "summary_zh": "将 Markdown 文章发布到 X Articles 的 Claude Code Skill",
+  "tags": [
+   "X长文",
+   "Claude Code",
+   "发布工具"
+  ]
+ },
+ "wuyoscar/GPT-Image2-Skill": {
+  "category": "aigc-video",
+  "summary_zh": "GPT Image 2 系列提示词图库与生图 Agent Skill",
+  "tags": [
+   "GPT Image",
+   "提示词",
+   "Agent Skills"
+  ]
+ },
+ "wx-chevalier/System-Notes": {
+  "category": "cs-learning",
+  "summary_zh": "软件工程、算法与架构笔记",
+  "tags": [
+   "软件工程",
+   "算法",
+   "架构"
+  ]
+ },
+ "x64dbg/x64dbg": {
+  "category": "security",
+  "summary_zh": "开源 Windows 用户态调试器，专为逆向优化",
+  "tags": [
+   "调试器",
+   "逆向",
+   "Windows"
+  ]
+ },
+ "xaiwind/x-article-publisher": {
+  "category": "content-creation",
+  "summary_zh": "把 Markdown 长文发布为 X（推特）文章的 Skill，支持表格与代码块",
+  "tags": [
+   "X长文",
+   "发布工具",
+   "Markdown"
+  ]
+ },
+ "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": {
+  "category": "cs-learning",
+  "summary_zh": "基于《增长黑客》框架的 FDE（前沿部署工程师）入门指南",
+  "tags": [
+   "FDE",
+   "职业发展",
+   "指南"
+  ]
+ },
+ "Xiangyu-CAS/xiaohongshu-ops-skill": {
+  "category": "content-creation",
+  "summary_zh": "把 OpenClaw 变成小红书运营助手，覆盖选题、创作与复盘",
+  "tags": [
+   "小红书",
+   "运营",
+   "Skill"
+  ]
+ },
+ "xiaolincoder/CS-Base": {
+  "category": "cs-learning",
+  "summary_zh": "图解计算机网络、操作系统、组成原理与数据库",
+  "tags": [
+   "计算机基础",
+   "图解",
+   "面试"
+  ]
+ },
+ "xiaoyang111222/cn-math-taxonomy": {
+  "category": "cs-learning",
+  "summary_zh": "中小学数学、英语与初中物理知识图谱，含知识点、先修关系与题目",
+  "tags": [
+   "知识图谱",
+   "K12教育",
+   "课程"
+  ]
+ },
+ "xingshaocheng/architect-awesome": {
+  "category": "cs-learning",
+  "summary_zh": "后端架构师技术图谱",
+  "tags": [
+   "后端架构",
+   "技术图谱",
+   "学习路线"
+  ]
+ },
+ "xintu1314/content-boom-monitor": {
+  "category": "content-creation",
+  "summary_zh": "监控小红书与抖音关键词和竞品账号的 Codex Skill",
+  "tags": [
+   "小红书",
+   "抖音",
+   "舆情监控"
+  ]
+ },
+ "xinychen/awesome-latex-drawing": {
+  "category": "cs-learning",
+  "summary_zh": "用 LaTeX 绘制贝叶斯网络、张量等科技图形",
+  "tags": [
+   "LaTeX",
+   "科技绘图",
+   "机器学习"
+  ]
+ },
+ "xitu/gold-miner": {
+  "category": "cs-learning",
+  "summary_zh": "掘金翻译计划：英译中技术文章社区",
+  "tags": [
+   "翻译",
+   "技术文章",
+   "掘金"
+  ]
+ },
+ "XIU2/TrackersListCollection": {
+  "category": "media",
+  "summary_zh": "每日更新的热门 BT Tracker 列表",
+  "tags": [
+   "BT Tracker",
+   "aria2",
+   "下载加速"
+  ]
+ },
+ "XUANTIE-RV/wujian100_open": {
+  "category": "os-hardware",
+  "summary_zh": "平头哥无剑 100 开源 SoC 平台",
+  "tags": [
+   "SoC",
+   "芯片设计",
+   "RISC-V"
+  ]
+ },
+ "xuchonglang/investing-for-beginners": {
+  "category": "finance-blockchain",
+  "summary_zh": "美股、期权与加密货币知识框架入门",
+  "tags": [
+   "投资入门",
+   "美股",
+   "期权"
+  ]
+ },
+ "XX-net/XX-Net": {
+  "category": "proxy",
+  "summary_zh": "绕过 GFW 的代理工具 XX-Net",
+  "tags": [
+   "翻墙",
+   "代理",
+   "XX-Net"
+  ]
+ },
+ "YahooArchive/anthelion": {
+  "category": "misc",
+  "summary_zh": "Apache Nutch 语义注解爬取插件",
+  "tags": [
+   "爬虫",
+   "Nutch",
+   "语义网"
+  ]
+ },
+ "yang0/handraw-style": {
+  "category": "aigc-video",
+  "summary_zh": "手绘风格编号画廊与中英双语提示词 Skill",
+  "tags": [
+   "手绘风格",
+   "提示词",
+   "Skill"
+  ]
+ },
+ "yangpeng7/flask-vue-word-cloud": {
+  "category": "web-frontend",
+  "summary_zh": "Flask 与 Vue 实现的词云单页应用",
+  "tags": [
+   "Flask",
+   "Vue",
+   "词云"
+  ]
+ },
+ "yangyangwithgnu/hardseed": {
+  "category": "misc",
+  "summary_zh": "成人内容批量下载工具 hardseed",
+  "tags": [
+   "下载工具",
+   "成人内容",
+   "C++"
+  ]
+ },
+ "yanhua1010/self-media-content-workflow": {
+  "category": "content-creation",
+  "summary_zh": "模块化的自媒体内容 Agent Skills：选题、写作到分发",
+  "tags": [
+   "自媒体",
+   "内容工作流",
+   "Agent Skills"
+  ]
+ },
+ "yeahhub/Hacking-Security-Ebooks": {
+  "category": "security",
+  "summary_zh": "百本黑客与安全电子书合集",
+  "tags": [
+   "黑客",
+   "安全",
+   "电子书"
+  ]
+ },
+ "yetone/magpie": {
+  "category": "ai-agent-skills",
+  "summary_zh": "统一管理各家模型接入，让 Codex/Claude Code 跑在 DeepSeek、Kimi 等上",
+  "tags": [
+   "模型路由",
+   "Claude Code",
+   "Codex"
+  ]
+ },
+ "yhny1001/dsh-security-audit": {
+  "category": "ai-agent-skills",
+  "summary_zh": "本地优先的 DeepSeek Harness 安全审计 Skill，覆盖插件、MCP、供应链等",
+  "tags": [
+   "安全审计",
+   "Agent Skills",
+   "DeepSeek"
+  ]
+ },
+ "yinghuocho/firefly-proxy": {
+  "category": "proxy",
+  "summary_zh": "帮助翻墙的代理软件 Firefly",
+  "tags": [
+   "翻墙",
+   "代理",
+   "客户端"
+  ]
+ },
+ "YouMind-OpenLab/ai-image-prompts-skill": {
+  "category": "aigc-video",
+  "summary_zh": "一万多条适用多种模型的 AI 生图提示词 Skill",
+  "tags": [
+   "AI绘图",
+   "提示词",
+   "Skill"
+  ]
+ },
+ "YouMind-OpenLab/awesome-gpt-image-2": {
+  "category": "aigc-video",
+  "summary_zh": "每日更新的大型 GPT Image 2 提示词库",
+  "tags": [
+   "GPT Image",
+   "提示词",
+   "AI绘图"
+  ]
+ },
+ "yt-dlp/yt-dlp": {
+  "category": "media",
+  "summary_zh": "功能丰富的命令行音视频下载器",
+  "tags": [
+   "视频下载",
+   "命令行",
+   "youtube-dl"
+  ]
+ },
+ "ytdl-org/youtube-dl": {
+  "category": "media",
+  "summary_zh": "从 YouTube 等网站下载视频的命令行程序",
+  "tags": [
+   "视频下载",
+   "YouTube",
+   "命令行"
+  ]
+ },
+ "yuchdev/CppBooks": {
+  "category": "cs-learning",
+  "summary_zh": "现代与经典 C++ 书籍目录",
+  "tags": [
+   "C++",
+   "书单",
+   "电子书"
+  ]
+ },
+ "yytdfc/ChineseChess-engines": {
+  "category": "games-graphics",
+  "summary_zh": "中国象棋开源 AI 引擎整理",
+  "tags": [
+   "中国象棋",
+   "棋类AI",
+   "引擎"
+  ]
+ },
+ "z-libraryimb/seedhubcc": {
+  "category": "misc",
+  "summary_zh": "SeedHub 影视资源站的发布页与入口导航",
+  "tags": [
+   "影视资源",
+   "导航页",
+   "发布页"
+  ]
+ },
+ "zarazhangrui/frontend-slides": {
+  "category": "design-slides",
+  "summary_zh": "用编程 Agent 的前端能力在网页上制作精美幻灯片",
+  "tags": [
+   "幻灯片",
+   "前端",
+   "Agent Skills"
+  ]
+ },
+ "zealdocs/zeal": {
+  "category": "devtools",
+  "summary_zh": "离线文档浏览器",
+  "tags": [
+   "离线文档",
+   "API文档",
+   "Dash"
+  ]
+ },
+ "zenoyang/Chinese-Chess": {
+  "category": "games-graphics",
+  "summary_zh": "基于 Qt 的中国象棋软件",
+  "tags": [
+   "中国象棋",
+   "Qt",
+   "游戏"
+  ]
+ },
+ "zenstory-ai/drama-skills": {
+  "category": "aigc-video",
+  "summary_zh": "AI 短剧与漫剧制作 Skill 合集：改编剧本、分镜、生图生视频提示词",
+  "tags": [
+   "AI短剧",
+   "分镜",
+   "AIGC"
+  ]
+ },
+ "zhuima/awesome-cloudflare": {
+  "category": "awesome-lists",
+  "summary_zh": "精选 Cloudflare 工具、开源项目与指南列表",
+  "tags": [
+   "Cloudflare",
+   "Awesome",
+   "资源合集"
+  ]
+ },
+ "zijie0/HumanSystemOptimization": {
+  "category": "life-growth",
+  "summary_zh": "健康学习到 150 岁：人体系统调优不完全指南",
+  "tags": [
+   "健康",
+   "长寿",
+   "指南"
+  ]
+ },
+ "zsxsoft/my-beancount-scripts": {
+  "category": "finance-blockchain",
+  "summary_zh": "个人 Beancount 记账脚本",
+  "tags": [
+   "Beancount",
+   "记账",
+   "脚本"
+  ]
+ },
+ "zulfadlizainal/nr-dimensioning": {
+  "category": "network-telecom",
+  "summary_zh": "5G NR 无线资源规划仿真与图表（教学用）",
+  "tags": [
+   "5G NR",
+   "仿真",
+   "通信"
+  ]
+ },
+ "zxing/zxing": {
+  "category": "lang-lib",
+  "summary_zh": "条形码与二维码扫描库 ZXing",
+  "tags": [
+   "二维码",
+   "条形码",
+   "Java"
+  ]
+ },
+ "zynaddsubfx/zynaddsubfx": {
+  "category": "audio-music",
+  "summary_zh": "开源合成器 ZynAddSubFX",
+  "tags": [
+   "合成器",
+   "Linux音频",
+   "开源"
+  ]
+ },
+ "ZyqGitHub1/avbook": {
+  "category": "misc",
+  "summary_zh": "成人影片管理系统与爬虫",
+  "tags": [
+   "爬虫",
+   "影片管理",
+   "成人内容"
+  ]
+ },
+ "ZyqGitHub1/h-player-v2": {
+  "category": "media",
+  "summary_zh": "资源采集站在线播放器",
+  "tags": [
+   "视频播放器",
+   "Electron",
+   "采集站"
+  ]
+ }
+}

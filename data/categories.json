@@ -1,0 +1,112 @@
+[
+ {
+  "id": "ai-agent-skills",
+  "name_zh": "AI Agent 与编程 Skills",
+  "description_zh": "Claude Code / Codex 等编程 Agent、Agent 框架、通用工程类 Skills 与 Agent 学习资料"
+ },
+ {
+  "id": "design-slides",
+  "name_zh": "设计、PPT 与图表",
+  "description_zh": "设计工具、设计规范、AI 设计/前端审美 Skills、PPT 与图表生成"
+ },
+ {
+  "id": "content-creation",
+  "name_zh": "自媒体与内容创作",
+  "description_zh": "小红书/公众号/X 等内容生产、排版、发布与运营工具和 Skills"
+ },
+ {
+  "id": "aigc-video",
+  "name_zh": "AI 图像、视频与多媒体创作",
+  "description_zh": "AI 生图/生视频模型、ComfyUI、提示词库、视频剪辑与动画生成"
+ },
+ {
+  "id": "llm-ml",
+  "name_zh": "大模型与机器学习",
+  "description_zh": "大模型训练推理、机器学习框架、模型与 AI/深度学习教程书籍"
+ },
+ {
+  "id": "cs-learning",
+  "name_zh": "计算机学习与面试",
+  "description_zh": "CS 课程、编程教程、算法刷题、面试题、技术书籍与速查手册"
+ },
+ {
+  "id": "life-growth",
+  "name_zh": "生活指南、成长与阅读",
+  "description_zh": "生活建议、健康、理财入门、人际、移民、一人公司与阅读资源"
+ },
+ {
+  "id": "finance-blockchain",
+  "name_zh": "金融、量化与区块链",
+  "description_zh": "个人财务、量化投资、行情工具、比特币/以太坊"
+ },
+ {
+  "id": "proxy",
+  "name_zh": "网络代理与科学上网",
+  "description_zh": "代理协议、客户端、面板、规则与相关教程"
+ },
+ {
+  "id": "network-telecom",
+  "name_zh": "网络与通信协议",
+  "description_zh": "网络仿真、协议编解码、LTE/5G/3GPP、高性能网络"
+ },
+ {
+  "id": "self-hosted",
+  "name_zh": "自托管服务与网盘",
+  "description_zh": "可自建的相册、影音、密码、通讯、文件与 WebDAV 服务"
+ },
+ {
+  "id": "media",
+  "name_zh": "影音播放、下载与 BT",
+  "description_zh": "视频/音乐播放器、下载器、直播录制、IPTV、BT 工具"
+ },
+ {
+  "id": "audio-music",
+  "name_zh": "音频与音乐制作",
+  "description_zh": "合成器、音频插件、DAW、音频框架与 DSP 资源"
+ },
+ {
+  "id": "devtools",
+  "name_zh": "开发工具、编辑器与终端",
+  "description_zh": "IDE/编辑器配置、终端、字体、调试分析、构建与自动化工具"
+ },
+ {
+  "id": "lang-lib",
+  "name_zh": "编程语言、框架与库",
+  "description_zh": "编程语言实现、通用框架、各语言库与 SDK"
+ },
+ {
+  "id": "web-frontend",
+  "name_zh": "Web 前端、可视化与建站",
+  "description_zh": "前端框架/组件、图表可视化、图标字体、静态站点生成"
+ },
+ {
+  "id": "os-hardware",
+  "name_zh": "操作系统、固件与硬件",
+  "description_zh": "内核、BIOS/UEFI、路由器固件、RISC-V/FPGA、开发板、飞控"
+ },
+ {
+  "id": "security",
+  "name_zh": "安全与逆向工程",
+  "description_zh": "渗透测试、逆向/反编译、调试器、安全书籍与工具"
+ },
+ {
+  "id": "games-graphics",
+  "name_zh": "游戏、图形与仿真",
+  "description_zh": "游戏源码/引擎、模拟器、渲染与图形学、物理/航天/机器人仿真、棋类 AI"
+ },
+ {
+  "id": "utilities",
+  "name_zh": "桌面与效率工具",
+  "description_zh": "Windows/macOS 实用工具、文件传输清理、笔记与日常效率软件"
+ },
+ {
+  "id": "awesome-lists",
+  "name_zh": "Awesome 资源合集",
+  "description_zh": "各类 awesome 列表与资源导航"
+ },
+ {
+  "id": "misc",
+  "name_zh": "其他",
+  "description_zh": "个人博客、杂项或难以归类的仓库"
+ }
+]
