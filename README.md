@@ -84,14 +84,13 @@ stars.csv 字段同上，数组用 `|` 连接，另含 `category_name_zh`。
 6. 卡片：头像、仓库名（链接 GitHub）、`summary_zh`、标签、Star 数、语言、最近更新时间；`archived` / `stale` 徽章。
 7. 美观现代、支持深色模式、响应式。正式实现需先出设计稿经用户确认。
 
-## 自动更新流程
+## 更新流程（手动触发）
 
 - **人工/AI 整理内容的唯一来源**：`data/curation.json`（`{full_name: {category, summary_zh, tags}}`），分类体系在 `data/categories.json`。
 - `scripts/build_data.py`：通过公开 API 抓取 laoshuterry 的全部 Star（有 `GITHUB_TOKEN` 时带上），与 curation 合并，计算 `archived` / `stale`（以运行时间往前 365 天为界），写出 `docs/stars.json`；不在 curation 中的新 Star 归入 `uncategorized`（待整理）、`summary_zh` 为空，并列入 `data/uncurated.json`；已取消 Star 的仓库自动移除。内容未变时不更新 `generated_at`，避免空提交。
-- `.github/workflows/update-stars.yml`：每天 02:00 UTC（巴基斯坦时间 07:00）、手动触发、或 `data/**` / `scripts/**` 有推送时运行；`docs/stars.json` 有变化就提交，并请求 Pages 重新构建。
-- 整理新仓库：把 `data/uncurated.json` 中的条目补进 `data/curation.json` 并推送，工作流会自动重建页面数据。
+- `.github/workflows/update-stars.yml`：仅手动触发（Actions 页面 Run workflow）；`docs/stars.json` 有变化就提交，并请求 Pages 重新构建。
+- 整理新仓库：把 `data/uncurated.json` 中的条目补进 `data/curation.json` 并推送，然后手动运行一次工作流重建页面数据。
 - `data/stars.json` / `data/stars.csv` 是首次整理时的快照（含 `summary_source` 字段）；线上页面以 `docs/stars.json` 为准。
 
 本地运行：`GITHUB_TOKEN=... python3 scripts/build_data.py`
 
-旧的一次性脚本（`fetch_stars.sh`、`assign.py`、`build_dataset.py`）仅为首次整理留档。
