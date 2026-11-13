@@ -2,9 +2,8 @@
 
 FatMouse 的 GitHub Star 分类索引数据。共 **736** 个仓库、**22** 个分类，每个仓库都有一句中文简介和 2–5 个中文标签。
 
-- 数据：[`data/stars.json`](data/stars.json)（主数据）、[`data/stars.csv`](data/stars.csv)（平铺表格，UTF-8 BOM，可直接用 Excel 打开）
-- 页面：`docs/` 目录发布到 GitHub Pages → https://laoshuterry.github.io/github-stars/ （当前为占位测试页，正式页面待设计稿确认后由 RD 团队实现）
-- `docs/stars.json` 是 `data/stars.json` 的副本，供页面同源加载。
+- 数据：[`docs/stars.json`](docs/stars.json)（页面数据，由 `scripts/build_data.py` 生成）；人工整理内容在 [`data/curation.json`](data/curation.json)
+- 页面：`docs/` 目录发布到 GitHub Pages → https://laoshuterry.github.io/github-stars/
 
 ## 数据结构（stars.json）
 
